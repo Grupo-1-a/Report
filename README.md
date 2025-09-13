@@ -158,3 +158,62 @@ del ABET – EAC - Student Outcome 5.
 | Trabaja en equipo para proporcionar liderazgo en forma conjunta                                 | <ul><li><b>Kenyi Efraín Ramírez Cabrera</b><br> <b>TB1</b>:</li><li><b> </b><br> <b>TB1</b>: </li><li><b> </b><br> <b>TB1</b>: </li><li><b> </b><br> <b>TB1</b>: </li><li><b> </b><br> <b>TB1</b>: <br><b></li></ul>                                             | <ul><li><b>TB1</b>: </li></ul> |
 | Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos. | <ul><li><b>Kenyi Efraín Ramírez Cabrera</b><br> <b>TB1</b>: <br></li><li><b> </b><br> <b>TB1</b>: </li><li><b> </b><br> <b>TB1</b>: </li><li><b> </b><br> <b>TB1</b>: </li><li><b> </b><br> <b>TB1</b>:</li></ul>                                                | <ul><li><b>TB1</b>: </li></ul> |
 
+# Capitulo 1: Introducción
+
+## 1.1 Startup Profile
+
+### 1.1.1 Descripción de la Startup
+
+es una aplicación web diseñada para optimizar la gestión y el mantenimiento de equipos de refrigeración en negocios que dependen de la cadena de frío. Nuestro alcance es atender a una amplia gama de clientes, incluyendo supermercados, minimarkets, laboratorios, restaurantes y empresas de los sectores alimentario y farmacéutico. Nuestra plataforma conecta de manera fluida a estos negocios con técnicos especializados y proveedores de equipos, facilitando un enfoque integral, proactivo y automatizado para la gestión de sus sistemas de refrigeración.
+Las funcionalidades clave de la plataforma incluyen el monitoreo en tiempo real de temperatura, consumo energético y tiempo de uso. Además, ofrece alertas automáticas ante fallos, informes técnicos detallados, historiales de rendimiento y programación inteligente de mantenimientos. Estas herramientas permiten a empresas, técnicos y proveedores mejorar la eficiencia operativa, prevenir costosas pérdidas por fallos inesperados y mantener un registro completo del estado y uso de sus equipos.
+
+Misión: Queremos ofrecer una solución tecnológica inteligente que ayude a las empresas a proteger su inventario y a optimizar la gestión de sus equipos de refrigeración. Al mismo tiempo, proporcionamos herramientas especializadas para mejorar la eficiencia operativa de los técnicos y proveedores del sector.
+Visión: Ser la empresa líder en la gestión y el mantenimiento de equipos de refrigeración en el mercado peruano, comenzando por consolidar nuestra posición en Lima.
+
+### 1.1.2 Perfiles de integrantes del equipo
+
+| **Integrante**            | ** **                                         |
+|---------------------------|-----------------------------------------------|
+| **Código del Estudiante** |                                               |
+| **Carrera**               |                                               |
+| **Descripción**           |                                               |
+| **Foto**                  |  <img src="" alt="" width="200" height="200"> |
+
+---
+
+| **Integrante**              | **Kenyi Efrain Ramirez Cabrera**                                                                                                                                                                                                                                                                        |
+|-----------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Código del Estudiante**   | U202220138                                                                                                                                                                                                                                                                                              |
+| **Carrera**                 | Ingeniería de Software                                                                                                                                                                                                                                                                                  |
+| **Descripción**             | Soy Kenyi Ramirez, estudio la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas. Soy una persona comprometida y trabajadora. Poseo un nivel intermedio en los lenguajes C++, Python, Java y HTML, los cuales aplico para garantizar resultados efectivos en mis tareas. |
+| **Foto**                    | <img src="assets/chapter01/KenyiRamirez.jpeg" alt="Kenyi" width="200" height="200">                                                                                                                                                                                                                     |
+
+---
+
+| **Integrante**            | ** **                                         |
+|---------------------------|-----------------------------------------------|
+| **Código del Estudiante** |                                               |
+| **Carrera**               |                                               |
+| **Descripción**           |                                               |
+| **Foto**                  |  <img src="" alt="" width="200" height="200"> |
+
+---
+
+| **Integrante**            | ** **                                         |
+|---------------------------|-----------------------------------------------|
+| **Código del Estudiante** |                                               |
+| **Carrera**               |                                               |
+| **Descripción**           |                                               |
+| **Foto**                  |  <img src="" alt="" width="200" height="200"> |
+
+---
+
+| **Integrante**            | ** **                                         |
+|---------------------------|-----------------------------------------------|
+| **Código del Estudiante** |                                               |
+| **Carrera**               |                                               |
+| **Descripción**           |                                               |
+| **Foto**                  |  <img src="" alt="" width="200" height="200"> |
+
+---
+
