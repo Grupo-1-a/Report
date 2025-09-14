@@ -255,7 +255,7 @@ Sabremos que hemos tenido éxito cuando se reduzcan las fallas críticas, mejore
 - **Disminuir el consumo energético:** El monitoreo en tiempo real del consumo de energía permite identificar y corregir ineficiencias, lo que se traduce en ahorros significativos para los negocios.
 - **Facilitar la toma de decisiones:** Los dueños de negocios tienen acceso a datos precisos y en tiempo real sobre el rendimiento de sus equipos, lo que les permite tomar decisiones más informadas para optimizar su operación.
 
-- # User Outcomes
+# User Outcomes
 
 ## ¿Quién será nuestro usuario?
 
