@@ -365,17 +365,28 @@ Sabremos que hemos tenido éxito cuando los técnicos de servicio registren que 
 ---
 
 **Hipótesis 4: Satisfacción del Cliente**
+
 Creemos que la centralización de la gestión y la transparencia del proceso de servicio mejorarán la satisfacción de los clientes con el mantenimiento de sus equipos.
 Sabremos que hemos tenido éxito cuando obtengamos una alta puntuación promedio en las encuestas de satisfacción del cliente relacionadas con la coordinación de servicios, y recibamos testimonios que resalten la facilidad y la claridad del proceso.
 
 ---
 
 **Hipótesis 5: Retención y Valor a Largo Plazo**
+
 Creemos que la propuesta de valor de nuestra plataforma, centrada en la automatización y el ahorro, incentivará la retención a largo plazo de los clientes.
 Sabremos que hemos tenido éxito cuando la gran mayoría de nuestros clientes continúen utilizando la plataforma después de los primeros meses, y veamos que renuevan sus suscripciones de forma recurrente.
 
 
 #### 1.2.2.4 Lean UX Canvas
+
+<figure style="page-break-inside: avoid; text-align: center;">
+  <img src="assets/chapter01/lean-ux-canvas.png"
+       alt="Lean UX Canvas:"
+       style="max-width: 80%; height: auto; display: block; margin: 0 auto;">
+  <figcaption style="font-size: 0.9em; color: #555;">
+    <strong>Figura 1:</strong> Lean UX Canvas.
+  </figcaption>
+</figure>
 
 
 
