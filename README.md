@@ -172,7 +172,7 @@ Visión: Ser la empresa líder en la gestión y el mantenimiento de equipos de r
 
 ### 1.1.2 Perfiles de integrantes del equipo
 
-| **Integrante**            | ** **                                         |
+| **Integrante**            | **Alejandro Manuel Galindo Montero**          |
 |---------------------------|-----------------------------------------------|
 | **Código del Estudiante** |  u202321264                                   |
 | **Carrera**               |  Ingeniería de Software                       |
