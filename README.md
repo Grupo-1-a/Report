@@ -174,9 +174,9 @@ Visión: Ser la empresa líder en la gestión y el mantenimiento de equipos de r
 
 | **Integrante**            | ** **                                         |
 |---------------------------|-----------------------------------------------|
-| **Código del Estudiante** |                                               |
-| **Carrera**               |                                               |
-| **Descripción**           |                                               |
+| **Código del Estudiante** |  u202321264                                   |
+| **Carrera**               |  Ingeniería de Software                       |
+| **Descripción**           |   Mi nombre es Alejandro Manuel Galindo Montero, tengo 20 años y curso la carrera de Ingeniería de Software. Me considero una persona creativa y responsable. En mis tiempos libres me gusta aprender cosas nuevas. En este proyecto apoyaré con todos los conocimientos que he adquirido en los últimos años.   |
 | **Foto**                  |  <img src="" alt="" width="200" height="200"> |
 
 ---
