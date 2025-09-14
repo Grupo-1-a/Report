@@ -389,6 +389,47 @@ Sabremos que hemos tenido éxito cuando la gran mayoría de nuestros clientes co
 </figure>
 
 
+## 1.3 Segmentos objetivos
+
+**Segmento Objetivo 1: Negocios con equipos de refrigeración**
+
+**Aspectos demográficos:**
+- **Tipo de negocio:** Pequeñas, medianas y grandes empresas.
+- **Rubro:** Alimentario, farmacéutico, restauración y comercio minorista.
+- **Nivel de necesidad:** Alta dependencia de sistemas de refrigeración.
+
+**Aspectos geográficos:**
+- **Nacionalidad:** Peruana.
+- **Zona geográfica:** Urbana.
+- **Departamento:** Lima.
+
+**Aspectos psicográficos:**
+- **Motivación:** Evitar pérdidas económicas por fallas en la refrigeración y reducir costos operativos.
+- **Valores:** La eficiencia, la calidad del inventario y el control de las operaciones.
+- **Intereses:** La adopción de tecnología para optimizar la gestión y asegurar la tranquilidad en la operación diaria.
+
+---
+
+**Segmento Objetivo 2: Técnicos y empresas de mantenimiento**
+
+**Aspectos demográficos:**
+- **Tipo de negocio:** Profesionales independientes y compañías de servicio técnico.
+- **Rubro:** Mantenimiento y reparación de equipos de refrigeración.
+- **Nivel de necesidad:** Alta demanda de organización y eficiencia en sus procesos.
+
+**Aspectos geográficos:**
+- **Nacionalidad:** Peruana.
+- **Zona geográfica:** Urbana.
+- **Departamento:** Lima.
+
+**Aspectos psicográficos:**
+- **Motivación:** Incrementar la productividad, reducir el tiempo en tareas administrativas y mejorar la calidad de su servicio.
+- **Valores:** La profesionalidad, la eficiencia y la tecnología como herramienta para facilitar su trabajo.
+- **Intereses:** Contar con una plataforma que centralice la información, automatice la generación de reportes y mejore la comunicación con sus clientes.
+
+
+
+
 
 
 
