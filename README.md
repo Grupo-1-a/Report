@@ -16,7 +16,7 @@
 <ul style="list-style: none;">
   <li><h3> </h3></li>
   <li><h3>U202220138 Ramirez Cabrera Kenyi Efrain</h3></li>
-  <li><h3> </h3></li>
+  <li><h3>U202321264 Galindo Montero Alejandro Manuel </h3></li>
   <li><h3> </h3></li>
   <li><h3> </h3></li>
 </ul>
@@ -31,8 +31,8 @@
 
 | Versión | Fecha      | Autor               | Descripción de modificación                                     |
 |---------|------------|----------------------|-----------------------------------------------------------------|
-| 0.1     | 13/09/2025 | Kenyi Ramírez        | Elaboración de la estructura inicial del reporte                      |
-
+| 0.1     | 13/09/2025 | Kenyi Ramírez        | Elaboración de la estructura inicial del reporte                 |
+| 0.2     | 13/09/2025 | Alejandro Galindo    | Desarrollo del Capitulo 1                                       |
 
 
 ## Project Report Collaboration Insights *(POR MODIFICAR POR CADA ENTREGA)
