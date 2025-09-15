@@ -1,5 +1,5 @@
 <h2 align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png" alt="logo-upc" width="200px" height="200px" align="center">
+  <img src="assets/chapter01/upc.png" alt="Kenyi" width="200" height="200">
 </h2>
 
 <h1 align="center">Universidad Peruana de Ciencias Aplicadas</h1>
@@ -180,46 +180,46 @@ Visión: Ser la empresa líder en la gestión y el mantenimiento de equipos de r
 
 <div align="center">
 
-| **Integrante**            | ** **                                         |
-|---------------------------|-----------------------------------------------|
-| **Código del Estudiante** |                                               |
-| **Carrera**               |                                               |
-| **Descripción**           |                                               |
-| **Foto**                  |  <img src="" alt="" width="200" height="200"> |
+| **Integrante**            | **Galindo Montero Alejandro Manuel**                                                |
+|---------------------------|-------------------------------------------------------------------------------------|
+| **Código del Estudiante** |                                                                                     |
+| **Carrera**               |                                                                                     |
+| **Descripción**           |                                                                                     |
+| **Foto**                  |  <img src="" alt="" width="200" height="200">                                       |
 
 ---
 
-| **Integrante**            | ** **                                         |
-|---------------------------|-----------------------------------------------|
-| **Código del Estudiante** | u20241a352                                    |
-| **Carrera**               | Ingeniería de Software                        |
+| **Integrante**            | **Guillen Galindo Julio Adolfo**                                                    |
+|---------------------------|-------------------------------------------------------------------------------------|
+| **Código del Estudiante** | u20241a352                                                                          |
+| **Carrera**               | Ingeniería de Software                                                              |
 | **Descripción**           | Actualmente curso la carrera de Ingeniería de Software en la UPC. Me considero una persona discreta, pero responsable y enfocada en cumplir los proyectos dentro de los plazos establecidos. Poseo conocimientos en C++ y Python; disfruto trabajar en equipo cuando existe colaboración y apoyo mutuo. Además, me motiva aplicar lo aprendido para afrontar los desafíos que puedan surgir en los próximos ciclos. |
-| **Foto**                  |  <img src="" alt="" width="200" height="200"> |
+| **Foto**                  | <img src="assets/chapter01/julio_logo.jpg" alt="Julio" width="200" height="200"> |
 
 ---
 
-| **Integrante**            | ** **                                         |
-|---------------------------|-----------------------------------------------|
-| **Código del Estudiante** |                                               |
-| **Carrera**               |                                               |
-| **Descripción**           |                                               |
-| **Foto**                  |  <img src="" alt="" width="200" height="200"> |
+| **Integrante**            | **La Madrid Lozano, Ivan Jeanpierre**                                               |
+|---------------------------|-------------------------------------------------------------------------------------|
+| **Código del Estudiante** |                                                                                     |
+| **Carrera**               |                                                                                     |
+| **Descripción**           |                                                                                     |
+| **Foto**                  |  <img src="" alt="" width="200" height="200">                                       |
 
 ---
 
-| **Integrante**            | ** **                                         |
-|---------------------------|-----------------------------------------------|
-| **Código del Estudiante** |                                               |
-| **Carrera**               |                                               |
-| **Descripción**           |                                               |
-| **Foto**                  |  <img src="" alt="" width="200" height="200"> |
+| **Integrante**            | **Nanfuñay Liza, Pedro Jesus**                                                      |
+|---------------------------|-------------------------------------------------------------------------------------|
+| **Código del Estudiante** |                                                                                     |
+| **Carrera**               |                                                                                     |
+| **Descripción**           |                                                                                     |
+| **Foto**                  |  <img src="" alt="" width="200" height="200">                                       |
 
 ---
 
-| **Integrante**            | **Kenyi Efrain Ramirez Cabrera**              |
-|---------------------------|-----------------------------------------------|
-| **Código del Estudiante** | u202220138                                    |
-| **Carrera**               | Ingeniería de Software                        |
+| **Integrante**            | **Kenyi Efrain Ramirez Cabrera**                                                    |
+|---------------------------|-------------------------------------------------------------------------------------|
+| **Código del Estudiante** | u202220138                                                                          |
+| **Carrera**               | Ingeniería de Software                                                              |
 | **Descripción**           | Soy Kenyi Ramirez, estudio la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas. Soy una persona comprometida y trabajadora. Poseo un nivel intermedio en los lenguajes C++, Python, Java y HTML, los cuales aplico para garantizar resultados efectivos en mis tareas. |
 | **Foto**                  | <img src="assets/chapter01/KenyiRamirez.jpeg" alt="Kenyi" width="200" height="200"> |
 
