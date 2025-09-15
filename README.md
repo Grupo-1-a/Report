@@ -1,39 +1,52 @@
-<div align = "center">
- <h1>Universidad Peruana de Ciencias Aplicadas</h1>
- <img style="height: 200px" src=https://seeklogo.com/images/U/universidad-peruana-de-ciencias-aplicadas-upc-logo-B98C3A365C-seeklogo.com.png>
-  <h2>Carrera: Ingeniería de Software</h2>
-  <h2>Ciclo: 2025-20</h2>
-<br>
-  <h2>Curso: 1ASI0730 Aplicaciones Web</h2>
-  <h2>Sección: 7452</h2>
-  <h2>Profesor: Hugo Allan Mori Paiva</h2>
-<br>
- <h1>Informe TB1</h1>
-  <h2>Startup: </h2>
-  <h2>Producto: </h2>
-<br>
-  <h2>Integrantes</h2>
-<ul style="list-style: none;">
-  <li><h3> </h3></li>
-  <li><h3>U202220138 Ramirez Cabrera Kenyi Efrain</h3></li>
-  <li><h3> </h3></li>
-  <li><h3> </h3></li>
-  <li><h3> </h3></li>
-</ul>
-<br>
-   <h3>Setiembre 2025</h3>
+<h2 align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png" alt="logo-upc" width="200px" height="200px" align="center">
+</h2>
+
+<h1 align="center">Universidad Peruana de Ciencias Aplicadas</h1>
+
+<h3 align="center">
+   Carrera: Ingeniería de Software
+    <br> <br>
+    Curso: SI729 - Aplicaciones Web 
+    <br> <br>
+    Sección: 7452
+    <br> <br>
+    Profesor: Hugo Allan Mori Paiva
+    <br> <br>
+    Ciclo: 2025-20 
+    <br> <br>
+    Informe de Trabajo Final
+    <br> <br>
+    Startup: 
+    <br> <br>
+    Producto: 
+</h3>
+
+<div align="center">
+ 
+| <div style="width:500px">Alumno</div> | <div style="width:200px">Código</div> |
+|:-------------------------------------:|:-------------------------------------:|
+|   Galindo Montero, Alejandro Manuel   |              u202321264               |
+|     Guillen Galindo, Julio Adolfo     |              u20241a352               |
+|   La Madrid Lozano, Ivan Jeanpierre   |              u202113432               |
+|       Nanfuñay Liza, Pedro Jesus      |              u202215462               |
+|     Ramirez Cabrera, Kenyi Efrain     |              u202220138               |
 
 </div>
 
+<div align="center"> Septiembre 2025 </div>
+
+<hr>
 
 ## Registro de Versiones del Informe
 
+<div align="center">
 
-| Versión | Fecha      | Autor               | Descripción de modificación                                     |
+| Versión |   Fecha    |        Autor         |                   Descripción de modificación                   |
 |---------|------------|----------------------|-----------------------------------------------------------------|
-| 0.1     | 13/09/2025 | Kenyi Ramírez        | Elaboración de la estructura inicial del reporte                      |
+| 0.1     | 13/09/2025 | Kenyi Ramírez        | Elaboración de la estructura inicial del reporte                |
 
-
+</div>
 
 ## Project Report Collaboration Insights *(POR MODIFICAR POR CADA ENTREGA)
 - **URL de la organización del proyecto:**  
@@ -50,7 +63,7 @@
 
 - [Student Outcome](#student-outcome)
 
-- [Capítulo I: Introducción](#c1)
+- [Capítulo I: Introducción](#capítulo-i-introducción)
     - [1.1. Startup Profile](#11-startup-profile)
         - [1.1.1. Descripción de la Startup](#111-descripción-de-la-startup)
         - [1.1.2. Perfiles de integrantes del equipo](#112-perfiles-de-integrantes-del-equipo)
@@ -61,9 +74,9 @@
             - [1.2.2.2. Lean UX Assumptions](#1222-lean-ux-assumptions)
             - [1.2.2.3. Lean UX Hypothesis Statements](#1223-lean-ux-hypothesis-statements)
             - [1.2.2.4. Lean UX Canvas](#1224-lean-ux-canvas)
-    - [1.3. Segmentos objetivo](#13-segmentos-objetivo)
+    - [1.3. Segmentos Objetivos](#13-segmentos-objetivos)
 
-- [Capítulo II: Requirements Elicitation & Analysis](#c2)
+- [Capítulo II: Requirements Elicitation & Analysis](#capítulo-ii-requirements-elicitation--analysis)
     - [2.1. Competidores](#21-competidores)
         - [2.1.1. Análisis competitivo](#211-análisis-competitivo)
         - [2.1.2. Estrategias y tácticas frente a competidores](#212-estrategias-y-tácticas-frente-a-competidores)
@@ -79,16 +92,13 @@
     - [2.4. Big Picture EventStorming](#24-big-picture-eventstorming)
     - [2.5. Ubiquitous Language](#25-ubiquitous-language)
 
-
-
-- [Capítulo III: Requirements Specification](#c3)
+- [Capítulo III: Requirements Specification](#capítulo-iii-requirements-specification)
     - [3.1. To-Be Scenario Mapping](#31-to-be-scenario-mapping)
     - [3.2. User Stories](#32-user-stories)
     - [3.3. Impact Mapping](#33-impact-mapping)
     - [3.4. Product Backlog](#34-product-backlog)
-
-
-- [Capítulo IV: Product Design](#c4)
+      
+- [Capítulo IV: Product Design](#capítulo-iv-product-design)
     - [4.1. Style Guidelines](#41-style-guidelines)
         - [4.1.1. General Style Guidelines](#411-general-style-guidelines)
         - [4.1.2. Web Style Guidelines](#412-web-style-guidelines)
@@ -118,7 +128,7 @@
         - [4.8.1. Database Diagrams](#481-database-diagrams)
 
 
-- [Capítulo V: Product Implementation, Validation & Deployment](#c5)
+- [Capítulo V: Product Implementation, Validation & Deployment](#capítulo-v-product-implementation-validation--deployment)
     - [5.1. Software Configuration Management](#51-software-configuration-management)
         - [5.1.1. Software Development Environment Configuration](#511-software-development-environment-configuration)
         - [5.1.2. Source Code Management](#512-source-code-management)
@@ -145,20 +155,16 @@ El curso contribuye al cumplimiento del Student Outcome ABET:
 
 **ABET – EAC - Student Outcome 5**
 
-**Criterio**: *La capacidad de funcionar efectivamente en un equipo cuyos miembros
-juntos proporcionan liderazgo, crean un entorno de colaboración e inclusivo,
-establecen objetivos, planifican tareas y cumplen objetivos.*
+**Criterio**: *La capacidad de funcionar efectivamente en un equipo cuyos miembros juntos proporcionan liderazgo, crean un entorno de colaboración e inclusivo, establecen objetivos, planifican tareas y cumplen objetivos.*
 
-En el siguiente cuadro se describe las acciones realizadas y enunciados de
-conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro
-del ABET – EAC - Student Outcome 5.
+En el siguiente cuadro se describe las acciones realizadas y enunciados de conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro del ABET – EAC - Student Outcome 5.
 
 | Criterio específico | Acciones realizadas | Conclusiones |
 |---------------------|--------------------|--------------|
-| Trabaja en equipo para proporcionar liderazgo en forma conjunta                                 | <ul><li><b>Kenyi Efraín Ramírez Cabrera</b><br> <b>TB1</b>:</li><li><b> </b><br> <b>TB1</b>: </li><li><b> </b><br> <b>TB1</b>: </li><li><b> </b><br> <b>TB1</b>: </li><li><b> </b><br> <b>TB1</b>: <br><b></li></ul>                                             | <ul><li><b>TB1</b>: </li></ul> |
-| Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos. | <ul><li><b>Kenyi Efraín Ramírez Cabrera</b><br> <b>TB1</b>: <br></li><li><b> </b><br> <b>TB1</b>: </li><li><b> </b><br> <b>TB1</b>: </li><li><b> </b><br> <b>TB1</b>: </li><li><b> </b><br> <b>TB1</b>:</li></ul>                                                | <ul><li><b>TB1</b>: </li></ul> |
+| Trabaja en equipo para proporcionar liderazgo en forma conjunta                                 | <ul><li><b>Galindo Montero, Alejandro Manuel</b><br><b>TB1</b>:</li> <li><b>Guillen Galindo, Julio Adolfo</b><br><b>TB1</b>:</li> <li><b>La Madrid Lozano, Ivan Jeanpierre</b><br><b>TB1</b>:</li> <li><b>Nanfuñay Liza, Pedro Jesus</b><br><b>TB1</b>:</li> <li><b>Ramirez Cabrera, Kenyi Efrain</b><br><b>TB1</b>:<br><b></li></ul>        | <ul><li><b>TB1</b>: </li></ul> |
+| Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos. | <ul><li><b>Galindo Montero, Alejandro Manuel</b><br><b>TB1</b>:</li> <li><b>Guillen Galindo, Julio Adolfo</b><br><b>TB1</b>:</li> <li><b>La Madrid Lozano, Ivan Jeanpierre</b><br><b>TB1</b>:</li> <li><b>Nanfuñay Liza, Pedro Jesus</b><br><b>TB1</b>:</li> <li><b>Ramirez Cabrera, Kenyi Efrain</b><br><b>TB1</b>:<br><b></li></ul>        | <ul><li><b>TB1</b>: </li></ul> |
 
-# Capitulo 1: Introducción
+# Capítulo I: Introducción 
 
 ## 1.1 Startup Profile
 
@@ -172,6 +178,8 @@ Visión: Ser la empresa líder en la gestión y el mantenimiento de equipos de r
 
 ### 1.1.2 Perfiles de integrantes del equipo
 
+<div align="center">
+
 | **Integrante**            | ** **                                         |
 |---------------------------|-----------------------------------------------|
 | **Código del Estudiante** |                                               |
@@ -181,20 +189,11 @@ Visión: Ser la empresa líder en la gestión y el mantenimiento de equipos de r
 
 ---
 
-| **Integrante**              | **Kenyi Efrain Ramirez Cabrera**                                                                                                                                                                                                                                                                        |
-|-----------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Código del Estudiante**   | U202220138                                                                                                                                                                                                                                                                                              |
-| **Carrera**                 | Ingeniería de Software                                                                                                                                                                                                                                                                                  |
-| **Descripción**             | Soy Kenyi Ramirez, estudio la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas. Soy una persona comprometida y trabajadora. Poseo un nivel intermedio en los lenguajes C++, Python, Java y HTML, los cuales aplico para garantizar resultados efectivos en mis tareas. |
-| **Foto**                    | <img src="assets/chapter01/KenyiRamirez.jpeg" alt="Kenyi" width="200" height="200">                                                                                                                                                                                                                     |
-
----
-
 | **Integrante**            | ** **                                         |
 |---------------------------|-----------------------------------------------|
-| **Código del Estudiante** |                                               |
-| **Carrera**               |                                               |
-| **Descripción**           |                                               |
+| **Código del Estudiante** | u20241a352                                    |
+| **Carrera**               | Ingeniería de Software                        |
+| **Descripción**           | Actualmente curso la carrera de Ingeniería de Software en la UPC. Me considero una persona discreta, pero responsable y enfocada en cumplir los proyectos dentro de los plazos establecidos. Poseo conocimientos en C++ y Python; disfruto trabajar en equipo cuando existe colaboración y apoyo mutuo. Además, me motiva aplicar lo aprendido para afrontar los desafíos que puedan surgir en los próximos ciclos. |
 | **Foto**                  |  <img src="" alt="" width="200" height="200"> |
 
 ---
@@ -217,3 +216,155 @@ Visión: Ser la empresa líder en la gestión y el mantenimiento de equipos de r
 
 ---
 
+| **Integrante**            | **Kenyi Efrain Ramirez Cabrera**              |
+|---------------------------|-----------------------------------------------|
+| **Código del Estudiante** | u202220138                                    |
+| **Carrera**               | Ingeniería de Software                        |
+| **Descripción**           | Soy Kenyi Ramirez, estudio la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas. Soy una persona comprometida y trabajadora. Poseo un nivel intermedio en los lenguajes C++, Python, Java y HTML, los cuales aplico para garantizar resultados efectivos en mis tareas. |
+| **Foto**                  | <img src="assets/chapter01/KenyiRamirez.jpeg" alt="Kenyi" width="200" height="200"> |
+
+</div>
+
+## 1.2. Solution Profile
+
+### 1.2.1. Antecedentes y problemática
+
+### 1.2.2. Lean UX Process
+
+#### 1.2.2.1. Lean UX Problem Statements
+
+#### 1.2.2.2. Lean UX Assumptions
+
+#### 1.2.2.3. Lean UX Hypothesis Statements
+
+#### 1.2.2.4. Lean UX Canvas
+
+## 1.3. Segmentos Objetivos
+
+# Capítulo II: Requirements Elicitation & Analysis
+
+## 2.1. Competidores
+
+### 2.1.1. Análisis competitivo
+
+### 2.1.2. Estrategias y tácticas frente a competidores
+
+## 2.2. Entrevistas
+
+### 2.2.1. Diseño de entrevistas
+
+### 2.2.2. Registro de entrevistas
+
+### 2.2.3. Análisis de entrevistas
+
+## 2.3. Needfinding
+
+### 2.3.1. User Personas
+
+### 2.3.2. User Task Matrix
+
+### 2.3.3. User Journey Mapping
+
+### 2.3.4. Empathy Mapping
+
+## 2.4. Big Picture EventStorming
+
+## 2.5. Ubiquitous Language
+
+# Capítulo III: Requirements Specification
+
+## 3.1. To-Be Scenario Mapping
+
+## 3.2. User Stories
+
+## 3.3. Impact Mapping
+
+## 3.4. Product Backlog
+
+# Capítulo IV: Product Design
+
+## 4.1. Style Guidelines
+
+### 4.1.1. General Style Guidelines
+
+### 4.1.2. Web Style Guidelines
+
+## 4.2. Information Architecture
+
+### 4.2.1. Organization Systems
+
+### 4.2.2. Labeling Systems
+
+### 4.2.3. SEO Tags and Meta Tags
+
+### 4.2.4. Searching Systems
+
+### 4.2.5. Navigation Systems
+
+## 4.3. Landing Page UI Design
+
+### 4.3.1. Landing Page Wireframe
+
+### 4.3.2. Landing Page Mock-up
+
+## 4.4. Web Applications UX/UI Design
+
+### 4.4.1. Web Applications Wireframes
+
+### 4.4.2. Web Applications Wireflow Diagrams
+
+### 4.4.3. Web Applications Mock-ups
+
+### 4.4.4. Web Applications User Flow Diagrams
+
+## 4.5. Web Applications Prototyping
+
+## 4.6. Domain-Driven Software Architecture
+
+### 4.6.1. Design-Level EventStorming
+
+### 4.6.2. Software Architecture Context Diagram
+
+### 4.6.3. Software Architecture Container Diagrams
+
+### 4.6.4. Software Architecture Components Diagrams
+
+## 4.7. Software Object-Oriented Design
+
+### 4.7.1. Class Diagrams
+
+## 4.8. Database Design
+
+### 4.8.1. Database Diagrams
+
+# Capítulo V: Product Implementation, Validation & Deployment
+
+## 5.1. Software Configuration Management
+
+### 5.1.1. Software Development Environment Configuration
+
+### 5.1.2. Source Code Management
+
+### 5.1.3. Source Code Style Guide & Conventions
+
+### 5.1.4. Software Deployment Configuration
+
+## 5.2. Landing Page, Services & Applications Implementation
+
+### 5.2.X. Sprint n
+
+#### 5.2.X.1. Sprint Planning n
+
+#### 5.2.X.2. Aspect Leaders and Collaborators
+
+#### 5.2.X.3. Sprint Backlog n
+
+#### 5.2.X.4. Development Evidence for Sprint Review
+
+#### 5.2.X.5. Execution Evidence for Sprint Review
+
+#### 5.2.X.6. Services Documentation Evidence for Sprint Review
+
+#### 5.2.X.7. Software Deployment Evidence for Sprint Review
+
+#### 5.2.X.8. Team Collaboration Insights during Sprint
