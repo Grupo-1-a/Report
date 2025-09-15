@@ -13,13 +13,17 @@
   <h2>Producto: </h2>
 <br>
   <h2>Integrantes</h2>
-<ul style="list-style: none;">
-  <li><h3> </h3></li>
-  <li><h3>U202220138 Ramirez Cabrera Kenyi Efrain</h3></li>
-  <li><h3>U202321264 Galindo Montero Alejandro Manuel </h3></li>
-  <li><h3> </h3></li>
-  <li><h3> </h3></li>
-</ul>
+<div align="center">
+
+| <div style="width:500px">Alumno</div> | <div style="width:200px">Código</div> |
+|:-------------------------------------:|:-------------------------------------:|
+|   Galindo Montero, Alejandro Manuel   |              u202321264               |
+|     Guillen Galindo, Julio Adolfo     |              u20241a352               |
+|   La Madrid Lozano, Ivan Jeanpierre   |              u202113432               |
+|       Nanfuñay Liza, Pedro Jesus      |              u202215462               |
+|     Ramirez Cabrera, Kenyi Efrain     |              u202220138               |
+
+</div>
 <br>
    <h3>Setiembre 2025</h3>
 
@@ -172,7 +176,9 @@ Visión: Ser la empresa líder en la gestión y el mantenimiento de equipos de r
 
 ### 1.1.2 Perfiles de integrantes del equipo
 
-| **Integrante**            | **Alejandro Manuel Galindo Montero**          |
+<div align="center">
+
+| **Integrante**            | **Galindo Montero Alejandro Manuel**          |
 |---------------------------|-----------------------------------------------|
 | **Código del Estudiante** |  u202321264                                   |
 | **Carrera**               |  Ingeniería de Software                       |
@@ -181,41 +187,42 @@ Visión: Ser la empresa líder en la gestión y el mantenimiento de equipos de r
 
 ---
 
-| **Integrante**              | **Kenyi Efrain Ramirez Cabrera**                                                                                                                                                                                                                                                                        |
-|-----------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Código del Estudiante**   | U202220138                                                                                                                                                                                                                                                                                              |
-| **Carrera**                 | Ingeniería de Software                                                                                                                                                                                                                                                                                  |
-| **Descripción**             | Soy Kenyi Ramirez, estudio la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas. Soy una persona comprometida y trabajadora. Poseo un nivel intermedio en los lenguajes C++, Python, Java y HTML, los cuales aplico para garantizar resultados efectivos en mis tareas. |
-| **Foto**                    | <img src="assets/chapter01/KenyiRamirez.jpeg" alt="Kenyi" width="200" height="200">                                                                                                                                                                                                                     |
+| **Integrante**            | **Guillen Galindo Julio Adolfo**                                                    |
+|---------------------------|-------------------------------------------------------------------------------------|
+| **Código del Estudiante** | u20241a352                                                                          |
+| **Carrera**               | Ingeniería de Software                                                              |
+| **Descripción**           | Actualmente curso la carrera de Ingeniería de Software en la UPC. Me considero una persona discreta, pero responsable y enfocada en cumplir los proyectos dentro de los plazos establecidos. Poseo conocimientos en C++ y Python; disfruto trabajar en equipo cuando existe colaboración y apoyo mutuo. Además, me motiva aplicar lo aprendido para afrontar los desafíos que puedan surgir en los próximos ciclos. |
+| **Foto**                  | <img src="assets/chapter01/julio_logo.jpg" alt="Julio" width="200" height="200"> |
 
 ---
 
-| **Integrante**            | ** **                                         |
-|---------------------------|-----------------------------------------------|
-| **Código del Estudiante** |                                               |
-| **Carrera**               |                                               |
-| **Descripción**           |                                               |
-| **Foto**                  |  <img src="" alt="" width="200" height="200"> |
+| **Integrante**            | **La Madrid Lozano, Ivan Jeanpierre**                                               |
+|---------------------------|-------------------------------------------------------------------------------------|
+| **Código del Estudiante** |                                                                                     |
+| **Carrera**               |                                                                                     |
+| **Descripción**           |                                                                                     |
+| **Foto**                  |  <img src="" alt="" width="200" height="200">                                       |
 
 ---
 
-| **Integrante**            | ** **                                         |
-|---------------------------|-----------------------------------------------|
-| **Código del Estudiante** |                                               |
-| **Carrera**               |                                               |
-| **Descripción**           |                                               |
-| **Foto**                  |  <img src="" alt="" width="200" height="200"> |
+| **Integrante**            | **Nanfuñay Liza, Pedro Jesus**                                                      |
+|---------------------------|-------------------------------------------------------------------------------------|
+| **Código del Estudiante** |                                                                                     |
+| **Carrera**               |                                                                                     |
+| **Descripción**           |                                                                                     |
+| **Foto**                  |  <img src="" alt="" width="200" height="200">                                       |
 
 ---
 
-| **Integrante**            | ** **                                         |
-|---------------------------|-----------------------------------------------|
-| **Código del Estudiante** |                                               |
-| **Carrera**               |                                               |
-| **Descripción**           |                                               |
-| **Foto**                  |  <img src="" alt="" width="200" height="200"> |
+| **Integrante**            | **Kenyi Efrain Ramirez Cabrera**                                                    |
+|---------------------------|-------------------------------------------------------------------------------------|
+| **Código del Estudiante** | u202220138                                                                          |
+| **Carrera**               | Ingeniería de Software                                                              |
+| **Descripción**           | Soy Kenyi Ramirez, estudio la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas. Soy una persona comprometida y trabajadora. Poseo un nivel intermedio en los lenguajes C++, Python, Java y HTML, los cuales aplico para garantizar resultados efectivos en mis tareas. |
+| **Foto**                  | <img src="assets/chapter01/KenyiRamirez.jpeg" alt="Kenyi" width="200" height="200"> |
 
----
+</div>
+
 ## 1.2 Solution Profile
 
 ### 1.2.1 Antecedentes y Problematica
@@ -428,6 +435,133 @@ Sabremos que hemos tenido éxito cuando la gran mayoría de nuestros clientes co
 - **Intereses:** Contar con una plataforma que centralice la información, automatice la generación de reportes y mejore la comunicación con sus clientes.
 
 
+# Capítulo II: Requirements Elicitation & Analysis
+
+## 2.1. Competidores
+
+### 2.1.1. Análisis competitivo
+
+### 2.1.2. Estrategias y tácticas frente a competidores
+
+## 2.2. Entrevistas
+
+### 2.2.1. Diseño de entrevistas
+
+### 2.2.2. Registro de entrevistas
+
+### 2.2.3. Análisis de entrevistas
+
+## 2.3. Needfinding
+
+### 2.3.1. User Personas
+
+### 2.3.2. User Task Matrix
+
+### 2.3.3. User Journey Mapping
+
+### 2.3.4. Empathy Mapping
+
+## 2.4. Big Picture EventStorming
+
+## 2.5. Ubiquitous Language
+
+# Capítulo III: Requirements Specification
+
+## 3.1. To-Be Scenario Mapping
+
+## 3.2. User Stories
+
+## 3.3. Impact Mapping
+
+## 3.4. Product Backlog
+
+# Capítulo IV: Product Design
+
+## 4.1. Style Guidelines
+
+### 4.1.1. General Style Guidelines
+
+### 4.1.2. Web Style Guidelines
+
+## 4.2. Information Architecture
+
+### 4.2.1. Organization Systems
+
+### 4.2.2. Labeling Systems
+
+### 4.2.3. SEO Tags and Meta Tags
+
+### 4.2.4. Searching Systems
+
+### 4.2.5. Navigation Systems
+
+## 4.3. Landing Page UI Design
+
+### 4.3.1. Landing Page Wireframe
+
+### 4.3.2. Landing Page Mock-up
+
+## 4.4. Web Applications UX/UI Design
+
+### 4.4.1. Web Applications Wireframes
+
+### 4.4.2. Web Applications Wireflow Diagrams
+
+### 4.4.3. Web Applications Mock-ups
+
+### 4.4.4. Web Applications User Flow Diagrams
+
+## 4.5. Web Applications Prototyping
+
+## 4.6. Domain-Driven Software Architecture
+
+### 4.6.1. Design-Level EventStorming
+
+### 4.6.2. Software Architecture Context Diagram
+
+### 4.6.3. Software Architecture Container Diagrams
+
+### 4.6.4. Software Architecture Components Diagrams
+
+## 4.7. Software Object-Oriented Design
+
+### 4.7.1. Class Diagrams
+
+## 4.8. Database Design
+
+### 4.8.1. Database Diagrams
+
+# Capítulo V: Product Implementation, Validation & Deployment
+
+## 5.1. Software Configuration Management
+
+### 5.1.1. Software Development Environment Configuration
+
+### 5.1.2. Source Code Management
+
+### 5.1.3. Source Code Style Guide & Conventions
+
+### 5.1.4. Software Deployment Configuration
+
+## 5.2. Landing Page, Services & Applications Implementation
+
+### 5.2.1. Sprint 1
+
+#### 5.2.1.1. Sprint Planning 1
+
+#### 5.2.1.2. Aspect Leaders and Collaborators
+
+#### 5.2.1.3. Sprint Backlog n
+
+#### 5.2.1.4. Development Evidence for Sprint Review
+
+#### 5.2.1.5. Execution Evidence for Sprint Review
+
+#### 5.2.1.6. Services Documentation Evidence for Sprint Review
+
+#### 5.2.1.7. Software Deployment Evidence for Sprint Review
+
+#### 5.2.1.8. Team Collaboration Insights during Sprint
 
 
 
