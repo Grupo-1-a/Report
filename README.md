@@ -531,7 +531,9 @@ El uso balanceado de estos tonos asegura que la información clave sea rápidame
 
 En cuanto a la tipografía, dado que IceTrack se orienta a la gestión técnica y empresarial, optamos por una fuente clara y contemporánea, como el Inter, que refuerza la legibilidad de dashboards y reportes. Los tamaños son medianos a grandes para asegurar claridad en datos críticos, mientras que los títulos y botones aplican variaciones de peso y tamaño para resaltar lo más importante en cada sección.
 
-  <img src="assets/chapter01/Colors.png" alt="colors.png">
+  <div align="center">
+    <img src="assets/chapter01/WSG_Colors.png" alt="colors.png" width="250" height="500">
+  </div>
 
 - Tipografía:
 Se respetará la relación tipográfica establecida en los General Style Guidelines.
