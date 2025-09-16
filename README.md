@@ -1,6 +1,6 @@
 <div align = "center">
  <h1>Universidad Peruana de Ciencias Aplicadas</h1>
- <img style="height: 200px" src=https://seeklogo.com/images/U/universidad-peruana-de-ciencias-aplicadas-upc-logo-B98C3A365C-seeklogo.com.png>
+ <img style="height: 200px" src="assets/chapter01/upc.png">
   <h2>Carrera: Ingeniería de Software</h2>
   <h2>Ciclo: 2025-20</h2>
 <br>
@@ -478,10 +478,98 @@ Sabremos que hemos tenido éxito cuando la gran mayoría de nuestros clientes co
 # Capítulo IV: Product Design
 
 ## 4.1. Style Guidelines
+El diseño del logo de IceTrack busca transmitir los conceptos de protección, tecnología y monitoreo constante. Se eligió como elemento central un escudo estilizado con un copo de nieve integrado, simbolizando la protección de la cadena de frío. El escudo representa confianza y seguridad, mientras que el copo de nieve refleja el enfoque en la refrigeración. De manera complementaria, las líneas suaves y geométricas refuerzan la idea de precisión, estabilidad y eficiencia tecnológica.
 
 ### 4.1.1. General Style Guidelines
+- Branding:
+(En proceso...)
+
+- Typography:
+La tipografía seleccionada es Roboto Serif, por su claridad, legibilidad y llamativa, ideal para interfaces digitales enfocadas en datos técnicos. Para el cuerpo de texto, se utiliza Inter 14px con un interlineado de 1.5, garantizando una lectura fluida. Los tamaños se adaptan en contexto web según la jerarquía: títulos, subtítulos y párrafos.
+   - Escala:
+    <figure style="page-break-inside: avoid; text-align: center;">
+      <img src="assets/chapter01/Escala.png" alt="escala">
+    </figure>
+    
+   - Weights:
+    <img src="assets/chapter01/Weights.png" alt="weights">
+    
+   - Nomenclatura:
+    <img src="assets/chapter01/Nomenclatura.png" alt="nomenclatura">
+    
+   - Example:
+    <img src="assets/chapter01/Example.png" alt="example">
+  
+- Colors:
+La paleta de colores de IceTrack prioriza la tecnología, frescura y acción. El celeste transmite frescura, usado para botones y acentos principales. El rojo, asociado con la energía y acción. Este color incrementa la sensación de emergencia, siendo ideal para captar la atención de manera inmediata. Gris oscuro/azulado (Deep Navy): aporta seriedad y profesionalismo, usado en textos y fondos secundarios. El gris claro aporta seriedad, usado en fondos. Por ultimo, el azul oscuro transmite estabilidad y tecnología. Es el color base de botones o avisoos.
+
+- Spacing:
+El espaciado está diseñado para ofrecer una experiencia clara y ordenada, facilitando la lectura de datos técnicos y alertas:
+  - Entre secciones principales: mínimo 20px para marcar el cambio de contexto.
+  - Entre encabezados y párrafos: 16px para reforzar jerarquía visual.
+  - Entre párrafos consecutivos: 14px para mantener continuidad y evitar bloques densos.
+  - Espaciado de botones e inputs: mínimo 10px entre elementos para garantizar usabilidad.
+
+- Tono de comunicación:
+IceTrack transmite profesionalismo, confianza y proactividad, claves para un sistema que protege inventarios y garantiza la continuidad operativa:
+  - Profesional y técnico, de modo que sea comprensible para empresas, técnicos y proveedores.
+  - Preventivo y confiable, orientado a la acción rápida sin generar alarma innecesaria.
+  - Empático y cercano, resaltando que IceTrack está diseñado para apoyar y facilitar el trabajo, no para complicarlo.
+
+- Lenguaje aplicado:
+  - Claro y directo, evitando tecnicismos complejos cuando no son necesarios.
+  - Orientado a la acción, con instrucciones breves y fáciles de seguir.
+  - Consistente en terminología técnica, garantizando coherencia en alertas, reportes y documentación.
 
 ### 4.1.2. Web Style Guidelines
+Elegimos la paleta basada en azules, rojo blanco y negro, porque queremos representar los valores de tecnología, confianza y alerta crítica. El azul oscuro transmite estabilidad y profesionalismo, siendo el color principal de fondos y tipografías. El azul claro simboliza frescura, innovación y eficiencia, usado en botones y elementos interactivos. El rojo se reserva para alertas y notificaciones, comunicando de manera inmediata fallas o eventos críticos en los equipos de refrigeración.
+
+El uso balanceado de estos tonos asegura que la información clave sea rápidamente perceptible sin perder sobriedad visual. Los contrastes se aplican estratégicamente para mantener un diseño ordenado, moderno y fácil de interpretar en cualquier dispositivo.
+
+En cuanto a la tipografía, dado que IceTrack se orienta a la gestión técnica y empresarial, optamos por una fuente clara y contemporánea, como el Inter, que refuerza la legibilidad de dashboards y reportes. Los tamaños son medianos a grandes para asegurar claridad en datos críticos, mientras que los títulos y botones aplican variaciones de peso y tamaño para resaltar lo más importante en cada sección.
+
+  <img src="assets/chapter01/Colors.png" alt="colors.png">
+
+- Tipografía:
+Se respetará la relación tipográfica establecida en los General Style Guidelines.
+
+- Responsive Design Standards:
+IceTrack está diseñado como una aplicación mobile-first, adaptándose fluidamente a distintos dispositivos:
+
+  - Mobile (360px – 768px)
+    - Navegación tipo hamburguesa.
+    - Cards apiladas en columna.
+    - Botones grandes y legibles.
+
+  - Tablet (769px – 1024px)
+    - Layout en 2 columnas.
+    - Menú lateral colapsable.
+
+  - Desktop (1025px en adelante)
+    - Menú principal siempre visible.
+    - Layout de 3 columnas en dashboards y secciones de métricas.
+
+- Interactivity
+  - Botones:
+    - Bordes redondeados en 12px.
+    - Hover: cambio de fondo a azul claro o sombra suave.
+    - Feedback claro al una animación sutil.
+
+  - Transiciones y animaciones:
+    - Duración: 200–300ms.
+    - Curva: ease-in-out.
+
+- Accessibility
+  - Todo ícono debe tener alternativa textual (aria-label o alt).
+  - Navegación totalmente compatible con teclado (Tab, Enter, Esc).
+  - Fuente mínima: 16px para garantizar legibilidad.
+  - Colores con contraste suficiente para cumplir con WCAG AA.
+
+- UI Consistency
+  - Iconografía uniforme, estilo outline con grosor consistente.
+  - Botones y formularios con la misma geometría y espaciado.
+  - Uso consistente de colores: azul para acciones, rojo solo para alertas.
+  - Estándar de espaciado basado en múltiplos de 8px para mantener ritmo visual.
 
 ## 4.2. Information Architecture
 
@@ -500,6 +588,8 @@ Sabremos que hemos tenido éxito cuando la gran mayoría de nuestros clientes co
 ### 4.3.1. Landing Page Wireframe
 
 ### 4.3.2. Landing Page Mock-up
+
+--- Julio ---
 
 ## 4.4. Web Applications UX/UI Design
 
