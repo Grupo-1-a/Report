@@ -13,8 +13,9 @@
   <h2>Producto: </h2>
 <br>
   <h2>Integrantes</h2>
+ 
 <div align="center">
-
+ 
 | <div style="width:500px">Alumno</div> | <div style="width:200px">Código</div> |
 |:-------------------------------------:|:-------------------------------------:|
 |   Galindo Montero, Alejandro Manuel   |              u202321264               |
@@ -24,20 +25,22 @@
 |     Ramirez Cabrera, Kenyi Efrain     |              u202220138               |
 
 </div>
+
 <br>
    <h3>Setiembre 2025</h3>
 
 </div>
 
-
 ## Registro de Versiones del Informe
 
-
-| Versión | Fecha      | Autor               | Descripción de modificación                                     |
+<div align="center">
+ 
+| Versión | Fecha      | Autor               | Descripción de modificación                                      |
 |---------|------------|----------------------|-----------------------------------------------------------------|
-| 0.1     | 13/09/2025 | Kenyi Ramírez        | Elaboración de la estructura inicial del reporte                 |
+| 0.1     | 13/09/2025 | Kenyi Ramírez        | Elaboración de la estructura inicial del reporte                |
 | 0.2     | 13/09/2025 | Alejandro Galindo    | Desarrollo del Capitulo 1                                       |
 
+</div>
 
 ## Project Report Collaboration Insights *(POR MODIFICAR POR CADA ENTREGA)
 - **URL de la organización del proyecto:**  
@@ -59,13 +62,13 @@
         - [1.1.1. Descripción de la Startup](#111-descripción-de-la-startup)
         - [1.1.2. Perfiles de integrantes del equipo](#112-perfiles-de-integrantes-del-equipo)
     - [1.2. Solution Profile](#12-solution-profile)
-        - [1.2.1 Antecedentes y problemática](#121-antecedentes-y-problemática)
+        - [1.2.1 Antecedentes y problemática](#121-antecedentes-y-problematica)
         - [1.2.2 Lean UX Process](#122-lean-ux-process)
             - [1.2.2.1. Lean UX Problem Statements](#1221-lean-ux-problem-statements)
-            - [1.2.2.2. Lean UX Assumptions](#1222-lean-ux-assumptions)
+            - [1.2.2.2. Lean UX Assumptions](#1222-lean-ux-assumption)
             - [1.2.2.3. Lean UX Hypothesis Statements](#1223-lean-ux-hypothesis-statements)
             - [1.2.2.4. Lean UX Canvas](#1224-lean-ux-canvas)
-    - [1.3. Segmentos objetivo](#13-segmentos-objetivo)
+    - [1.3. Segmentos objetivo](#13-segmentos-objetivos)
 
 - [Capítulo II: Requirements Elicitation & Analysis](#c2)
     - [2.1. Competidores](#21-competidores)
@@ -83,14 +86,11 @@
     - [2.4. Big Picture EventStorming](#24-big-picture-eventstorming)
     - [2.5. Ubiquitous Language](#25-ubiquitous-language)
 
-
-
 - [Capítulo III: Requirements Specification](#c3)
     - [3.1. To-Be Scenario Mapping](#31-to-be-scenario-mapping)
     - [3.2. User Stories](#32-user-stories)
     - [3.3. Impact Mapping](#33-impact-mapping)
     - [3.4. Product Backlog](#34-product-backlog)
-
 
 - [Capítulo IV: Product Design](#c4)
     - [4.1. Style Guidelines](#41-style-guidelines)
@@ -227,16 +227,15 @@ Visión: Ser la empresa líder en la gestión y el mantenimiento de equipos de r
 
 ### 1.2.1 Antecedentes y Problematica
 
-| **5W & 2H**                          | **Descripcion**                                                                                                                                            |
-|---------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **What: ¿Cuál es el problema?**             | Los negocios que dependen de la refrigeración se enfrentan a una vulnerabilidad operativa significativa. La falta de control en sus equipos de congelación lleva a fallas inesperadas, alto consumo energético y falta de un mantenimiento proactivo. Como resultado, sufren grandes pérdidas económicas, tanto por productos dañados como por la interrupción de su servicio. |
-| **When: ¿Cuándo sucede este problema?**     | Este problema es una amenaza constante, especialmente durante la operación continua de los negocios. Se vuelve más crítico cuando no hay técnicos disponibles para una revisión inmediata o cuando se ha descuidado el seguimiento regular del estado de los equipos. |
-| **Where: ¿Dónde se produce este suceso?**    | El problema está presente en todo el país, afectando a negocios en diversas ciudades. Sin embargo, su impacto es particularmente notable en Lima, donde la cadena de frío es vital para sectores como la alimentación y la medicina. Las empresas de servicios que atienden a estos clientes también se ven afectadas al no tener una forma centralizada de gestionar sus operaciones. |
-| **Who: ¿Quiénes están involucrados?**     | Este problema afecta a una amplia gama de actores. Por un lado, están los dueños y administradores de negocios que sufren las consecuencias directas de las fallas. Por otro, los técnicos y empresas de servicio que se ven obligados a responder a emergencias sin las herramientas adecuadas. |
-| **Why: ¿Cuál es la causa del problema?**   | La causa principal es la falta de herramientas tecnológicas accesibles que permitan integrar el monitoreo en tiempo real, las alertas y la programación de servicios. En la mayoría de los casos, la gestión del mantenimiento aún es manual, lo que impide una respuesta preventiva y eficiente ante cualquier anomalía. |
+| **5W & 2H**                                     | **Descripcion**                                                                                                                                            |
+|-------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **What: ¿Cuál es el problema?**                 | Los negocios que dependen de la refrigeración se enfrentan a una vulnerabilidad operativa significativa. La falta de control en sus equipos de congelación lleva a fallas inesperadas, alto consumo energético y falta de un mantenimiento proactivo. Como resultado, sufren grandes pérdidas económicas, tanto por productos dañados como por la interrupción de su servicio. |
+| **When: ¿Cuándo sucede este problema?**         | Este problema es una amenaza constante, especialmente durante la operación continua de los negocios. Se vuelve más crítico cuando no hay técnicos disponibles para una revisión inmediata o cuando se ha descuidado el seguimiento regular del estado de los equipos. |
+| **Where: ¿Dónde se produce este suceso?**       | El problema está presente en todo el país, afectando a negocios en diversas ciudades. Sin embargo, su impacto es particularmente notable en Lima, donde la cadena de frío es vital para sectores como la alimentación y la medicina. Las empresas de servicios que atienden a estos clientes también se ven afectadas al no tener una forma centralizada de gestionar sus operaciones. |
+| **Who: ¿Quiénes están involucrados?**           | Este problema afecta a una amplia gama de actores. Por un lado, están los dueños y administradores de negocios que sufren las consecuencias directas de las fallas. Por otro, los técnicos y empresas de servicio que se ven obligados a responder a emergencias sin las herramientas adecuadas. |
+| **Why: ¿Cuál es la causa del problema?**        | La causa principal es la falta de herramientas tecnológicas accesibles que permitan integrar el monitoreo en tiempo real, las alertas y la programación de servicios. En la mayoría de los casos, la gestión del mantenimiento aún es manual, lo que impide una respuesta preventiva y eficiente ante cualquier anomalía. |
 | **How: ¿Qué llevó a la persona a llegar a esta situación?** | La situación actual es el resultado de la gestión reactiva y la falta de digitalización. Los negocios han dependido de una estrategia de "apagar incendios", esperando a que ocurra un problema crítico para actuar. Esta mentalidad ha generado un ciclo de costos elevados, tiempos de respuesta lentos y un desgaste operativo que se podría haber evitado con una planificación adecuada. |
 | **How Much: ¿Cuánto es el impacto financiero?** | El impacto económico de una falla es considerable y varía. Las pérdidas por el deterioro de productos pueden ser de cientos a miles de soles. A esto se suman los costos de las reparaciones de emergencia y el daño a largo plazo en la reputación y la confianza del cliente, lo que hace que el costo total sea mucho mayor. |
-
 
 ### 1.2.2 Lean UX Process
 
@@ -348,7 +347,7 @@ Las características clave incluyen:
 - Ofreceremos capacitación continua y soporte dedicado para facilitar la adopción.
 - comenzaremos con una estrategia de integración progresiva, enfocándonos en los equipos más comunes y trabajando con sensores certificados para generar una base de confianza sólida.
 
-#### 1.2.2.2 Lean UX Hypothesis Statements
+#### 1.2.2.3 Lean UX Hypothesis Statements
 
 **Hipótesis 1: Adopción del Producto**
 
@@ -383,7 +382,6 @@ Sabremos que hemos tenido éxito cuando obtengamos una alta puntuación promedio
 Creemos que la propuesta de valor de nuestra plataforma, centrada en la automatización y el ahorro, incentivará la retención a largo plazo de los clientes.
 Sabremos que hemos tenido éxito cuando la gran mayoría de nuestros clientes continúen utilizando la plataforma después de los primeros meses, y veamos que renuevan sus suscripciones de forma recurrente.
 
-
 #### 1.2.2.4 Lean UX Canvas
 
 <figure style="page-break-inside: avoid; text-align: center;">
@@ -394,7 +392,6 @@ Sabremos que hemos tenido éxito cuando la gran mayoría de nuestros clientes co
     <strong>Figura 1:</strong> Lean UX Canvas.
   </figcaption>
 </figure>
-
 
 ## 1.3 Segmentos objetivos
 
@@ -487,18 +484,24 @@ El diseño del logo de IceTrack busca transmitir los conceptos de protección, t
 - Typography:
 La tipografía seleccionada es Roboto Serif, por su claridad, legibilidad y llamativa, ideal para interfaces digitales enfocadas en datos técnicos. Para el cuerpo de texto, se utiliza Inter 14px con un interlineado de 1.5, garantizando una lectura fluida. Los tamaños se adaptan en contexto web según la jerarquía: títulos, subtítulos y párrafos.
    - Escala:
-    <figure style="page-break-inside: avoid; text-align: center;">
-      <img src="assets/chapter01/Escala.png" alt="escala">
-    </figure>
+    <div align="center">
+      <img src="assets/chapter01/GSG_Escala.png" alt="escala" width="250" height="200">
+    </div>
     
    - Weights:
-    <img src="assets/chapter01/Weights.png" alt="weights">
+    <div align="center">
+      <img src="assets/chapter01/GSG_Weights.png" alt="weights" width="150" height="250">
+    </div>
     
    - Nomenclatura:
-    <img src="assets/chapter01/Nomenclatura.png" alt="nomenclatura">
+    <div align="center">
+      <img src="assets/chapter01/GSG_Nomenclatura.png" alt="nomenclatura" width="250" height="200">
+    </div>
     
    - Example:
-    <img src="assets/chapter01/Example.png" alt="example">
+    <div align="center">
+      <img src="assets/chapter01/GSG_Example.png" alt="example" width="500" height="1000">
+    </div>
   
 - Colors:
 La paleta de colores de IceTrack prioriza la tecnología, frescura y acción. El celeste transmite frescura, usado para botones y acentos principales. El rojo, asociado con la energía y acción. Este color incrementa la sensación de emergencia, siendo ideal para captar la atención de manera inmediata. Gris oscuro/azulado (Deep Navy): aporta seriedad y profesionalismo, usado en textos y fondos secundarios. El gris claro aporta seriedad, usado en fondos. Por ultimo, el azul oscuro transmite estabilidad y tecnología. Es el color base de botones o avisoos.
@@ -641,7 +644,7 @@ IceTrack está diseñado como una aplicación mobile-first, adaptándose fluidam
 
 #### 5.2.1.2. Aspect Leaders and Collaborators
 
-#### 5.2.1.3. Sprint Backlog n
+#### 5.2.1.3. Sprint Backlog 1
 
 #### 5.2.1.4. Development Evidence for Sprint Review
 
