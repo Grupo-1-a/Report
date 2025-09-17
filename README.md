@@ -481,6 +481,113 @@ En esta sección se presentan las fichas de User Personas construidas a partir d
 
 ### 2.3.2. User Task Matrix
 
+En esta sección se presenta el User Task Matrix, construido a partir de los User Persona que representan a los dos segmentos clave identificados:
+
+Segmento 1: Negocios con equipos de refrigeración (representado por Alicia Vargas).
+
+Segmento 2: Técnicos y empresas de mantenimiento (representado por Luis Paredes).
+
+Las tareas fueron identificadas a partir del análisis cualitativo de entrevistas, y cada una fue evaluada según su frecuencia y nivel de importancia para los respectivos perfiles.
+
+<table>
+  <tr>
+    <th rowspan="2">Tarea / Task</th>
+    <th colspan="2">Alicia Vargas</th>
+    <th colspan="2">Luis Paredes</th>
+  </tr>
+  <tr>
+    <th>Frecuencia</th>
+    <th>Importancia</th>
+    <th>Frecuencia</th>
+    <th>Importancia</th>
+  </tr>
+  <tr>
+    <td>Verificar temperatura de equipos</td>
+    <td>Alta</td>
+    <td>Alta</td>
+    <td>Alta</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>Registrar consumo energético</td>
+    <td>Media</td>
+    <td>Media</td>
+    <td>Alta</td>
+    <td>Media</td>
+  </tr>
+  <tr>
+    <td>Coordinar servicios de mantenimiento</td>
+    <td>Media</td>
+    <td>Alta</td>
+    <td>Alta</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>Contactar técnicos o proveedores</td>
+    <td>Media</td>
+    <td>Media</td>
+    <td>Alta</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>Realizar mantenimiento preventivo o solicitarlo</td>
+    <td>Media</td>
+    <td>Alta</td>
+    <td>Alta</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>Revisar estado físico de los equipos</td>
+    <td>Media</td>
+    <td>Alta</td>
+    <td>Alta</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>Generar reportes técnicos</td>
+    <td>Baja</td>
+    <td>Baja</td>
+    <td>Media</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>Organizar agenda de mantenimientos</td>
+    <td>Baja</td>
+    <td>Media</td>
+    <td>Alta</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>Supervisar cumplimiento de normas sanitarias</td>
+    <td>Media</td>
+    <td>Alta</td>
+    <td>Baja</td>
+    <td>Media</td>
+  </tr>
+  <tr>
+    <td>Controlar inventario de productos refrigerados</td>
+    <td>Alta</td>
+    <td>Alta</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>Comunicar incidencias a clientes o equipo</td>
+    <td>-</td>
+    <td>-</td>
+    <td>Alta</td>
+    <td>Alta</td>
+  </tr>
+</table>
+
+<br>
+
+**Análisis:**
+
+A través del User Task Matrix, podemos identificar las frecuencias e importancias entre los diferentes segmentos que presentamos y usar esta información como guía.
+
+Las tareas clave con mayor frecuencia e importancia en ambos segmentos son verificar temperaturas de equipos, coordinar servicios de mantenimiento, revisar estado físico de los equipos y realizar mantenimiento preventivo o solicitarlo, lo que evidencia una necesidad común de control y prevención en la gestión de refrigeración. Sin embargo, Alicia Vargas prioriza el control del inventario y la operación del negocio, mientras que Luis Paredes se enfoca en aspectos técnicos, reportes y comunicación de incidencias. Ambos grupos coinciden en la necesidad de contar con una solución que les permita monitorear el estado de los equipos, prevenir fallas y mejorar la eficiencia operativa.
+
 ### 2.3.3. User Journey Mapping
 
 ### 2.3.4. Empathy Mapping
