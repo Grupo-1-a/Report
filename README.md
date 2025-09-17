@@ -467,6 +467,8 @@ En esta sección, se han planteado diversas preguntas dirigidas a nuestros segme
 
 ### 2.3.1. User Personas
 
+En esta sección se presentan las fichas de User Personas construidas a partir de los datos recolectados del análisis de entrevistas a nuestros segmentos objetivos. Estas fichas permiten representar de forma clara y estratégica los perfiles de cada segmento objetivo, considerando sus metas, habilidades, motivaciones y dificultades. De esta manera se integra la perspectiva del usuario y tendencias del sector para identificar oportunidades en el mercado y ofrecer una solución alineada a lo que el usuario necesita.
+
 **Segmento Objetivo 1: Negocios con equipos de refrigeración**
 
 ![UserPersona-Segmento1](assets/chapter02/UserPersona-Segmento1.png)
