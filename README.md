@@ -467,6 +467,16 @@ En esta sección, se han planteado diversas preguntas dirigidas a nuestros segme
 
 ### 2.3.1. User Personas
 
+**Segmento Objetivo 1: Negocios con equipos de refrigeración**
+
+![UserPersona-Segmento1](assets/chapter02/UserPersona-Segmento1.png)
+
+<br>
+
+**Segmento Objetivo 2: Técnicos y empresas de mantenimiento**
+
+![UserPersona-Segmento1](assets/chapter02/UserPersona-Segmento2.png)
+
 ### 2.3.2. User Task Matrix
 
 ### 2.3.3. User Journey Mapping
