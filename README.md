@@ -542,7 +542,7 @@ Para mantener el proyecto organizado, usamos la escala de Fibonacci (1, 2, 3, 5,
 8: Tareas de alta complejidad que impactan varias áreas del proyecto.
 
 <figure style="page-break-inside: avoid; text-align: center;">
-  <img src="assets/chapter03/Product-Backlog.png"
+  <img src="assets/chapter03/trello.png"
        alt="Diagrama de Product Backlog: Lista priorizada de funcionalidades y requisitos del producto."
        style="max-width: 95%; height: auto; display: block; margin: 0 auto;">
   <figcaption style="font-size: 0.9em; color: #555;">
