@@ -395,6 +395,70 @@ Hemos identificado diversas estrategias y tácticas para diferenciarnos y compet
 
 ### 2.2.1. Diseño de entrevistas
 
+En esta sección, se han planteado diversas preguntas dirigidas a nuestros segmentos objetivos con el objetivo de obtener información relevante, como opiniones o descripciones. Estos datos serán fundamentales para el desarrollo de nuestra solución.
+
+**Preguntas para el Segmento Objetivo 1 - Negocios con equipos de refrigeración:**
+
+1. ¿Cuál es su edad y en qué ciudad vive?
+
+2. ¿A qué se dedica principalmente su negocio?
+
+3. ¿Qué productos o insumos necesita mantener en frío?
+
+4. ¿Cuántos equipos de refrigeración tiene actualmente en funcionamiento?
+
+5. ¿Ha experimentado pérdidas debido a fallas en los equipos? ¿Cómo impactaron en su negocio?
+
+6. Actualmente, ¿cómo supervisa el estado de sus equipos (temperatura, consumo eléctrico, posibles fallas)?
+
+7. ¿Con qué frecuencia realiza mantenimiento y quién se encarga?
+
+8. ¿Utiliza actualmente alguna herramienta digital para la gestión o monitoreo de estos equipos?
+
+9. ¿Qué tan valioso le resultaría recibir alertas automáticas en caso de fallas o variaciones de temperatura?
+
+10. ¿Le interesaría contar con un historial técnico y reportes automáticos de cada equipo?
+
+11. ¿Estaría dispuesto a pagar una suscripción si esta solución le ayuda a evitar pérdidas y mejorar la eficiencia?
+
+12. En su opinión, ¿qué funcionalidades son indispensables para que usted use una herramienta de este tipo?
+
+13. ¿En que dispositivos le gustaría acceder a la herramienta?
+
+14. ¿Qué situaciones lo llevarían a dejar de usar una aplicación de este tipo?
+
+
+**Preguntas para el Segmento Objetivo 2 - Técnicos y empresas de mantenimiento:**
+
+1. ¿Cuál es su edad y en qué ciudad vive?
+
+2. ¿A qué se dedica específicamente y hace cuánto tiempo?
+
+3. ¿Cuántos clientes o negocios atiende regularmente?
+
+4. ¿Cómo organiza actualmente sus visitas técnicas y mantenimientos?
+
+5. ¿Lleva un historial técnico de los equipos que repara? ¿Cómo lo gestiona?
+
+6. ¿Cuáles son las principales dificultades que enfrenta al coordinar servicios técnicos con clientes?
+
+7. ¿Cómo planifica o coordina sus rutas de visitas? ¿Utiliza alguna herramienta digital o lo hace manualmente?
+
+8. ¿Qué tan valioso sería para usted contar con una aplicación donde pueda ver todos los equipos que atiende o provee a sus clientes?
+
+9. ¿Le interesaría recibir alertas en tiempo real sobre fallas en los equipos de sus clientes?
+
+10. ¿Qué tanto valora la posibilidad de generar reportes automáticos y mantener trazabilidad de cada intervención?
+
+11. ¿Estaría dispuesto a utilizar una plataforma que le ayude a organizarse mejor y escalar su servicio?
+
+12. ¿Ha probado anteriormente alguna plataforma similar? Si es afirmativo ¿Por qué la dejó de usar?
+
+13. ¿qué beneficios cree que podría aportar la implementación de una solución digital a su trabajo o empresa?
+
+14. ¿Qué características considera indispensables para que una plataforma de este tipo sea realmente útil para usted?
+
+
 ### 2.2.2. Registro de entrevistas
 
 ### 2.2.3. Análisis de entrevistas
