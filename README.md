@@ -522,7 +522,7 @@ Para facilitar la planificación, el seguimiento y la priorización de las tarea
 El equipo desarrolló un Impact Mapping en colaboración utilizando la herramienta UXPressia. Este mapa se creó para conectar los objetivos de negocio directamente con los requisitos funcionales de la plataforma.
 
 <figure style="page-break-inside: avoid; text-align: center;">
-  <img src="assets/chapter03/Impact-Mapping.png"
+  <img src="assets/chapter01/impactmap.png"
        alt="Diagrama de Impact Mapping: Objetivo, actores, impactos y entregables clave."
        style="max-width: 80%; height: auto; display: block; margin: 0 auto;">
   <figcaption style="font-size: 0.9em; color: #555;">
