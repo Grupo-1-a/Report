@@ -590,6 +590,21 @@ Las tareas clave con mayor frecuencia e importancia en ambos segmentos son verif
 
 ### 2.3.3. User Journey Mapping
 
+En esta sección se presentan los User Journey Maps de los dos segmentos objetivo: Alicia Vargas, propietaria de un mini-market, y Luis Paredes, técnico especializado en refrigeración. Cada mapa refleja el recorrido actual que estos usuarios realizan para cumplir sus objetivos sin contar aún con una solución tecnológica integrada, mostrando los puntos críticos, emociones, tareas clave y oportunidades de mejora. Estos recorridos nos permiten entender los desafíos que enfrentan los usuarios día a día.
+
+<br>
+
+**Segmento Objetivo 1: Negocios con equipos de refrigeración**
+
+![UserJourneyMapping-Segmento1](assets/chapter02/UserJourneyMapping-Segmento1.png)
+
+<br>
+
+**Segmento Objetivo 2: Técnicos y empresas de mantenimiento**
+
+![UserJourneyMapping-Segmento2](assets/chapter02/UserJourneyMapping-Segmento2.png)
+
+
 ### 2.3.4. Empathy Mapping
 
 ## 2.4. Big Picture EventStorming
