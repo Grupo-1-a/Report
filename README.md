@@ -607,6 +607,20 @@ En esta sección se presentan los User Journey Maps de los dos segmentos objetiv
 
 ### 2.3.4. Empathy Mapping
 
+En esta sección se presentan los Empathy Maps. Estos nos ayudarán a comprender las experiencias, emociones y pensamientos que expresan los usuarios de cada segmento objetivo.
+
+<br>
+
+**Segmento Objetivo 1: Negocios con equipos de refrigeración**
+
+![UserJourneyMapping-Segmento1](assets/chapter02/EmpathyMap-Segmento1.png)
+
+<br>
+
+**Segmento Objetivo 2: Técnicos y empresas de mantenimiento**
+
+![UserJourneyMapping-Segmento2](assets/chapter02/EmpathyMap-Segmento2.png)
+
 ## 2.4. Big Picture EventStorming
 
 ## 2.5. Ubiquitous Language
