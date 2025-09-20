@@ -1113,7 +1113,6 @@ URL de la Landing Page desplegada en Github Pages:
 <tr>
     <td colspan="5">Sprint 1 Goal</td>
        <td colspan="8">Nuestro enfoque está en implementar la landing page de nuestra plataforma, asegurando su adaptabilidad a diferentes dispositivos, coherencia visual y funcionalidad multilingüe. Creemos que esto ofrece una experiencia de navegación más clara, atractiva y accesible a los usuarios potenciales de nuestra solución. Esto se confirmará cuando los usuarios puedan cambiar el idioma fácilmente desde la interfaz, navegar la página sin errores visuales desde cualquier dispositivo, y se valide que imágenes y textos estén correctamente integrados y espaciados. </td>
-
 </tr>
 <tr>
     <td colspan="5">Sprint 1 Velocity</td>
@@ -1126,6 +1125,57 @@ URL de la Landing Page desplegada en Github Pages:
 
 
 #### 5.2.1.2. Aspect Leaders and Collaborators
+
+##### 5.2.1.2. Aspect Leaders and Collaborators
+
+Durante este primer Sprint, el equipo se enfocó principalmente en el desarrollo, la mejora estructural y visual de la Landing Page, asegurando su visualización en distintos dispositivos (diseño responsive), la integración armoniosa de imágenes y textos, y la implementación de un cambio de idioma dinámico mediante un botón.
+Con el fin de organizar de manera más eficiente el trabajo colaborativo, se ha elaborado la matriz de Liderazgo y Colaboración (LACX). Esta matriz asigna responsabilidades específicas a cada miembro del equipo en relación con los aspectos clave del Sprint.
+
+<table border="1">
+  <tr>
+    <td colspan="2"><strong>Team Member (Last Name, First Name)</strong></td>
+    <td><strong>GitHub Username</strong></td>
+    <td><strong>Diseño visual y maquetación web (Landing Page)<br>Leader (L) / Collaborator (C)</strong></td>
+    <td><strong>Responsividad y pruebas en distintos dispositivos<br>Leader (L) / Collaborator (C)</strong></td>
+    <td><strong>Implementación técnica del cambio de idioma (Multilenguaje funcional)<br>Leader (L) / Collaborator (C)</strong></td>
+  </tr>
+  <tr>
+    <td colspan="2">Ramírez Cabrera, Kenyi Efrain</td>
+    <td>Kenyi15upc</td>
+    <td>L</td>
+    <td>C</td>
+    <td>C</td>
+  </tr>
+  <tr>
+    <td colspan="2"> Galindo Montero, Alejandro Manuel </td>
+    <td>AlejandroG12970</td>
+    <td>C</td>
+    <td>L</td>
+    <td>L</td>
+  </tr>
+  <tr>
+    <td colspan="2"> Guillen Galindo, Julio Adolfo </td>
+    <td>julio645</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+  </tr>
+  <tr>
+    <td colspan="2">La Madrid Lozano, Ivan Jeanpierre</td>
+    <td>ivanlamadrid</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+  </tr>
+  <tr>
+    <td colspan="2">Nanfuñay Liza, Pedro Jesus</td>
+    <td>PedroJ18</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+  </tr>
+</table>
+
 
 #### 5.2.1.3. Sprint Backlog 1
 
