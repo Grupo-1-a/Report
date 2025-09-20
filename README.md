@@ -842,11 +842,227 @@ La estructura de navegación en IceTrack está diseñada para ofrecer una experi
 
 ### 5.1.1. Software Development Environment Configuration
 
+**Project Management**
+
+Para la administración del proyecto, se utilizaron varias herramientas para la comunicación, la planificación y el control de versiones.
+
+| Plataforma                   | Descripción                                                                                                                                                                                                                                                       | Enlace                |
+|------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------|
+| Trello                       | Esta plataforma de gestión de proyectos ofrece funcionalidades para el seguimiento detallado del progreso de cada tarea a lo largo de su ciclo de vida, además de permitir la designación clara de responsables para cada actividad dentro del equipo de trabajo. | https://trello.com    |
+| Herramientas de Comunicación | La comunicación interna del equipo se gestionó a través de Discord y WhatsApp para reuniones y mensajes rápidos, respectivamente.                                                                                                                                 | https://discord.com/ |
+| GitHub                       | Se creó una organización para centralizar el código fuente y su versionado, lo que permitió un control de versiones eficiente y una gestión ordenada.                                                                                                             | https://github.com    |
+
+**Requirement Management**
+
+En la fase inicial, se emplearon herramientas para la recolección y organización de los requisitos del proyecto, lo que aseguró una base sólida para el desarrollo.
+
+| Plataforma | Descripción                                                                                                                                                                                                                            | Enlace                 |
+|------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------|
+| UXPressia  | Fue la herramienta principal para el diseño de productos digitales. Permitió al equipo crear y validar propuestas de diseño con wireframes, mockups y prototipos interactivos, lo que aseguró un producto final efectivo y atractivo.  | https://uxpressia.com/ |
+| Miro       | Esta herramienta se usó para visualizar y desarrollar los escenarios "As-Is" (estado actual) y "To-Be" (estado futuro), lo que ayudó a planificar la evolución del proyecto.                                                           | https://miro.com/es/   |
+
+
+**Product UX/UI Desing**
+
+Para el diseño de la experiencia y la interfaz de usuario, se usó una plataforma colaborativa que simplificó el flujo de trabajo.
+
+| Plataforma | Descripción                                                                                                                                                                                                                            | Link                                                    |
+|------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------|
+| Figma      | Fue la herramienta principal para el diseño de productos digitales. Permitió al equipo crear y validar propuestas de diseño con wireframes, mockups y prototipos interactivos, lo que aseguró un producto final efectivo y atractivo.  | https://www.figma.com |
+
+**Software Development**
+
+El desarrollo se realizó utilizando un conjunto de lenguajes y entornos de programación que garantizan la estructura, el estilo y la interactividad del producto.
+
+| Plataforma          | Descripción                                                                                                                                    | Link                                      |
+|---------------------|------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------|
+| HTML                | Sirve para definir la estructura y el contenido de una página web.                                                                             | https://www.w3schools.com/html/default.asp |
+| CSS                 | Se encarga de la presentación visual y el estilo de la página web.                                                                             | https://www.w3schools.com/css/default.asp |
+| JS                  | Añade interactividad y dinamismo a la página web.                                                                                              | https://www.w3schools.com/js/default.asp  |
+| Visual Studio Code  | Entorno de desarrollo que facilita la escritura, edición, depuración y gestión de código para una amplia gama de lenguajes y proyectos.        | https://code.visualstudio.com             |
+| JetBrains ToolBox   | Aplicación de gestión que contiene IDEs como IntelliJ IDEA, WebStorm y Rider (cada miembro del equipo trabajó en alguna de estas herramientas) | https://www.jetbrains.com/toolbox-app/    |
+
+**Software Documentation**
+
+La documentación y la publicación del proyecto se manejaron con herramientas que optimizan la colaboración y el despliegue final.
+
+| Plataforma | Descripción                                             | Link                                                              |
+|------------|---------------------------------------------------------|-------------------------------------------------------------------|
+| GitHub     | Gestión de la documentación en función a repositorios y organizaciones | https://github.com          |
+| Markdown   | Formato base para la presentación y documentación del proyecto | https://markdown.es/                     |
+
+Se utilizó la estrategia GitHub Flow para la colaboración y el control de versiones, usando ramas específicas para cada funcionalidad. Esto mantuvo el proyecto organizado. También sirvió como repositorio central para toda la documentación.
+Para el despliegue de la Landing Page se utilizó GitHub Pages, una herramienta perfecta para publicar sitios web estáticos.
+
+<br>
+
 ### 5.1.2. Source Code Management
+
+Definir convenciones de nomenclatura para ramas en Git es crucial para mantener un flujo de trabajo organizado y mejorar la colaboración. Al seguir modelos como Git Flow, se puede crear una estructura clara que hace más predecible la gestión del proyecto.
+
+---
+
+### **Beneficios de la Nomenclatura Predictiva**
+
+Un esquema de nombres consistente ofrece múltiples ventajas:
+
+- **Automatización de procesos (CI/CD)**: Facilita la configuración de flujos de trabajo de integración y despliegue continuos.
+- **Identificación de propósito**: Permite a los desarrolladores identificar rápidamente el objetivo y el alcance de cada rama.
+
+---
+
+### **Estrategia de Ramificación (Git Flow)**
+
+En nuestro proyecto, aplicamos un modelo simplificado de Git Flow con las siguientes ramas principales:
+
+* **Rama `main`**: Contiene el **código de producción**, incluyendo archivos CSS, imágenes, JavaScript y el `index.html`. Esta rama se mantiene siempre en un estado **estable y listo para ser desplegado**.
+* **Rama `gh-pages`**: Esta rama se usa para **desplegar el proyecto en GitHub Pages**, lo que permite una visualización en tiempo real del sitio web.
+
+Además de estas, gestionamos el progreso del desarrollo en un repositorio separado, donde organizamos las tareas en epics y usamos archivos `.feature` para definir los **criterios de aceptación** de cada funcionalidad.
+
+---
+
+### **Flujo de Trabajo y Herramientas**
+
+Elegimos **GitHub** como nuestra plataforma de colaboración principal. Esto nos ayuda a **dar seguimiento al progreso** del equipo, **gestionar los cambios** y **visualizar las actualizaciones** del proyecto. Una de las ventajas es que las actualizaciones en el código se reflejan automáticamente en la rama `gh-pages`, lo que permite a los interesados ver los avances en tiempo real.
+
+---
+
+### **Convenciones de Nomenclatura**
+
+A continuación, se detallan las convenciones de nomenclatura para diferentes tipos de ramas que usamos en nuestro proyecto:
+
+
+1. **Master branch (Rama principal):** Es la rama principal del proyecto, donde se almacena el código estable y listo para producción. Solo se integrarán cambios que hayan sido probados y validados previamente en las ramas de desarrollo y funcionalidad.
+
+2. **Develop Branch (Rama de Desarrollo):** Esta rama actúa como un espacio de integración para el trabajo en equipo, permitiendo pruebas y ajustes de las nuevas funcionalidades antes de fusionarlas con la rama principal. Garantiza que el código sea funcional y estable.
+
+3. **Feature branch (Ramas de funcionalidad):** Cada nueva funcionalidad o tarea específica se desarrollará en su propia rama. Una vez completada y probada, se integrará en la rama de desarrollo. Las ramas de funcionalidad seguirán un esquema de nombres descriptivos.
+
+✔ **Ramas de característica (`feature`)**
+- Prefijo: `feature/`
+- Formato: `feature/nombre-corto-descriptivo`
+- Ejemplos: `feature/login-ui`, `feature/pdf-export`, `feature/api-integration-usuarios`
+
+✔ **Ramas de lanzamiento (`release`)**
+- Prefijo: `release/`
+- Formato: `release/x.y.z (donde x, y, z representan el número mayor, menor y de parche)`
+- Ejemplos: `release/1.0.0`, `release/2.1.0`
+
+✔ **Ramas de corrección urgente (`hotfix`)**
+- Prefijo: `hotfix/`
+- Formato: `hotfix/x.y.z-nombre-corto`
+- Ejemplos: `hotfix/1.0.1-fix-login-error`, `hotfix/2.3.2-bug-carrito`
+
+---
+
+**Repositorio de Github:**
+- Enlace para acceder a la [organización en Github](https://github.com/Grupo-1-a)
+- Enlace para acceder al repositorio de la [Landing Page]()
+- Enlace para acceder al repositorio del [Informe](https://github.com/Grupo-1-a/Report)
+
+---
 
 ### 5.1.3. Source Code Style Guide & Conventions
 
+Para asegurar la calidad, mantenibilidad y coherencia de nuestra solución, hemos definido un conjunto de convenciones y buenas prácticas. Dado que el proyecto inicial es una landing page, nos centramos en los estándares para HTML, CSS y JavaScript, los pilares de nuestro desarrollo.
+
+**Convenciones de Nomenclatura**
+
+Para mantener la consistencia y la claridad, seguimos las siguientes convenciones:
+
+**Variables y Funciones en JavaScript:** Se utiliza la convención camelCase (ej. myVariable, initializeVideos()). Los nombres deben ser descriptivos.
+
+**Constantes en JavaScript:** Se utilizan letras mayúsculas y guiones bajos para separar las palabras (SNAKE_CASE) para valores que no cambian (ej. VIDEO_CONFIG).
+
+**Archivos:** Los nombres de archivos se escriben en minúsculas y se separan con guiones (ej. index.html, style.css, languages.js).
+
+**HTML**
+La estructura de nuestro documento HTML se basa en la semántica web, utilizando etiquetas con un significado claro para el navegador y los desarrolladores. Esto no solo mejora la accesibilidad y el SEO, sino que también facilita la comprensión del código. A continuación, se detallan las etiquetas utilizadas:
+
+* `<!DOCTYPE html>` - Define el tipo de documento como HTML5.
+* `<html>` - Raíz del documento HTML.
+* `<head>` - Encabezado del documento, donde se incluyen metadatos.
+* `<meta>` - Define metadatos sobre el documento (charset y viewport).
+* `<title>` - Título del documento.
+* `<link>` - Para enlaces de icono, hoja de estilos CSS y fuente externa.
+* `<body>` - Cuerpo del documento, donde se encuentra el contenido visible.
+* `<header>` - Encabezado de la página.
+* `<div>` - Contenedor para el logo y otros elementos.
+* `<img>` - Imagen del logo.
+* `<nav>` - Contenedor para la navegación.
+* `<ul>` - Lista no ordenada de enlaces de navegación.
+* `<li>` - Elemento de lista para cada enlace de navegación.
+* `<a>` - Enlaces de navegación.
+* `<button>` - Botón para el modo de deuteranopia.
+* `<section>` - Define secciones de contenido principal:
+    * Sección principal: `<h1>`, `<p>`
+    * Por Qué Interactiva: `<h2>`, `<span>`, `<div>`, `<h3>`, `<p>`
+    * Valor Propuesto: `<h3>`, `<p>`, `<img>`
+    * Presentamos a...: `<h2>`, `<h4>`, `<p>`, `<img>`
+    * Servicios: `<h2>`, `<div>`, `<h4>`, `<p>`
+    * Testimonios: `<h2>`, `<p>`, `<img>`
+    * Cómo empezar: `<h2>`, `<h5>`, `<strong>`, `<p>`
+    * Descargar: `<h2>`, `<h3>`, `<span>`, `<a>`, `<img>`
+* `<footer>` - Pie de página.
+* `<small>` - Texto de derechos reservados.
+* `<script>` - Script JavaScript para funcionalidades.
+
+**CSS**
+
+Nuestra guía de estilo para CSS se centra en la claridad y la consistencia. Se han definido propiedades clave para el diseño visual, asegurando que todos los elementos se vean y se comporten de manera uniforme.
+
+* `width:` Representa el ancho de un elemento.
+* `height:` Representa el alto de un elemento.
+* `padding:` Representa el espacio con relleno entre el borde y el contenido.
+* `font-family:` Representa el tipo de letra.
+* `font-size:` Representa el tamaño de letra.
+* `font-weight:` Representa el grueso o el peso de la letra.
+* `font-style:` Representa el estilo de letra.
+* `Text-align:` Representa la alineación del texto.
+* `color:` Otorga color al elemento.
+* `Background-color:` Otorga color del fondo del elemento.
+
+
 ### 5.1.4. Software Deployment Configuration
+
+Para poder publicar nuestra landing page, seguimos una serie de pasos específicos utilizando GitHub Pages, que permite alojar sitios web estáticos directamente desde un repositorio.
+
+El despliegue en GitHub Pages requiere que los archivos estén organizados de una manera particular para que la plataforma los reconozca y los sirva correctamente.
+
+**1. Organización del Repositorio:**
+
+- Los archivos principales deben estar en la carpeta raíz del repositorio.
+
+- Los nombres de los archivos deben seguir la convención establecida: index.html para la página principal, styles.css para los estilos, y script.js para los scripts.
+
+- Las imágenes se guardan en una carpeta llamada assets/images.
+
+- El archivo languages.js se utiliza para gestionar las traducciones.
+
+**2. Subida de Archivos:**
+
+- Una vez que los archivos están correctamente organizados, se suben al repositorio a través de un commit.
+
+**3. Configuración en GitHub Pages:**
+
+- Se navega a Settings > Pages dentro del repositorio.
+
+- Se selecciona la rama main como la fuente de despliegue.
+
+- Se configura la carpeta raíz (/root) para el origen de la página.
+
+**4. Despliegue Automático:**
+
+- GitHub Pages inicia un proceso de verificación y despliegue automático.
+
+- Al finalizar, se genera una URL pública para acceder a la landing page.
+
+Además, nuestra solución incluye un archivo llamado languages.js, que contiene las traducciones en español e inglés. Este archivo es cargado por el script principal main.js para permitir que los usuarios cambien el idioma de la página de forma dinámica.
+
+**Github Pages:**
+
+URL de la Landing Page desplegada en Github Pages: 
 
 ## 5.2. Landing Page, Services & Applications Implementation
 
