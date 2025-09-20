@@ -898,6 +898,71 @@ Para el despliegue de la Landing Page se utilizó GitHub Pages, una herramienta 
 
 ### 5.1.2. Source Code Management
 
+Definir convenciones de nomenclatura para ramas en Git es crucial para mantener un flujo de trabajo organizado y mejorar la colaboración. Al seguir modelos como Git Flow, se puede crear una estructura clara que hace más predecible la gestión del proyecto.
+
+---
+
+### **Beneficios de la Nomenclatura Predictiva**
+
+Un esquema de nombres consistente ofrece múltiples ventajas:
+
+- **Automatización de procesos (CI/CD)**: Facilita la configuración de flujos de trabajo de integración y despliegue continuos.
+- **Identificación de propósito**: Permite a los desarrolladores identificar rápidamente el objetivo y el alcance de cada rama.
+
+---
+
+### **Estrategia de Ramificación (Git Flow)**
+
+En nuestro proyecto, aplicamos un modelo simplificado de Git Flow con las siguientes ramas principales:
+
+* **Rama `main`**: Contiene el **código de producción**, incluyendo archivos CSS, imágenes, JavaScript y el `index.html`. Esta rama se mantiene siempre en un estado **estable y listo para ser desplegado**.
+* **Rama `gh-pages`**: Esta rama se usa para **desplegar el proyecto en GitHub Pages**, lo que permite una visualización en tiempo real del sitio web.
+
+Además de estas, gestionamos el progreso del desarrollo en un repositorio separado, donde organizamos las tareas en epics y usamos archivos `.feature` para definir los **criterios de aceptación** de cada funcionalidad.
+
+---
+
+### **Flujo de Trabajo y Herramientas**
+
+Elegimos **GitHub** como nuestra plataforma de colaboración principal. Esto nos ayuda a **dar seguimiento al progreso** del equipo, **gestionar los cambios** y **visualizar las actualizaciones** del proyecto. Una de las ventajas es que las actualizaciones en el código se reflejan automáticamente en la rama `gh-pages`, lo que permite a los interesados ver los avances en tiempo real.
+
+---
+
+### **Convenciones de Nomenclatura**
+
+A continuación, se detallan las convenciones de nomenclatura para diferentes tipos de ramas que usamos en nuestro proyecto:
+
+
+1. **Master branch (Rama principal):** Es la rama principal del proyecto, donde se almacena el código estable y listo para producción. Solo se integrarán cambios que hayan sido probados y validados previamente en las ramas de desarrollo y funcionalidad.
+
+2. **Develop Branch (Rama de Desarrollo):** Esta rama actúa como un espacio de integración para el trabajo en equipo, permitiendo pruebas y ajustes de las nuevas funcionalidades antes de fusionarlas con la rama principal. Garantiza que el código sea funcional y estable.
+
+3. **Feature branch (Ramas de funcionalidad):** Cada nueva funcionalidad o tarea específica se desarrollará en su propia rama. Una vez completada y probada, se integrará en la rama de desarrollo. Las ramas de funcionalidad seguirán un esquema de nombres descriptivos.
+
+✔ **Ramas de característica (`feature`)**
+- Prefijo: `feature/`
+- Formato: `feature/nombre-corto-descriptivo`
+- Ejemplos: `feature/login-ui`, `feature/pdf-export`, `feature/api-integration-usuarios`
+
+✔ **Ramas de lanzamiento (`release`)**
+- Prefijo: `release/`
+- Formato: `release/x.y.z (donde x, y, z representan el número mayor, menor y de parche)`
+- Ejemplos: `release/1.0.0`, `release/2.1.0`
+
+✔ **Ramas de corrección urgente (`hotfix`)**
+- Prefijo: `hotfix/`
+- Formato: `hotfix/x.y.z-nombre-corto`
+- Ejemplos: `hotfix/1.0.1-fix-login-error`, `hotfix/2.3.2-bug-carrito`
+
+---
+
+**Repositorio de Github:**
+- Enlace para acceder a la [organización en Github](https://github.com/Grupo-1-a)
+- Enlace para acceder al repositorio de la [Landing Page]()
+- Enlace para acceder al repositorio del [Informe](https://github.com/Grupo-1-a/Report)
+
+---
+
 ### 5.1.3. Source Code Style Guide & Conventions
 
 ### 5.1.4. Software Deployment Configuration
