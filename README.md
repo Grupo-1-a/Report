@@ -965,6 +965,65 @@ A continuación, se detallan las convenciones de nomenclatura para diferentes ti
 
 ### 5.1.3. Source Code Style Guide & Conventions
 
+Para asegurar la calidad, mantenibilidad y coherencia de nuestra solución, hemos definido un conjunto de convenciones y buenas prácticas. Dado que el proyecto inicial es una landing page, nos centramos en los estándares para HTML, CSS y JavaScript, los pilares de nuestro desarrollo.
+
+**Convenciones de Nomenclatura**
+
+Para mantener la consistencia y la claridad, seguimos las siguientes convenciones:
+
+**Variables y Funciones en JavaScript:** Se utiliza la convención camelCase (ej. myVariable, initializeVideos()). Los nombres deben ser descriptivos.
+
+**Constantes en JavaScript:** Se utilizan letras mayúsculas y guiones bajos para separar las palabras (SNAKE_CASE) para valores que no cambian (ej. VIDEO_CONFIG).
+
+**Archivos:** Los nombres de archivos se escriben en minúsculas y se separan con guiones (ej. index.html, style.css, languages.js).
+
+**HTML**
+La estructura de nuestro documento HTML se basa en la semántica web, utilizando etiquetas con un significado claro para el navegador y los desarrolladores. Esto no solo mejora la accesibilidad y el SEO, sino que también facilita la comprensión del código. A continuación, se detallan las etiquetas utilizadas:
+
+* `<!DOCTYPE html>` - Define el tipo de documento como HTML5.
+* `<html>` - Raíz del documento HTML.
+* `<head>` - Encabezado del documento, donde se incluyen metadatos.
+* `<meta>` - Define metadatos sobre el documento (charset y viewport).
+* `<title>` - Título del documento.
+* `<link>` - Para enlaces de icono, hoja de estilos CSS y fuente externa.
+* `<body>` - Cuerpo del documento, donde se encuentra el contenido visible.
+* `<header>` - Encabezado de la página.
+* `<div>` - Contenedor para el logo y otros elementos.
+* `<img>` - Imagen del logo.
+* `<nav>` - Contenedor para la navegación.
+* `<ul>` - Lista no ordenada de enlaces de navegación.
+* `<li>` - Elemento de lista para cada enlace de navegación.
+* `<a>` - Enlaces de navegación.
+* `<button>` - Botón para el modo de deuteranopia.
+* `<section>` - Define secciones de contenido principal:
+    * Sección principal: `<h1>`, `<p>`
+    * Por Qué Interactiva: `<h2>`, `<span>`, `<div>`, `<h3>`, `<p>`
+    * Valor Propuesto: `<h3>`, `<p>`, `<img>`
+    * Presentamos a...: `<h2>`, `<h4>`, `<p>`, `<img>`
+    * Servicios: `<h2>`, `<div>`, `<h4>`, `<p>`
+    * Testimonios: `<h2>`, `<p>`, `<img>`
+    * Cómo empezar: `<h2>`, `<h5>`, `<strong>`, `<p>`
+    * Descargar: `<h2>`, `<h3>`, `<span>`, `<a>`, `<img>`
+* `<footer>` - Pie de página.
+* `<small>` - Texto de derechos reservados.
+* `<script>` - Script JavaScript para funcionalidades.
+
+**CSS**
+
+Nuestra guía de estilo para CSS se centra en la claridad y la consistencia. Se han definido propiedades clave para el diseño visual, asegurando que todos los elementos se vean y se comporten de manera uniforme.
+
+* `width:` Representa el ancho de un elemento.
+* `height:` Representa el alto de un elemento.
+* `padding:` Representa el espacio con relleno entre el borde y el contenido.
+* `font-family:` Representa el tipo de letra.
+* `font-size:` Representa el tamaño de letra.
+* `font-weight:` Representa el grueso o el peso de la letra.
+* `font-style:` Representa el estilo de letra.
+* `Text-align:` Representa la alineación del texto.
+* `color:` Otorga color al elemento.
+* `Background-color:` Otorga color del fondo del elemento.
+
+
 ### 5.1.4. Software Deployment Configuration
 
 ## 5.2. Landing Page, Services & Applications Implementation
