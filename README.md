@@ -822,13 +822,13 @@ La estructura de navegación en IceTrack está diseñada para ofrecer una experi
 ### 4.6.1. Design-Level EventStorming
 
 ### 4.6.2. Software Architecture Context Diagram
-<img width="3035" height="1682" alt="4 6 2  Software Architecture Context Diagram" src="https://github.com/user-attachments/assets/03eb86d7-60b6-4735-bc30-60297aad37ff" />
+<img width="1297" height="591" alt="4 6 2  Software Architecture Context Diagram" src="https://github.com/user-attachments/assets/937dc662-94a6-4a84-93e8-1314bb718b74" />
 
 ### 4.6.3. Software Architecture Container Diagrams
-<img width="2576" height="1682" alt="4 6 3  Software Architecture Container Diagrams" src="https://github.com/user-attachments/assets/21933e67-09f1-4c0b-bc76-14d7d9983251" />
+<img width="1170" height="579" alt="4 6 3  Software Architecture Container Diagrams" src="https://github.com/user-attachments/assets/a1237ca4-4b87-48f8-be42-c839fa2b179d" />
 
 ### 4.6.4. Software Architecture Components Diagrams
-<img width="2576" height="1682" alt="4 6 4  Software Architecture Components Diagrams" src="https://github.com/user-attachments/assets/9e1aa203-9da5-4579-b8c0-bf3355bc3d9d" />
+<img width="1614" height="1354" alt="4 6 4  Software Architecture Components Diagrams" src="https://github.com/user-attachments/assets/678227bf-4118-481d-9574-a519a721196d" />
 
 ## 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
