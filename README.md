@@ -819,7 +819,6 @@ La estructura de navegación en IceTrack está diseñada para ofrecer una experi
 ## 4.5. Web Applications Prototyping
 
 ## 4.6. Domain-Driven Software Architecture
-
 ### 4.6.1. Design-Level EventStorming
 
 ### 4.6.2. Software Architecture Context Diagram
@@ -832,14 +831,12 @@ La estructura de navegación en IceTrack está diseñada para ofrecer una experi
 <img width="2576" height="1682" alt="4 6 4  Software Architecture Components Diagrams" src="https://github.com/user-attachments/assets/9e1aa203-9da5-4579-b8c0-bf3355bc3d9d" />
 
 ## 4.7. Software Object-Oriented Design
-
 ### 4.7.1. Class Diagrams
+<img width="2669" height="1621" alt="Diagrama de Clases" src="https://github.com/user-attachments/assets/96c0cbb8-7cf3-4527-98c7-6384ad68307e" />
 
 ## 4.8. Database Design
-<img width="1820" height="947" alt="base de datos diseño" src="https://github.com/user-attachments/assets/929d9bb2-d6f0-482f-bee2-e061ff352622" />
-
 ### 4.8.1. Database Diagrams
-<img width="2669" height="1621" alt="Diagrama de Clases" src="https://github.com/user-attachments/assets/f611b3d4-84ca-4088-84dd-ab63956b0c48" />
+<img width="1820" height="947" alt="base de datos diseño" src="https://github.com/user-attachments/assets/63a665ca-a53c-4915-90cc-048d36065c2a" />
 
 # Capítulo V: Product Implementation, Validation & Deployment
 
