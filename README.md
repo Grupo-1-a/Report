@@ -1072,6 +1072,59 @@ URL de la Landing Page desplegada en Github Pages:
 
 #### 5.2.1.1. Sprint Planning 1
 
+<table border="1">
+<tr>
+    <th colspan="5">Sprint 1</th>
+    <th colspan="9">Sprint 1</th>
+  </tr>
+      <tr>
+    <td colspan="13">Sprint Planning Background</td>
+  </tr>
+  <tr>
+    <td colspan="5">Date</td>
+    <td colspan="8">2025-10-6</td>
+</tr>
+  <tr>
+    <td colspan="5">Time</td>
+    <td colspan="8">1:00 PM</td>
+  </tr>
+  <tr>
+    <td colspan="5">Location</td>
+    <td colspan="8">Presencial (Universidad Peruana de Ciencias Aplicadas sede San Miguel)</td>
+<tr>
+    <td colspan="5">Prepared By</td>
+    <td colspan="8">Kenyi Ramirez</td>
+</tr>
+<tr>
+    <td colspan="5">Attendees (to planning meeting)</td>
+    <td colspan="8">Alejandro Galindo, Julio Guillen, Ivan La Madrid, Pedro Nanfuñay</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint 1 Review Summary</td>
+    <td colspan="8"></td>
+</tr>
+<tr>
+    <td colspan="5">Sprint 1 Retrospective Summary</td>
+    <td colspan="8">Durante este sprint, todos los integrantes compartieron sus ideas respecto a la plataforma web, tales como el rubro, los segmentos objetivos, beneficios, funcionalidades. Tuvimos tareas bien organizadas y realizadas, que se puede verificar en los avances del informe y del Landing Page</td>
+</tr>
+<tr>
+    <td colspan="13">Sprint Goal & User Stories</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint 1 Goal</td>
+       <td colspan="8">Nuestro enfoque está en implementar la landing page de nuestra plataforma, asegurando su adaptabilidad a diferentes dispositivos, coherencia visual y funcionalidad multilingüe. Creemos que esto ofrece una experiencia de navegación más clara, atractiva y accesible a los usuarios potenciales de nuestra solución. Esto se confirmará cuando los usuarios puedan cambiar el idioma fácilmente desde la interfaz, navegar la página sin errores visuales desde cualquier dispositivo, y se valide que imágenes y textos estén correctamente integrados y espaciados. </td>
+
+</tr>
+<tr>
+    <td colspan="5">Sprint 1 Velocity</td>
+    <td colspan="8">15</td>
+<tr>
+    <td colspan="5">Sum of Story Points</td>
+    <td colspan="8">10</td>
+</tr>
+</table>
+
+
 #### 5.2.1.2. Aspect Leaders and Collaborators
 
 #### 5.2.1.3. Sprint Backlog 1
