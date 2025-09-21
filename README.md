@@ -823,6 +823,33 @@ La estructura de navegación en IceTrack está diseñada para ofrecer una experi
 ## 4.3. Landing Page UI Design
 
 ### 4.3.1. Landing Page Wireframe
+El wireframe del landing page de IceTrack se diseñó para guiar la creación de una interfaz clara e intuitiva. Este esquema visual, enfocado en la usabilidad y el flujo de información, define la estructura de cada sección:
+
+**Header:** Contiene el logo de IceTrack y una navegación simple que facilita el acceso a las diferentes secciones de la página.
+
+**Hero Section:** Muestra la propuesta de valor de forma impactante. Es la primera impresión del usuario y comunica de inmediato el valor principal de la solución.
+
+**Beneficios:** Detalla los puntos clave que los clientes ganarán al usar la aplicación, explicando cómo IceTrack resuelve sus problemas específicos.
+
+**Sobre Nosotros:** Presenta la misión y visión de la empresa, construyendo confianza y conectando con el usuario a través de los valores de la marca.
+
+**Testimonios:** Incluye el feedback de clientes satisfechos, sirviendo como prueba social para validar la efectividad y calidad del servicio.
+
+**Contacto (Formulario):** Ofrece un formulario sencillo para que los usuarios puedan solicitar información o una demostración, facilitando la conversión.
+
+**Footer:** Contiene información legal, enlaces a redes sociales y datos de contacto, ofreciendo un cierre profesional y completo.
+
+El objetivo principal de este wireframe es asegurar que el diseño final sea lógico, atractivo y, sobre todo, que guíe al usuario hacia una acción clara, como registrarse o contactar a la empresa.
+
+<figure style="page-break-inside: avoid; text-align: center;">
+  <img src="assets/chapter04/LandingPageWireframe.png"
+       alt="Landing Page Wireframe"
+       style="max-width: 70%; height: auto; display: block; margin: 0 auto;">
+  <figcaption style="font-size: 0.9em; color: #555;">
+    <strong>Figura 1:</strong> Wireframe del Landing Page.
+  </figcaption>
+</figure>
+
 
 ### 4.3.2. Landing Page Mock-up
 
