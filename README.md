@@ -198,10 +198,10 @@ Visión: Ser la empresa líder en la gestión y el mantenimiento de equipos de r
 
 | **Integrante**            | **La Madrid Lozano, Ivan Jeanpierre**                                               |
 |---------------------------|-------------------------------------------------------------------------------------|
-| **Código del Estudiante** |                                                                                     |
-| **Carrera**               |                                                                                     |
-| **Descripción**           |                                                                                     |
-| **Foto**                  |  <img src="" alt="" width="200" height="200">                                       |
+| **Código del Estudiante** |u202113432|
+| **Carrera**               |Ingeniería de Software|
+| **Descripción**           |Soy un estudiante de la ingeniería de software. Actualente me gusta el desarrollo de solucines innovadores meidante la tecnología. Me encanta proponer soluciones para problemas que requieran innovación y tecnología. Ne considero alguien proactivo y colaborativo. Con entusiasmo espero aportar valor al equipo y a distintos proyectos.|
+| **Foto**                  | ![ivan](https://github.com/user-attachments/assets/69b479e2-f06a-4ec5-bda9-36971bbfa295)|
 
 ---
 
