@@ -461,6 +461,22 @@ En esta sección, se han planteado diversas preguntas dirigidas a nuestros segme
 
 ### 2.2.2. Registro de entrevistas
 
+#### Segmento Objetivo 1 - Negocios con equipos de refrigeración:
+
+#### Segmento Objetivo 2 - Técnicos y empresas de mantenimiento:
+
+**Entrevista 1:**
+
+- **Nombres y apellidos:** Diego Ivan Cabrera Buitrón
+- **Edad:** 26
+- **Distrito:** Los Olivos
+- **Timming:** 
+- **Duración:** 5:01 min
+
+![Entrevista1-Segmento2](assets/chapter02/Entrevista1-Segmento2.png)
+
+- **Resumen:** Diego Cabrera es un técnico especializado en refrigeración con 2 años de experiencia en este rubro. Durante la entrevista, comentó que regularmente atiende negocios como supermercados, farmacias, etc. Generalmente, coordinar citas técnicas mediante llamadas y aplicaciones como Whatsapp. Para el registro e historial de sus visitas utiliza Excel y cuadernos para redactar el historial e informes técnicos. Actualmente, considera que una de las mayores dificultades que enfrenta es la complicada coordinación de visitas técnicas ya que lo clientes usualmente olvidan revisar sus equipos que derivan a fallas graves. Así mismo, menciona que no tener un historial técnico afecta negativamente en su rendimiento. Él considera valioso un historial técnico para tener un panorama más completo de la situación de los equipos. También destacó la posibilidad de generar reportes automáticos, recibir alertas sobre fallas y mejorar su planificación en una plataforma centralizada. En su opinión, considera que implementar una plataforma de este tipo sería ideal para mejorar su eficiencia, ahorrar tiempo y una mejor comunicación con sus clientes.
+
 ### 2.2.3. Análisis de entrevistas
 
 ## 2.3. Needfinding
