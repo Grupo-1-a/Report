@@ -853,7 +853,73 @@ El objetivo principal de este wireframe es asegurar que el diseño final sea ló
 
 ### 4.3.2. Landing Page Mock-up
 
---- Julio ---
+Los mockups del landing page de IceTrack elevan la estructura del wireframe a un nivel visual y estético. Aquí, el enfoque ya no es solo la funcionalidad, sino también el diseño, los colores, la tipografía y las imágenes, con el objetivo de crear una experiencia de usuario atractiva y profesional.
+
+**Inicio**
+Presenta la propuesta de valor principal con una imagen atractiva y un texto impactante, capturando la atención del visitante de inmediato.
+
+<figure style="page-break-inside: avoid; text-align: center;">
+  <img src="assets/chapter04/LPMockupInicio.png"
+       alt="Landing Page Mockup"
+       style="max-width: 70%; height: auto; display: block; margin: 0 auto;">
+  <figcaption style="font-size: 0.9em; color: #555;">
+    <strong>Figura 1:</strong> Inicio.
+  </figcaption>
+</figure>
+
+---
+**Beneficios**
+Usa íconos personalizados y un diseño limpio para destacar las ventajas clave de la app, facilitando la lectura y comprensión.
+
+<figure style="page-break-inside: avoid; text-align: center;">
+  <img src="assets/chapter04/LPMockupBeneficios.png"
+       alt="Landing Page Mockup 2"
+       style="max-width: 70%; height: auto; display: block; margin: 0 auto;">
+  <figcaption style="font-size: 0.9em; color: #555;">
+    <strong>Figura 2:</strong> Beneficios.
+  </figcaption>
+</figure>
+
+---
+**Sobre Nosotros**
+Comunica la misión y visión de la empresa con un estilo visual que inspira confianza y conecta con los valores del usuario.
+
+<figure style="page-break-inside: avoid; text-align: center;">
+  <img src="assets/chapter04/LPMockupSobreNosotros.png"
+       alt="Landing Page Mockup 3"
+       style="max-width: 70%; height: auto; display: block; margin: 0 auto;">
+  <figcaption style="font-size: 0.9em; color: #555;">
+    <strong>Figura 3:</strong> Sobre Nosotros.
+  </figcaption>
+</figure>
+
+---
+**Testimonios**
+Incluye citas y fotos de clientes reales, proporcionando prueba social para validar la calidad del servicio.
+
+<figure style="page-break-inside: avoid; text-align: center;">
+  <img src="assets/chapter04/LPMockupTestimonios.png"
+       alt="Landing Page Mockup 4"
+       style="max-width: 70%; height: auto; display: block; margin: 0 auto;">
+  <figcaption style="font-size: 0.9em; color: #555;">
+    <strong>Figura 4:</strong> Testimonios.
+  </figcaption>
+</figure>
+
+---
+**Contacto**
+Ofrece un formulario simple y directo con campos bien organizados para que los interesados puedan solicitar información fácilmente.
+
+<figure style="page-break-inside: avoid; text-align: center;">
+  <img src="assets/chapter04/LPMockupContacto.png"
+       alt="Landing Page Mockup 5"
+       style="max-width: 70%; height: auto; display: block; margin: 0 auto;">
+  <figcaption style="font-size: 0.9em; color: #555;">
+    <strong>Figura 5:</strong> Contacto.
+  </figcaption>
+</figure>
+
+---
 
 ## 4.4. Web Applications UX/UI Design
 
@@ -1000,6 +1066,11 @@ Aquí se notifican y gestionan todas las incidencias importantes. Por ejemplo, s
 <img width="2576" height="1682" alt="Web Applications User Flow Diagram" src="https://github.com/user-attachments/assets/8e5073cf-0112-48be-8c50-8981410ef2c1" />
 
 ## 4.5. Web Applications Prototyping
+
+La sección de Prototipado de Aplicaciones Web muestra un modelo interactivo y funcional de la aplicación IceTrack antes de su desarrollo final. Este proceso permite simular el flujo de usuario, la navegación y las interacciones principales, garantizando que el diseño sea intuitivo y que la experiencia de usuario sea la mejor posible. Es la fase donde las ideas se validan con un producto tangible.
+
+URL: https://www.figma.com/proto/ssl7G9KRip9XbC0tBXqUnc/Untitled?node-id=1-2&p=f&t=Kj4CziPHI6VX6P3M-1&scaling=contain&content-scaling=responsive&page-id=0%3A1
+---
 
 ## 4.6. Domain-Driven Software Architecture
 ### 4.6.1. Design-Level EventStorming
