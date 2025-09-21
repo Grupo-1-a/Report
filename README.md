@@ -492,9 +492,9 @@ En esta sección, se han planteado diversas preguntas dirigidas a nuestros segme
 
 ---
 
-#### Segmento Objetivo 2 - Técnicos y empresas de mantenimiento:
+## Segmento Objetivo 2 - Técnicos y empresas de mantenimiento:
 
-**Entrevista 1:**
+#### **Entrevista 1:**
 
 - **Nombres y apellidos:** Diego Ivan Cabrera Buitrón
 - **Edad:** 26
@@ -506,6 +506,17 @@ En esta sección, se han planteado diversas preguntas dirigidas a nuestros segme
 ![Entrevista1-Segmento2](assets/chapter02/Entrevista1-Segmento2.png)
 
 - **Resumen:** Diego Cabrera es un técnico especializado en refrigeración con 2 años de experiencia en este rubro. Durante la entrevista, comentó que regularmente atiende negocios como supermercados, farmacias, etc. Generalmente, coordinar citas técnicas mediante llamadas y aplicaciones como Whatsapp. Para el registro e historial de sus visitas utiliza Excel y cuadernos para redactar el historial e informes técnicos. Actualmente, considera que una de las mayores dificultades que enfrenta es la complicada coordinación de visitas técnicas ya que lo clientes usualmente olvidan revisar sus equipos que derivan a fallas graves. Así mismo, menciona que no tener un historial técnico afecta negativamente en su rendimiento. Él considera valioso un historial técnico para tener un panorama más completo de la situación de los equipos. También destacó la posibilidad de generar reportes automáticos, recibir alertas sobre fallas y mejorar su planificación en una plataforma centralizada. En su opinión, considera que implementar una plataforma de este tipo sería ideal para mejorar su eficiencia, ahorrar tiempo y una mejor comunicación con sus clientes.
+
+---
+
+#### **Entrevista 2:**
+
+- **Nombres y apellidos:** Jackeline Bravo
+- **Edad:** 36
+- **Distrito:** Comas
+- **Duración:** 5:35 min
+- **Resumen:** Jackeline, profesional con 13 años de trayectoria en el sector de mantenimiento y servicios de refrigeración, se desempeña en el área administrativa. Su labor actual incluye la gestión de reportes técnicos a través de hojas de cálculo de Excel y la planificación de rutas operativas mediante métodos manuales y aplicaciones móviles. La entrevistada considera que una plataforma como OsitoPolar representaría un avance significativo, ya que facilitaría la centralización de datos sobre los equipos atendidos y ofrecería una visualización en tiempo real de su estado. Subraya la conveniencia de una función de ingreso de datos en campo, lo cual optimizaría el flujo de información y minimizaría errores. Además, resalta la utilidad de las alertas automáticas para una respuesta proactiva. En conclusión, el testimonio de Jackeline valida la necesidad de que la industria adopte soluciones tecnológicas para optimizar sus procesos y elevar el estándar de sus servicios, reafirmando la importancia de la profesionalización digital.
+- **Url:**
 
 ### 2.2.3. Análisis de entrevistas
 
