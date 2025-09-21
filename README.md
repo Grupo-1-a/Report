@@ -1553,109 +1553,161 @@ En este primer Sprint hemos realizado la implementación de nuestra Landing Page
         <th colspan="2">Commit Id</th>
         <th colspan="2">Commit Message</th>
         <th colspan="2">Commit Message Body</th>
-        <th colspan="2">Commited on (Date)</th>
+        <th colspan="2">Committed on (Date)</th>
     </tr>
         <tr>
-        <td colspan="2">Inteligencia-Artesanal-Aplicaciones-Web/Landing-Page</td>
-        <td colspan="2">main</td>
-        <td colspan="2">9caef73</td>
-        <td colspan="2">chore: added html file</td>
-        <td colspan="2">added html file</td>
-        <td colspan="2">25/04/2025</td>
+        <td colspan="2">1ASI0730-2520-7452-G1-FrostShield/IceTrack---Landing-Page</td>
+        <td colspan="2">develop</td>
+        <td colspan="2">N/A</td>
+        <td colspan="2">Merge pull request #2 from 1ASI0730-2520-7452-G1-FrostShield/develop</td>
+        <td colspan="2">Merge pull request #2 from 1ASI0730-2520-7452-G1-FrostShield/develop</td>
+        <td colspan="2">21/09/2025</td>
     </tr>
         <tr>
-        <td colspan="2">Inteligencia-Artesanal-Aplicaciones-Web/Landing-Page</td>
-        <td colspan="2">main</td>
-        <td colspan="2">ae1fd12</td>
-        <td colspan="2">feat: added header and footer section</td>
-        <td colspan="2">added header and footer section</td>
-        <td colspan="2">25/04/2025</td>
+        <td colspan="2">1ASI0730-2520-7452-G1-FrostShield/IceTrack---Landing-Page</td>
+        <td colspan="2">develop</td>
+        <td colspan="2">N/A</td>
+        <td colspan="2">feat: add images</td>
+        <td colspan="2">add images</td>
+        <td colspan="2">21/09/2025</td>
     </tr>
-     <tr>
-        <td colspan="2">Inteligencia-Artesanal-Aplicaciones-Web/Landing-Page</td>
-        <td colspan="2">main</td>
-        <td colspan="2">10093f4</td>
-        <td colspan="2">style: Add styles</td>
-        <td colspan="2">Add styles</td>
-        <td colspan="2">25/04/2025</td>
-    </tr>
-    <tr>
-        <td colspan="2">Inteligencia-Artesanal-Aplicaciones-Web/Landing-Page</td>
-        <td colspan="2">main</td>
-        <td colspan="2">5a4332d</td>
-        <td colspan="2">feat: added script.js</td>
-        <td colspan="2">added script.js</td>
-        <td colspan="2">25/04/2025</td>
+        <tr>
+        <td colspan="2">1ASI0730-2520-7452-G1-FrostShield/IceTrack---Landing-Page</td>
+        <td colspan="2">develop</td>
+        <td colspan="2">N/A</td>
+        <td colspan="2">feat: add testimonials section</td>
+        <td colspan="2">add testimonials section</td>
+        <td colspan="2">21/09/2025</td>
     </tr>
     <tr>
-        <td colspan="2">Inteligencia-Artesanal-Aplicaciones-Web/Landing-Page</td>
-        <td colspan="2">main</td>
-        <td colspan="2">72f4157</td>
-        <td colspan="2">feat: added hero section.</td>
-        <td colspan="2">added hero section.</td>
-        <td colspan="2">25/04/2025</td>
+        <td colspan="2">1ASI0730-2520-7452-G1-FrostShield/IceTrack---Landing-Page</td>
+        <td colspan="2">develop</td>
+        <td colspan="2">N/A</td>
+        <td colspan="2">Update script.js</td>
+        <td colspan="2">Update script.js</td>
+        <td colspan="2">21/09/2025</td>
+    </tr>
+    <tr>
+        <td colspan="2">1ASI0730-2520-7452-G1-FrostShield/IceTrack---Landing-Page</td>
+        <td colspan="2">develop</td>
+        <td colspan="2">N/A</td>
+        <td colspan="2">Update style.css</td>
+        <td colspan="2">Update style.css</td>
+        <td colspan="2">21/09/2025</td>
+    </tr>
+    <tr>
+        <td colspan="2">1ASI0730-2520-7452-G1-FrostShield/IceTrack---Landing-Page</td>
+        <td colspan="2">develop</td>
+        <td colspan="2">N/A</td>
+        <td colspan="2">Update index.html</td>
+        <td colspan="2">Update index.html</td>
+        <td colspan="2">21/09/2025</td>
     </tr>
    <tr>
-        <td colspan="2">Inteligencia-Artesanal-Aplicaciones-Web/Landing-Page</td>
-        <td colspan="2">main</td>
-        <td colspan="2">e875205</td>
-        <td colspan="2">fix: fixed header section.</td>
-        <td colspan="2">fixed header section.</td>
-        <td colspan="2">25/04/2025</td>
+        <td colspan="2">1ASI0730-2520-7452-G1-FrostShield/IceTrack---Landing-Page</td>
+        <td colspan="2">develop</td>
+        <td colspan="2">N/A</td>
+        <td colspan="2">feat: update script to about us section</td>
+        <td colspan="2">update script to about us section</td>
+        <td colspan="2">21/09/2025</td>
     </tr>
    <tr>
-        <td colspan="2">Inteligencia-Artesanal-Aplicaciones-Web/Landing-Page</td>
-        <td colspan="2">main</td>
-        <td colspan="2">9624ec5</td>
-        <td colspan="2">feat: update hero section images and testimonials</td>
-        <td colspan="2">update hero section images and testimonials</td>
-        <td colspan="2">25/04/2025</td>
+        <td colspan="2">1ASI0730-2520-7452-G1-FrostShield/IceTrack---Landing-Page</td>
+        <td colspan="2">develop</td>
+        <td colspan="2">N/A</td>
+        <td colspan="2">Merge pull request #1 from 1ASI0730-2520-7452-G1-FrostShield/feature/benefits</td>
+        <td colspan="2">Merge pull request #1 from 1ASI0730-2520-7452-G1-FrostShield/feature/benefits</td>
+        <td colspan="2">21/09/2025</td>
     </tr>
    <tr>
-        <td colspan="2">Inteligencia-Artesanal-Aplicaciones-Web/Landing-Page</td>
-        <td colspan="2">main</td>
-        <td colspan="2">9bc4018</td>
-        <td colspan="2">feat: Funcionalidades Section</td>
-        <td colspan="2">Funcionalidades Section</td>
-        <td colspan="2">25/04/2025</td>
+        <td colspan="2">1ASI0730-2520-7452-G1-FrostShield/IceTrack---Landing-Page</td>
+        <td colspan="2">develop</td>
+        <td colspan="2">N/A</td>
+        <td colspan="2">Merge branch 'develop' into feature/benefits</td>
+        <td colspan="2">Merge branch 'develop' into feature/benefits</td>
+        <td colspan="2">21/09/2025</td>
     </tr>
    <tr>
-        <td colspan="2">Inteligencia-Artesanal-Aplicaciones-Web/Landing-Page</td>
-        <td colspan="2">main</td>
-        <td colspan="2">9e6c718</td>
-        <td colspan="2">feat: add language toggle button and translation functionality (WIP)</td>
-        <td colspan="2">add language toggle button and translation functionality (WIP)</td>
-        <td colspan="2">25/04/2025</td>
+        <td colspan="2">1ASI0730-2520-7452-G1-FrostShield/IceTrack---Landing-Page</td>
+        <td colspan="2">develop</td>
+        <td colspan="2">N/A</td>
+        <td colspan="2">update index.html</td>
+        <td colspan="2">update index.html</td>
+        <td colspan="2">20/09/2025</td>
     </tr>
-   <tr>
-        <td colspan="2">Inteligencia-Artesanal-Aplicaciones-Web/Landing-Page</td>
-        <td colspan="2">main</td>
-        <td colspan="2">a99916d</td>
-        <td colspan="2">feat: nosotros section</td>
-        <td colspan="2">nosotros section</td>
-        <td colspan="2">25/04/2025</td>
+    <tr>
+        <td colspan="2">1ASI0730-2520-7452-G1-FrostShield/IceTrack---Landing-Page</td>
+        <td colspan="2">develop</td>
+        <td colspan="2">N/A</td>
+        <td colspan="2">feat(landing-page): add styles for benefits section</td>
+        <td colspan="2">add styles for benefits section</td>
+        <td colspan="2">20/09/2025</td>
     </tr>
-   <tr>
-        <td colspan="2">Inteligencia-Artesanal-Aplicaciones-Web/Landing-Page</td>
-        <td colspan="2">main</td>
-        <td colspan="2">022b681</td>
-        <td colspan="2">feat: add multilingual support for functionalities and company sections</td>
-        <td colspan="2">add multilingual support for functionalities and company sections</td>
-        <td colspan="2">25/04/2025</td>
+    <tr>
+        <td colspan="2">1ASI0730-2520-7452-G1-FrostShield/IceTrack---Landing-Page</td>
+        <td colspan="2">develop</td>
+        <td colspan="2">N/A</td>
+        <td colspan="2">feat(landing-page): add benefits section</td>
+        <td colspan="2">add benefits section</td>
+        <td colspan="2">20/09/2025</td>
     </tr>
-   <tr>
-        <td colspan="2">Inteligencia-Artesanal-Aplicaciones-Web/Landing-Page</td>
-        <td colspan="2">main</td>
-        <td colspan="2">3ddec9f</td>
-        <td colspan="2">feat: update about section image to enhance visual content</td>
-        <td colspan="2">update about section image to enhance visual content</td>
-        <td colspan="2">26/04/2025</td>
+    <tr>
+        <td colspan="2">1ASI0730-2520-7452-G1-FrostShield/IceTrack---Landing-Page</td>
+        <td colspan="2">develop</td>
+        <td colspan="2">N/A</td>
+        <td colspan="2">Add about us section in style.css</td>
+        <td colspan="2">Add about us section in style.css</td>
+        <td colspan="2">20/09/2025</td>
     </tr>
-
-
+    <tr>
+        <td colspan="2">1ASI0730-2520-7452-G1-FrostShield/IceTrack---Landing-Page</td>
+        <td colspan="2">develop</td>
+        <td colspan="2">N/A</td>
+        <td colspan="2">Add about us section in HTML</td>
+        <td colspan="2">Add about us section in HTML</td>
+        <td colspan="2">20/09/2025</td>
+    </tr>
+    <tr>
+        <td colspan="2">1ASI0730-2520-7452-G1-FrostShield/IceTrack---Landing-Page</td>
+        <td colspan="2">develop</td>
+        <td colspan="2">N/A</td>
+        <td colspan="2">style: add color palette and responsive layout for landing page</td>
+        <td colspan="2">add color palette and responsive layout for landing page</td>
+        <td colspan="2">19/09/2025</td>
+    </tr>
+    <tr>
+        <td colspan="2">1ASI0730-2520-7452-G1-FrostShield/IceTrack---Landing-Page</td>
+        <td colspan="2">develop</td>
+        <td colspan="2">N/A</td>
+        <td colspan="2">feat: add language switching functionality and translations for ES/EN</td>
+        <td colspan="2">add language switching functionality and translations for ES/EN</td>
+        <td colspan="2">19/09/2025</td>
+    </tr>
+    <tr>
+        <td colspan="2">1ASI0730-2520-7452-G1-FrostShield/IceTrack---Landing-Page</td>
+        <td colspan="2">develop</td>
+        <td colspan="2">N/A</td>
+        <td colspan="2">feat: add JavaScript for mobile menu toggle, smooth scroll, and CTA button functionality</td>
+        <td colspan="2">add JavaScript for mobile menu toggle, smooth scroll, and CTA button functionality</td>
+        <td colspan="2">19/09/2025</td>
+    </tr>
+    <tr>
+        <td colspan="2">1ASI0730-2520-7452-G1-FrostShield/IceTrack---Landing-Page</td>
+        <td colspan="2">develop</td>
+        <td colspan="2">N/A</td>
+        <td colspan="2">feat: added Header, Hero and Footer Section Structure</td>
+        <td colspan="2">added Header, Hero and Footer Section Structure</td>
+        <td colspan="2">19/09/2025</td>
+    </tr>
+    <tr>
+        <td colspan="2">1ASI0730-2520-7452-G1-FrostShield/IceTrack---Landing-Page</td>
+        <td colspan="2">develop</td>
+        <td colspan="2">N/A</td>
+        <td colspan="2">feat: initialize basic landing page structure with HTML</td>
+        <td colspan="2">initialize basic landing page structure with HTML</td>
+        <td colspan="2">19/09/2025</td>
+    </tr>
 </table>
-
-#### 5.2.1.4. Development Evidence for Sprint Review
 
 #### 5.2.1.5. Execution Evidence for Sprint Review
 
@@ -1665,8 +1717,10 @@ En este primer Sprint hemos realizado la implementación de nuestra Landing Page
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint
 
+![Insights-LP.png](assets/chapter05/Insights-LP.png)
+---
 
-
+![Contributors.png](assets/chapter05/Contributors.png)
 
 
 
