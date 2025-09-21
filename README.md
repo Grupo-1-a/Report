@@ -833,17 +833,18 @@ La estructura de navegación en IceTrack está diseñada para ofrecer una experi
 ### 4.4.1. Web Applications Wireframes
 
 ### 4.4.2. Web Applications Wireflow Diagrams
+<img width="2576" height="916" alt="Web Applications Wireflow Diagram" src="https://github.com/user-attachments/assets/4d5247bc-d766-4593-ba97-cc59d411e93e" />
 
 ### 4.4.3. Web Applications Mock-ups
 
 **Login**
 <img width="1600" height="1000" alt="screen" src="https://github.com/user-attachments/assets/1eaa860c-ea4b-41d0-9690-d1f125456392" />
 
-**Órdenes**
-<img width="1600" height="1181" alt="screen" src="https://github.com/user-attachments/assets/05ea25f4-0c4d-49e7-8905-0481c0c25ec2" />
-
 **Registro**
 <img width="1600" height="1000" alt="screen" src="https://github.com/user-attachments/assets/ac78a44f-fbf5-4b7d-b418-150a94d8e401" />
+
+**Órdenes**
+<img width="1600" height="1181" alt="screen" src="https://github.com/user-attachments/assets/05ea25f4-0c4d-49e7-8905-0481c0c25ec2" />
 
 **Reportes**
 <img width="1600" height="1000" alt="screen" src="https://github.com/user-attachments/assets/e8f13a84-bb00-4868-8f5a-49b1f955b3a3" />
@@ -865,6 +866,7 @@ La estructura de navegación en IceTrack está diseñada para ofrecer una experi
 
 
 ### 4.4.4. Web Applications User Flow Diagrams
+<img width="2576" height="1682" alt="Web Applications User Flow Diagram" src="https://github.com/user-attachments/assets/8e5073cf-0112-48be-8c50-8981410ef2c1" />
 
 ## 4.5. Web Applications Prototyping
 
