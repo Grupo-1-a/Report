@@ -204,12 +204,12 @@ Visión: Ser la empresa líder en la gestión y el mantenimiento de equipos de r
 
 ---
 
-| **Integrante**            | **Nanfuñay Liza, Pedro Jesus**                                                      |
-|---------------------------|-------------------------------------------------------------------------------------|
-| **Código del Estudiante** |                                                                                     |
-| **Carrera**               |                                                                                     |
-| **Descripción**           |                                                                                     |
-| **Foto**                  |  <img src="" alt="" width="200" height="200">                                       |
+| **Integrante**  | **Nanfuñay Liza, Pedro Jesús** |
+|-----------------|--------------------------------|
+| **Código del Estudiante** | u202215462 |
+| **Carrera** | Ingeniería de Software |
+| **Descripción** | Mi nombre es Pedro Jesús Nanfuñay Liza, tengo 20 años y soy estudiante de la carrera de Ingeniería de Software. Me considero una persona creativa, responsable, perseverante y siempre dispuesto a trabajar en equipo. Tengo conocimientos en varios lenguajes de programación como C++, Java y Python; en el desarrollo web con frameworks Angular y Primevue, y en base de datos relacionales y no relacionales como SQL y MongoDB. Espero aportar de manera positiva al equipo y cumplir con los objetivos establecidos. |
+| **Foto** | ![Perfil-PedroNanfuñay](assets/chapter01/PerfilPedroNanfuñay.jpeg) |
 
 ---
 
