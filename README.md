@@ -621,7 +621,11 @@ En esta sección se presentan los Empathy Maps. Estos nos ayudarán a comprender
 
 ![UserJourneyMapping-Segmento2](assets/chapter02/EmpathyMap-Segmento2.png)
 
-## 2.4. Big Picture EventStorming
+## 2.4. Big Picture Event Storming
+
+En esta sección se presenta el trabajo realizado durante la sesión de Big Picture Event Storming, enfocada en comprender el dominio general del negocio. Para ello se utilizaron post-its en LucidChart para mapear los eventos significativos que ocurren en el flujo operativo actual, desde la detección de fallas en los equipos de refrigeración hasta el seguimiento posterior al servicio técnico. Ello nos permitió identificar procesos clave, actores involucrados, relaciones entre eventos, y oportunidades de mejora para el desarrollo de nuestra solución.
+
+![BigPictureEventStorming](assets/chapter02/BigPictureEventStorming-IceTrack.png)
 
 ## 2.5. Ubiquitous Language
 
