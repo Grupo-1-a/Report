@@ -1715,6 +1715,23 @@ En este primer Sprint hemos realizado la implementación de nuestra Landing Page
 
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
 
+A continuación, se presenta las  secciones principales de la Landing Page desplegada en GitHub Pages:
+
+**Inicio**
+![LPEvidenceInicio.png](assets/chapter05/LPEvidenceInicio.png)
+---
+**Beneficios**
+![LPEvidenceBeneficios.png](assets/chapter05/LPEvidenceBeneficios.png)
+---
+**Sobre Nosotros**
+![LPEvidenceSobreNosotros.png](assets/chapter05/LPEvidenceSobreNosotros.png)
+---
+**Testimonios**
+![LPEvidenceTestimonios.png](assets/chapter05/LPEvidenceTestimonios.png)
+---
+**Contacto**
+![LPEvidenceContacto.png](assets/chapter05/LPEvidenceContacto.png)
+---
 #### 5.2.1.8. Team Collaboration Insights during Sprint
 
 ![Insights-LP.png](assets/chapter05/Insights-LP.png)
