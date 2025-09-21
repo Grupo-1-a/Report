@@ -9,8 +9,8 @@
   <h2>Profesor: Hugo Allan Mori Paiva</h2>
 <br>
  <h1>Informe TB1</h1>
-  <h2>Startup: </h2>
-  <h2>Producto: </h2>
+  <h2>Startup: Frostshield </h2>
+  <h2>Producto: IceTrack </h2>
 <br>
   <h2>Integrantes</h2>
  
@@ -38,7 +38,8 @@
 | Versión | Fecha      | Autor               | Descripción de modificación                                      |
 |---------|------------|----------------------|-----------------------------------------------------------------|
 | 0.1     | 13/09/2025 | Kenyi Ramírez        | Elaboración de la estructura inicial del reporte                |
-| 0.2     | 13/09/2025 | Alejandro Galindo    | Desarrollo del Capitulo 1                                       |
+| 0.2     | 13/09/2025 | Alejandro Galindo    | Desarrollo del Capitulo I                                       |
+| 0.3     | 20/09/2025 | Julio Guillen        | Desarrollo del Capitulo IV                                      |
 
 </div>
 
