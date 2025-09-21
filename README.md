@@ -167,7 +167,7 @@ del ABET – EAC - Student Outcome 5.
 
 ### 1.1.1 Descripción de la Startup
 
-es una aplicación web diseñada para optimizar la gestión y el mantenimiento de equipos de refrigeración en negocios que dependen de la cadena de frío. Nuestro alcance es atender a una amplia gama de clientes, incluyendo supermercados, minimarkets, laboratorios, restaurantes y empresas de los sectores alimentario y farmacéutico. Nuestra plataforma conecta de manera fluida a estos negocios con técnicos especializados y proveedores de equipos, facilitando un enfoque integral, proactivo y automatizado para la gestión de sus sistemas de refrigeración.
+Nuestra startup ofrece una aplicación web diseñada para optimizar la gestión y el mantenimiento de equipos de refrigeración en negocios que dependen de la cadena de frío. Nuestro alcance es atender a una amplia gama de clientes, incluyendo supermercados, minimarkets, laboratorios, restaurantes y empresas de los sectores alimentario y farmacéutico. Nuestra plataforma conecta de manera fluida a estos negocios con técnicos especializados y proveedores de equipos, facilitando un enfoque integral, proactivo y automatizado para la gestión de sus sistemas de refrigeración.
 Las funcionalidades clave de la plataforma incluyen el monitoreo en tiempo real de temperatura, consumo energético y tiempo de uso. Además, ofrece alertas automáticas ante fallos, informes técnicos detallados, historiales de rendimiento y programación inteligente de mantenimientos. Estas herramientas permiten a empresas, técnicos y proveedores mejorar la eficiencia operativa, prevenir costosas pérdidas por fallos inesperados y mantener un registro completo del estado y uso de sus equipos.
 
 Misión: Queremos ofrecer una solución tecnológica inteligente que ayude a las empresas a proteger su inventario y a optimizar la gestión de sus equipos de refrigeración. Al mismo tiempo, proporcionamos herramientas especializadas para mejorar la eficiencia operativa de los técnicos y proveedores del sector.
@@ -242,7 +242,7 @@ Visión: Ser la empresa líder en la gestión y el mantenimiento de equipos de r
 
 En el sector de la refrigeración, las empresas se enfrentan a un desafío recurrente: la falta de una gestión inteligente para sus equipos. Los negocios que dependen de la cadena de frío, desde supermercados hasta laboratorios farmacéuticos, operan con un alto riesgo de pérdidas económicas y desperdicio de energía, ya que su mantenimiento es reactivo, no proactivo.
 Existe un vacío en el mercado que las soluciones actuales no han logrado llenar. No hay una plataforma que unifique la gestión y ofrezca una visibilidad completa del estado de los equipos. Esta ausencia de alertas preventivas y datos históricos dificulta la respuesta ante fallas y degrada la calidad del servicio técnico.
-FrostGuard ha sido creada para superar estos obstáculos. Nuestra plataforma establece una conexión digital entre los negocios y sus equipos, permitiendo un monitoreo constante de la temperatura y el consumo energético. Esto no solo previene fallas, sino que también optimiza el rendimiento y prolonga la vida útil de los equipos. Además, proporcionamos a los técnicos una herramienta centralizada para organizar sus tareas, acceder al historial de cada equipo y responder de manera más eficiente.
+FrostShield ha sido creada para superar estos obstáculos. IceTrack establece una conexión digital entre los negocios y sus equipos, permitiendo un monitoreo constante de la temperatura y el consumo energético. Esto no solo previene fallas, sino que también optimiza el rendimiento y prolonga la vida útil de los equipos. Además, proporcionamos a los técnicos una herramienta centralizada para organizar sus tareas, acceder al historial de cada equipo y responder de manera más eficiente.
 Inicialmente, nos enfocamos en los negocios de Lima que buscan una solución confiable para sus sistemas de refrigeración, así como en los proveedores de servicio que desean modernizar sus operaciones. 
 Sabremos que hemos tenido éxito cuando se reduzcan las fallas críticas, mejore la eficiencia energética y aumente en la satisfacción y lealtad de nuestros clientes, demostrando así el valor de la tecnología en el sector.
 
@@ -250,7 +250,7 @@ Sabremos que hemos tenido éxito cuando se reduzcan las fallas críticas, mejore
 
 # Business Outcomes
 
--	**Reducir las pérdidas de inventario:** La plataforma de FrostGuard previene fallas térmicas, minimizando el descarte de productos y aumentando la rentabilidad de los negocios.
+-	**Reducir las pérdidas de inventario:** La plataforma de FrostShield previene fallas térmicas, minimizando el descarte de productos y aumentando la rentabilidad de los negocios.
 - **Aumentar la eficiencia operativa:** Los técnicos pueden gestionar sus tareas de forma más inteligente y atender a más clientes en menos tiempo, lo que se traduce en una mayor productividad.
 - **Mejorar la fidelización de clientes:** Un servicio proactivo y transparente fortalece la confianza con los clientes, lo que lleva a una mayor retención y a relaciones comerciales a largo plazo.
 - **Optimizar los costos de mantenimiento:** La plataforma permite pasar de un modelo de mantenimiento reactivo, costoso e impredecible, a uno predictivo, que reduce los gastos en reparaciones de emergencia.
