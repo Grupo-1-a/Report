@@ -463,6 +463,28 @@ Sabremos que hemos tenido éxito cuando la gran mayoría de nuestros clientes co
 
 ## 3.1. To-Be Scenario Mapping
 
+**Segmento objetivo #1: Negocios con equipos de refrigeración**
+
+<figure style="page-break-inside: avoid; text-align: center;">
+  <img src="assets/chapter01/To-Be-Scenario-segment-1.jpg"
+       alt="To Be Scenario Mapping Segmento 1: Negocios con equipos de refrigeración"
+       style="max-width: 95%; height: auto; display: block; margin: 0 auto;">
+  <figcaption style="font-size: 0.9em; color: #555;">
+    <strong>Figura 1:</strong> To Be Scenario Mapping: Negocios con equipos de refrigeración (Segmento 1).
+  </figcaption>
+</figure>
+
+**Segmento objetivo #2: Técnicos y empresas de mantenimiento**
+
+<figure style="page-break-inside: avoid; text-align: center;">
+  <img src="assets/chapter01/To-Be-Scenario-segment-2.jpg"
+       alt="To Be Scenario Mapping Segmento 2: Técnicos y empresas de mantenimiento"
+       style="max-width: 95%; height: auto; display: block; margin: 0 auto;">
+  <figcaption style="font-size: 0.9em; color: #555;">
+    <strong>Figura 2:</strong> To Be Scenario Mapping - Técnicos y empresas de mantenimiento (Segmento 2).
+  </figcaption>
+</figure>
+
 ## 3.2. User Stories.
 
 Las historias de usuario para este proyecto se crearon en colaboración con el equipo de desarrollo, enfocándose en las necesidades principales de dos tipos de usuarios: los clientes, que son dueños de equipos de refrigeración, y los proveedores de servicios y equipos.
