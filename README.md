@@ -832,36 +832,140 @@ La estructura de navegación en IceTrack está diseñada para ofrecer una experi
 
 ### 4.4.1. Web Applications Wireframes
 
+Los wireframes de las aplicaciones web de IceTrack muestran cómo se estructuran las pantallas y dónde se ubican los elementos de navegación. Estos esquemas visuales, que se centran en la funcionalidad y la facilidad de uso, guían el diseño final. Su objetivo es asegurar que la aplicación sea intuitiva y que la interacción del usuario sea fluida y eficiente, lo que ayuda a diseñadores y desarrolladores a optimizar la disposición de cada componente.
+
+<figure style="page-break-inside: avoid; text-align: center;">
+  <img src="assets/chapter04/WebWireframe1.png"
+       alt="Wireframe: Registro"
+       style="max-width: 70%; height: auto; display: block; margin: 0 auto;">
+  <figcaption style="font-size: 0.9em; color: #555;">
+    <strong>Figura 1:</strong> Wireframe Registro.
+  </figcaption>
+</figure>
+
+---
+<figure style="page-break-inside: avoid; text-align: center;">
+  <img src="assets/chapter04/WebWireframe2.png"
+       alt="Wireframe: Dashboard"
+       style="max-width: 70%; height: auto; display: block; margin: 0 auto;">
+  <figcaption style="font-size: 0.9em; color: #555;">
+    <strong>Figura 2:</strong> Wireframe Dashboard.
+  </figcaption>
+</figure>
+
+---
+<figure style="page-break-inside: avoid; text-align: center;">
+  <img src="assets/chapter04/WebWireframe3.png"
+       alt="Wireframe: Sitios y equipos"
+       style="max-width: 70%; height: auto; display: block; margin: 0 auto;">
+  <figcaption style="font-size: 0.9em; color: #555;">
+    <strong>Figura 3:</strong> Wireframe Sitios y equipos.
+  </figcaption>
+</figure>
+
+---
+<figure style="page-break-inside: avoid; text-align: center;">
+  <img src="assets/chapter04/WebWireframe4.png"
+       alt="Wireframe: Detalle del equipo"
+       style="max-width: 70%; height: auto; display: block; margin: 0 auto;">
+  <figcaption style="font-size: 0.9em; color: #555;">
+    <strong>Figura 4:</strong> Wireframe Detalle del equipo.
+  </figcaption>
+</figure>
+
+---
+<figure style="page-break-inside: avoid; text-align: center;">
+  <img src="assets/chapter04/WebWireframe5.png"
+       alt="Wireframe: Alertas"
+       style="max-width: 70%; height: auto; display: block; margin: 0 auto;">
+  <figcaption style="font-size: 0.9em; color: #555;">
+    <strong>Figura 5:</strong> Wireframe Alertas.
+  </figcaption>
+</figure>
+
+---
+
+<figure style="page-break-inside: avoid; text-align: center;">
+  <img src="assets/chapter04/WebWireframe6.png"
+       alt="Wireframe: Órdenes"
+       style="max-width: 70%; height: auto; display: block; margin: 0 auto;">
+  <figcaption style="font-size: 0.9em; color: #555;">
+    <strong>Figura 6:</strong> Wireframe Órdenes.
+  </figcaption>
+</figure>
+
+---
+<figure style="page-break-inside: avoid; text-align: center;">
+  <img src="assets/chapter04/WebWireframe7.png"
+       alt="Wireframe: Reportes"
+       style="max-width: 70%; height: auto; display: block; margin: 0 auto;">
+  <figcaption style="font-size: 0.9em; color: #555;">
+    <strong>Figura 7:</strong> Wireframe Reportes.
+  </figcaption>
+</figure>
+
+---
+<figure style="page-break-inside: avoid; text-align: center;">
+  <img src="assets/chapter04/WebWireframe8.png"
+       alt="Wireframe: Administración"
+       style="max-width: 70%; height: auto; display: block; margin: 0 auto;">
+  <figcaption style="font-size: 0.9em; color: #555;">
+    <strong>Figura 8:</strong> Wireframe Administración.
+  </figcaption>
+</figure>
+
+
 ### 4.4.2. Web Applications Wireflow Diagrams
 <img width="2576" height="916" alt="Web Applications Wireflow Diagram" src="https://github.com/user-attachments/assets/4d5247bc-d766-4593-ba97-cc59d411e93e" />
 
 ### 4.4.3. Web Applications Mock-ups
 
 **Login**
+En esta sección, los usuarios pueden crear sus cuentas para acceder a la aplicación. Es el punto de entrada que les permite gestionar y monitorear sus equipos.
+
 <img width="1600" height="1000" alt="screen" src="https://github.com/user-attachments/assets/1eaa860c-ea4b-41d0-9690-d1f125456392" />
 
+
 **Registro**
+Es el centro de control de la app. Aquí se visualiza un resumen ejecutivo de las operaciones clave: estado de los equipos, cantidad de órdenes pendientes y alertas activas. Es una vista rápida para tomar decisiones.
+
 <img width="1600" height="1000" alt="screen" src="https://github.com/user-attachments/assets/ac78a44f-fbf5-4b7d-b418-150a94d8e401" />
 
+
 **Órdenes**
+Esta sección es para gestionar los servicios técnicos. Se pueden crear, asignar y hacer seguimiento a las órdenes de trabajo para mantenimiento preventivo o correctivo, garantizando que cada tarea se complete de forma eficiente.
+
 <img width="1600" height="1181" alt="screen" src="https://github.com/user-attachments/assets/05ea25f4-0c4d-49e7-8905-0481c0c25ec2" />
 
+
 **Reportes**
+Aquí los usuarios pueden generar informes detallados. Estos reportes analizan el rendimiento de los equipos, el historial de mantenimiento y la eficiencia de los servicios, lo cual es vital para la toma de decisiones estratégicas.
+
 <img width="1600" height="1000" alt="screen" src="https://github.com/user-attachments/assets/e8f13a84-bb00-4868-8f5a-49b1f955b3a3" />
 
+
 **Sitios y Equipos**
+Esta sección funciona como un inventario centralizado. Aquí se listan y gestionan todos los sitios (ubicaciones físicas) y los equipos de refrigeración que tienen asignados.
+
 <img width="1600" height="1000" alt="screen" src="https://github.com/user-attachments/assets/be14d1d6-edd5-4da2-b89b-c9c31644dab9" />
 
+
 **Detalles del Equipo**
+Al seleccionar un equipo en particular, se accede a esta sección. Aquí se puede ver toda la información detallada del equipo: especificaciones técnicas, historial de mantenimiento, estado actual y alertas recientes.
+
 <img width="1600" height="1000" alt="screen" src="https://github.com/user-attachments/assets/edd67335-1168-434c-96be-2c0fd00fbbd8" />
 
 **Panel de Control**
 <img width="1600" height="1460" alt="screen" src="https://github.com/user-attachments/assets/5faadadd-f97d-41f5-b089-dc97c797a5fc" />
 
 **Alertas**
+Aquí se notifican y gestionan todas las incidencias importantes. Por ejemplo, si un equipo de refrigeración presenta una falla, una alerta automática aparece en esta sección, permitiendo una respuesta inmediata.
+
 <img width="1600" height="1000" alt="screen" src="https://github.com/user-attachments/assets/62f6fa99-9b06-4268-a299-fecb636f753f" />
 
+
 **Administración**
+
 <img width="1600" height="1000" alt="screen" src="https://github.com/user-attachments/assets/1d86befd-8e5f-456c-99a9-eea34027cda4" />
 
 
