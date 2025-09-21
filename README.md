@@ -1213,9 +1213,9 @@ A continuación, se detallan las convenciones de nomenclatura para diferentes ti
 ---
 
 **Repositorio de Github:**
-- Enlace para acceder a la [organización en Github](https://github.com/Grupo-1-a)
-- Enlace para acceder al repositorio de la [Landing Page]()
-- Enlace para acceder al repositorio del [Informe](https://github.com/Grupo-1-a/Report)
+- Enlace para acceder a la [organización en Github](https://github.com/1ASI0730-2520-7452-G1-FrostShield)
+- Enlace para acceder al repositorio de la [Landing Page](https://github.com/1ASI0730-2520-7452-G1-FrostShield/IceTrack---Landing-Page)
+- Enlace para acceder al repositorio del [Informe](https://github.com/1ASI0730-2520-7452-G1-FrostShield/Report)
 
 ---
 
@@ -1711,6 +1711,32 @@ En este primer Sprint hemos realizado la implementación de nuestra Landing Page
 
 #### 5.2.1.5. Execution Evidence for Sprint Review
 
+**Inicio**
+Muestra el logo de la marca, una navegación clara y un botón de "Registrarse" en un color llamativo para guiar al usuario.
+Presenta la propuesta de valor principal con una imagen atractiva y un texto impactante, capturando la atención del visitante de inmediato
+![LPEvidenceInicio.png](assets/chapter05/LPEvidenceInicio.png)
+---
+
+**Beneficios**
+Detalla las principales ventajas que los usuarios obtienen al usar el producto, mostrando cómo resuelve sus problemas de manera efectiva.
+![LPEvidenceBeneficios.png](assets/chapter05/LPEvidenceBeneficios.png)
+---
+
+**Sobre Nosotros**
+Explica la misión y visión de la empresa, compartiendo los valores y la historia para generar confianza.
+![LPEvidenceSobreNosotros.png](assets/chapter05/LPEvidenceSobreNosotros.png)
+---
+
+**Testimonios**
+Muestra opiniones de clientes satisfechos, actuando como prueba social para validar la calidad del producto o servicio.
+![LPEvidenceTestimonios.png](assets/chapter05/LPEvidenceTestimonios.png)
+---
+
+**Contacto**
+Ofrece un medio para que los usuarios se comuniquen, ya sea para pedir más información o para agendar una demostración.
+![LPEvidenceContacto.png](assets/chapter05/LPEvidenceContacto.png)
+
+
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
 
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
@@ -1732,6 +1758,9 @@ A continuación, se presenta las  secciones principales de la Landing Page despl
 **Contacto**
 ![LPEvidenceContacto.png](assets/chapter05/LPEvidenceContacto.png)
 ---
+
+URL del Landing Page desplegado: https://1asi0730-2520-7452-g1-frostshield.github.io/IceTrack---Landing-Page/
+
 #### 5.2.1.8. Team Collaboration Insights during Sprint
 
 ![Insights-LP.png](assets/chapter05/Insights-LP.png)
