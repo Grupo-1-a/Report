@@ -1231,6 +1231,227 @@ Con el fin de organizar de manera más eficiente el trabajo colaborativo, se ha 
 
 #### 5.2.1.3. Sprint Backlog 1
 
+El objetivo principal de este Sprint es elaborar la Landing Page de nuestra plataforma OsitoPolar. Para ello, dividimos el desarrollo de esta según las User Stories pertenecientes a la Epic enfocada en Landing Page. La plataforma elegida para ser la herramienta de control de tareas fue Trello, el cuál se presenta una captura de pantalla de nuestro tablero y su enlace público.
+
+Enlace: https://trello.com/b/sUPp1a6b/sprints
+
+
+
+<table border="1">
+<tr>
+    <th colspan="3">Sprint #</th>
+    <th colspan="10">Sprint 1</th>
+</tr>
+<tr>
+    <td colspan="3">User Story</td>
+    <td colspan="10">Work-Item/Task</td>
+</tr>
+<tr>
+    <td colspan="1">Id</td>
+    <td colspan="2">Title</td>
+    <td colspan="1">Id</td>
+    <td colspan="2">Title</td>
+    <td colspan="3">Description</td>
+    <td colspan="1">Estimation (Hours)</td>
+    <td colspan="2">Assigned To</td>
+    <td colspan="1">Status (To do/ In-Process/ To-Review/ Done)</td>
+</tr>
+<tr>
+    <td colspan="1">US-23</td>
+    <td colspan="2">Visualizar propuesta de valor principal</td>
+    <td colspan="1">UT-01</td>
+    <td colspan="2">Crear la sección 'Hero'</td>
+    <td colspan="3">Añadir la sección donde se muestra nuestra propuesta de valor principal</td>
+    <td colspan="1">1</td>
+    <td colspan="2">Kenyi Ramirez</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">US-24</td>
+    <td colspan="2">Explorar soluciones específicas para mi rubro</td>
+    <td colspan="1">UT-01</td>
+    <td colspan="2">Crear la sección 'Beneficios'</td>
+    <td colspan="3">Añadir la sección donde se visualizan las soluciones específicas al segmento Dueño de negocio </td>
+    <td colspan="1">1</td>
+    <td colspan="2">Ivan La Madrid</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">US-24</td>
+    <td colspan="2">Explorar soluciones específicas para mi rubro</td>
+    <td colspan="1">UT-02</td>
+    <td colspan="2">Crear la sección 'Beneficios'</td>
+    <td colspan="3">Añadir la sección donde se visualizan las soluciones específicas al segmento Proveedor de Servicios </td>
+    <td colspan="1">1</td>
+    <td colspan="2">Ivan La Madrid</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">US-28</td>
+    <td colspan="2">Acceder a la plataforma web (Call to Action)</td>
+    <td colspan="1">UT-01</td>
+    <td colspan="2">Crear el elemento Call to Action</td>
+    <td colspan="3">Añadir el elemento que redirecciona a la página de la aplicación web</td>
+    <td colspan="1">0.5</td>
+    <td colspan="2">Kenyi Ramírez</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">US-27</td>
+    <td colspan="2">Contactar con el equipo de ventas</td>
+    <td colspan="1">UT-01</td>
+    <td colspan="2">Crear la sección "Contacto"</td>
+    <td colspan="3">Agregar un formulario para contactar con los responsables de la plataforma</td>
+    <td colspan="1">1</td>
+    <td colspan="2">Julio Guillen</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">US-26</td>
+    <td colspan="2">Conocer misión y visión de la startup</td>
+    <td colspan="1">UT-01</td>
+    <td colspan="2">Crear la sección 'Nosotros'</td>
+    <td colspan="3">Añadir la sección donde se visualiza la misión y visión de nuestra startup</td>
+    <td colspan="1">1</td>
+    <td colspan="2">Alejandro Galindo</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">US-00</td>
+    <td colspan="2">-</td>
+    <td colspan="1">UT-01/td>
+    <td colspan="2">Implementar cambio de idioma</td>
+    <td colspan="3">Implementar la funcionalidad de cambio de idioma en la landing page</td>
+    <td colspan="1">1</td>
+    <td colspan="2">Kenyi Ramirez</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">US-00</td>
+    <td colspan="2">-</td>
+    <td colspan="1">UT-02/td>
+    <td colspan="2">Añadir la sección de testimonios</td>
+    <td colspan="3">Crear la sección "Testimonios" y asignar los comentarios más favorables respecto a nuestra plataforma</td>
+    <td colspan="1">1</td>
+    <td colspan="2">Pedro Nanfuñay</td>
+    <td colspan="1">Done</td>
+</tr>
+
+</table>
+
+##### 5.2.1.4. Development Evidence for Sprint Review
+
+En este primer Sprint hemos realizado la implementación de nuestra Landing Page, donde todo el equipo ha aportado en varias tareas. En la siguiente tabla se muestran los commits realizados.
+
+<table>
+    <tr>
+        <th colspan="2">Repository</th>
+        <th colspan="2">Branch</th>
+        <th colspan="2">Commit Id</th>
+        <th colspan="2">Commit Message</th>
+        <th colspan="2">Commit Message Body</th>
+        <th colspan="2">Commited on (Date)</th>
+    </tr>
+        <tr>
+        <td colspan="2">Inteligencia-Artesanal-Aplicaciones-Web/Landing-Page</td>
+        <td colspan="2">main</td>
+        <td colspan="2">9caef73</td>
+        <td colspan="2">chore: added html file</td>
+        <td colspan="2">added html file</td>
+        <td colspan="2">25/04/2025</td>
+    </tr>
+        <tr>
+        <td colspan="2">Inteligencia-Artesanal-Aplicaciones-Web/Landing-Page</td>
+        <td colspan="2">main</td>
+        <td colspan="2">ae1fd12</td>
+        <td colspan="2">feat: added header and footer section</td>
+        <td colspan="2">added header and footer section</td>
+        <td colspan="2">25/04/2025</td>
+    </tr>
+     <tr>
+        <td colspan="2">Inteligencia-Artesanal-Aplicaciones-Web/Landing-Page</td>
+        <td colspan="2">main</td>
+        <td colspan="2">10093f4</td>
+        <td colspan="2">style: Add styles</td>
+        <td colspan="2">Add styles</td>
+        <td colspan="2">25/04/2025</td>
+    </tr>
+    <tr>
+        <td colspan="2">Inteligencia-Artesanal-Aplicaciones-Web/Landing-Page</td>
+        <td colspan="2">main</td>
+        <td colspan="2">5a4332d</td>
+        <td colspan="2">feat: added script.js</td>
+        <td colspan="2">added script.js</td>
+        <td colspan="2">25/04/2025</td>
+    </tr>
+    <tr>
+        <td colspan="2">Inteligencia-Artesanal-Aplicaciones-Web/Landing-Page</td>
+        <td colspan="2">main</td>
+        <td colspan="2">72f4157</td>
+        <td colspan="2">feat: added hero section.</td>
+        <td colspan="2">added hero section.</td>
+        <td colspan="2">25/04/2025</td>
+    </tr>
+   <tr>
+        <td colspan="2">Inteligencia-Artesanal-Aplicaciones-Web/Landing-Page</td>
+        <td colspan="2">main</td>
+        <td colspan="2">e875205</td>
+        <td colspan="2">fix: fixed header section.</td>
+        <td colspan="2">fixed header section.</td>
+        <td colspan="2">25/04/2025</td>
+    </tr>
+   <tr>
+        <td colspan="2">Inteligencia-Artesanal-Aplicaciones-Web/Landing-Page</td>
+        <td colspan="2">main</td>
+        <td colspan="2">9624ec5</td>
+        <td colspan="2">feat: update hero section images and testimonials</td>
+        <td colspan="2">update hero section images and testimonials</td>
+        <td colspan="2">25/04/2025</td>
+    </tr>
+   <tr>
+        <td colspan="2">Inteligencia-Artesanal-Aplicaciones-Web/Landing-Page</td>
+        <td colspan="2">main</td>
+        <td colspan="2">9bc4018</td>
+        <td colspan="2">feat: Funcionalidades Section</td>
+        <td colspan="2">Funcionalidades Section</td>
+        <td colspan="2">25/04/2025</td>
+    </tr>
+   <tr>
+        <td colspan="2">Inteligencia-Artesanal-Aplicaciones-Web/Landing-Page</td>
+        <td colspan="2">main</td>
+        <td colspan="2">9e6c718</td>
+        <td colspan="2">feat: add language toggle button and translation functionality (WIP)</td>
+        <td colspan="2">add language toggle button and translation functionality (WIP)</td>
+        <td colspan="2">25/04/2025</td>
+    </tr>
+   <tr>
+        <td colspan="2">Inteligencia-Artesanal-Aplicaciones-Web/Landing-Page</td>
+        <td colspan="2">main</td>
+        <td colspan="2">a99916d</td>
+        <td colspan="2">feat: nosotros section</td>
+        <td colspan="2">nosotros section</td>
+        <td colspan="2">25/04/2025</td>
+    </tr>
+   <tr>
+        <td colspan="2">Inteligencia-Artesanal-Aplicaciones-Web/Landing-Page</td>
+        <td colspan="2">main</td>
+        <td colspan="2">022b681</td>
+        <td colspan="2">feat: add multilingual support for functionalities and company sections</td>
+        <td colspan="2">add multilingual support for functionalities and company sections</td>
+        <td colspan="2">25/04/2025</td>
+    </tr>
+   <tr>
+        <td colspan="2">Inteligencia-Artesanal-Aplicaciones-Web/Landing-Page</td>
+        <td colspan="2">main</td>
+        <td colspan="2">3ddec9f</td>
+        <td colspan="2">feat: update about section image to enhance visual content</td>
+        <td colspan="2">update about section image to enhance visual content</td>
+        <td colspan="2">26/04/2025</td>
+    </tr>
+
+
+</table>
+
 #### 5.2.1.4. Development Evidence for Sprint Review
 
 #### 5.2.1.5. Execution Evidence for Sprint Review
