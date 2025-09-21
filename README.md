@@ -468,7 +468,7 @@ En esta sección, se han planteado diversas preguntas dirigidas a nuestros segme
 - **Edad:** 59
 - **Distrito:** Lima
 
-![Interview-1-segment-1.png](assets/chapter02/entrevista-segmento-1.png)
+![Interview-1-segment-1.png](assets/chapter02/entrevista-1-segmento-1.png)
 
 - **Inicio:** 0:00
 - **Duración:** 3:48 min
