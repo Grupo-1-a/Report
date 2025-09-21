@@ -1235,6 +1235,7 @@ El objetivo principal de este Sprint es elaborar la Landing Page de nuestra plat
 
 Enlace: https://trello.com/b/sUPp1a6b/sprints
 
+![Sprint1-Trello.png](assets/chapter05/Sprint1-Trello.png)
 
 
 <table border="1">
@@ -1308,7 +1309,7 @@ Enlace: https://trello.com/b/sUPp1a6b/sprints
 </tr>
 <tr>
     <td colspan="1">US-26</td>
-    <td colspan="2">Conocer misión y visión de la startup</td>
+    <td colspan="2">Conocer misión y visión</td>
     <td colspan="1">UT-01</td>
     <td colspan="2">Crear la sección 'Nosotros'</td>
     <td colspan="3">Añadir la sección donde se visualiza la misión y visión de nuestra startup</td>
