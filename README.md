@@ -39,20 +39,32 @@
 |---------|------------|----------------------|-----------------------------------------------------------------|
 | 0.1     | 13/09/2025 | Kenyi Ramírez        | Elaboración de la estructura inicial del reporte                |
 | 0.2     | 13/09/2025 | Alejandro Galindo    | Desarrollo del Capitulo I                                       |
-| 0.3     | 20/09/2025 | Julio Guillen        | Desarrollo del Capitulo IV                                      |
+| TB1 | 13/09/2025 | FrostShield | Se redactaron los capítulos: <br> - Capítulo I: Introducción <br> - Capítulo II: Requirements Elicitation & Analysis <br> - Capítulo III: Requirements Specification <br> - Capítulo IV: Product Design <br> - Capítulo V: Product Implementation, Validation & Deployment (Sprint 1) |
+
 
 </div>
 
-## Project Report Collaboration Insights *(POR MODIFICAR POR CADA ENTREGA)
-- **URL de la organización del proyecto:**  
+## Project Report Collaboration Insights
 
+- **URL de la organización del proyecto:**  [https://github.com/1ASI0730-2520-7452-G1-FrostShield](https://github.com/1ASI0730-2520-7452-G1-FrostShield)
 
-- **URL del repositorio del informe del proyecto:**  
+- **URL del repositorio del informe del proyecto:**  [https://github.com/1ASI0730-2520-7452-G1-FrostShield/Report](https://github.com/1ASI0730-2520-7452-G1-FrostShield/Report)
 
+- **URL del repositorio del landing page del proyecto:**  [https://github.com/1ASI0730-2520-7452-G1-FrostShield/IceTrack---Landing-Page](https://github.com/1ASI0730-2520-7452-G1-FrostShield/IceTrack---Landing-Page)
 
-- **URL del repositorio del landing page del proyecto:**  
+**TB1:** Las tareas asignadas a la TB1 han sido finalizadas y se encuentran correctamente documentadas en el repositorio de GitHub.
 
+Durante la fase de preparación del informe, se llevaron a cabo las siguientes actividades:
 
+- Se redactaron y crearon los contenidos asignados a cada miembro utilizando formato Markdown, y se realizaron "Conventional Commits" para documentar el avance en el repositorio.
+
+- Se generaron los recursos necesarios y se añadieron las imágenes al repositorio en la carpeta "assets" correspondiente a cada rama del informe.
+
+- Se organizaron reuniones para coordinar el progreso de los componentes del informe y del Sprint 1, que estuvo enfocado en el desarrollo de la Landing Page.
+
+![InsightsTB1](assets/chapter01/Insights-TB1.png)
+
+![NetworkGraph](assets/chapter01/NetworkGraph-TB1.png)
 
 ## Contenido
 
