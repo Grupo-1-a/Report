@@ -483,7 +483,7 @@ En esta sección, se han planteado diversas preguntas dirigidas a nuestros segme
 - **Edad:** 21
 - **Distrito:** Lima
 
-![Entrevista2-segmento-1.png](assets/chapter02/entrevista-2-segmento-1.png)
+![Entrevista-2-segmento1.png](assets/chapter02/entrevista-2-segmento1.png)
 
 - **Inicio:** 0:00
 - **Duración:** 3:44 min
