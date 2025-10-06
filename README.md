@@ -672,7 +672,7 @@ En esta sección, se han planteado diversas preguntas dirigidas a nuestros segme
 
 - **Inicio:** 0:00
 - **Duración:** 3:48 min
-- **URL:** [https://bit.ly/4j6lCpZ](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20241a352_upc_edu_pe/ETKJctLbRiVHtT6Ar-dPgXoBGK4k22YajjNwWnianXrDiw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=44iERI)
+- **URL:** [https://upcedupe-my.sharepoint.com/:v:/g/personal/u20241a352_upc_edu_pe/ETKJctLbRiVHtT6Ar-dPgXoBGK4k22YajjNwWnianXrDiw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=44iERI](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20241a352_upc_edu_pe/ETKJctLbRiVHtT6Ar-dPgXoBGK4k22YajjNwWnianXrDiw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=44iERI)
 - **Resumen:** Sonia es una emprendedora que dirige un minimarket en Lima. Su negocio depende en gran medida del buen estado de sus equipos de refrigeración, ya que conserva productos perecibles como embutidos, lácteos y bebidas. Durante la entrevista comentó que ha sufrido pérdidas económicas por fallas imprevistas en sus congeladoras y señaló que no cuenta con herramientas digitales que le permitan anticipar estos problemas. Actualmente controla la temperatura de forma manual y realiza mantenimientos cada cierto tiempo, una rutina que considera necesaria pero vulnerable a errores humanos. Mostró gran interés en disponer de una solución tecnológica que le avise automáticamente de posibles fallas, le genere un historial técnico completo y le entregue reportes de cada servicio. Sonia afirmó que estaría dispuesta a pagar por este servicio si le garantiza una reducción significativa de sus pérdidas operativas. Para ella, una herramienta como IceTrack sería una opción innovadora que le permitiría profesionalizar la gestión de su negocio, asi esta entrevista evidencia la urgencia de digitalizar los procesos de mantenimiento en los pequeños empresarios.
 
 ---
@@ -1523,53 +1523,85 @@ Los wireframes de las aplicaciones web de IceTrack muestran cómo se estructuran
 En esta sección, los usuarios pueden crear sus cuentas para acceder a la aplicación. Es el punto de entrada que les permite gestionar y monitorear sus equipos.
 
 <img width="1600" height="1000" alt="screen" src="https://github.com/user-attachments/assets/1eaa860c-ea4b-41d0-9690-d1f125456392" />
+<figcaption style="font-size: 0.9em; color: #555;">
+    <strong>Figura 1:</strong> Login Mockup.
+  </figcaption>
 
-
+---
 **Registro**
 Es el centro de control de la app. Aquí se visualiza un resumen ejecutivo de las operaciones clave: estado de los equipos, cantidad de órdenes pendientes y alertas activas. Es una vista rápida para tomar decisiones.
 
 <img width="1600" height="1000" alt="screen" src="https://github.com/user-attachments/assets/ac78a44f-fbf5-4b7d-b418-150a94d8e401" />
+<figcaption style="font-size: 0.9em; color: #555;">
+    <strong>Figura 2:</strong> Register Mockup.
+  </figcaption>
 
-
+---
 **Órdenes**
 Esta sección es para gestionar los servicios técnicos. Se pueden crear, asignar y hacer seguimiento a las órdenes de trabajo para mantenimiento preventivo o correctivo, garantizando que cada tarea se complete de forma eficiente.
 
 <img width="1600" height="1181" alt="screen" src="https://github.com/user-attachments/assets/05ea25f4-0c4d-49e7-8905-0481c0c25ec2" />
+<figcaption style="font-size: 0.9em; color: #555;">
+    <strong>Figura 3:</strong> Order Mockup.
+  </figcaption>
 
-
+---
 **Reportes**
 Aquí los usuarios pueden generar informes detallados. Estos reportes analizan el rendimiento de los equipos, el historial de mantenimiento y la eficiencia de los servicios, lo cual es vital para la toma de decisiones estratégicas.
 
 <img width="1600" height="1000" alt="screen" src="https://github.com/user-attachments/assets/e8f13a84-bb00-4868-8f5a-49b1f955b3a3" />
+<figcaption style="font-size: 0.9em; color: #555;">
+    <strong>Figura 4:</strong> Register Mockup.
+  </figcaption>
 
-
+---
 **Sitios y Equipos**
 Esta sección funciona como un inventario centralizado. Aquí se listan y gestionan todos los sitios (ubicaciones físicas) y los equipos de refrigeración que tienen asignados.
 
 <img width="1600" height="1000" alt="screen" src="https://github.com/user-attachments/assets/be14d1d6-edd5-4da2-b89b-c9c31644dab9" />
+<figcaption style="font-size: 0.9em; color: #555;">
+    <strong>Figura 5:</strong> Sites & Equipment Mockup.
+  </figcaption>
 
-
+---
 **Detalles del Equipo**
 Al seleccionar un equipo en particular, se accede a esta sección. Aquí se puede ver toda la información detallada del equipo: especificaciones técnicas, historial de mantenimiento, estado actual y alertas recientes.
 
 <img width="1600" height="1000" alt="screen" src="https://github.com/user-attachments/assets/edd67335-1168-434c-96be-2c0fd00fbbd8" />
+<figcaption style="font-size: 0.9em; color: #555;">
+    <strong>Figura 6:</strong> Equipment details.
+  </figcaption>
 
+---
 **Panel de Control**
 <img width="1600" height="1460" alt="screen" src="https://github.com/user-attachments/assets/5faadadd-f97d-41f5-b089-dc97c797a5fc" />
+<figcaption style="font-size: 0.9em; color: #555;">
+    <strong>Figura 7:</strong> Dashboard Mockup.
+  </figcaption>
 
+---
 **Alertas**
 Aquí se notifican y gestionan todas las incidencias importantes. Por ejemplo, si un equipo de refrigeración presenta una falla, una alerta automática aparece en esta sección, permitiendo una respuesta inmediata.
 
 <img width="1600" height="1000" alt="screen" src="https://github.com/user-attachments/assets/62f6fa99-9b06-4268-a299-fecb636f753f" />
+<figcaption style="font-size: 0.9em; color: #555;">
+    <strong>Figura 8:</strong> Alerts Mockup.
+  </figcaption>
 
-
+---
 **Administración**
 
 <img width="1600" height="1000" alt="screen" src="https://github.com/user-attachments/assets/1d86befd-8e5f-456c-99a9-eea34027cda4" />
+<figcaption style="font-size: 0.9em; color: #555;">
+    <strong>Figura 9:</strong> Admin Mockup.
+  </figcaption>
 
-
+---
 ### 4.4.4. Web Applications User Flow Diagrams
 <img width="2576" height="1682" alt="Web Applications User Flow Diagram" src="https://github.com/user-attachments/assets/8e5073cf-0112-48be-8c50-8981410ef2c1" />
+<figcaption style="font-size: 0.9em; color: #555;">
+    <strong>Figura 1:</strong> Web Applications User Flow Diagram.
+  </figcaption>
 
 ## 4.5. Web Applications Prototyping
 
@@ -1583,20 +1615,35 @@ URL: https://www.figma.com/proto/ssl7G9KRip9XbC0tBXqUnc/Untitled?node-id=1-2&p=f
 
 ### 4.6.2. Software Architecture Context Diagram
 <img width="1297" height="591" alt="4 6 2  Software Architecture Context Diagram" src="https://github.com/user-attachments/assets/937dc662-94a6-4a84-93e8-1314bb718b74" />
+<figcaption style="font-size: 0.9em; color: #555;">
+    <strong>Figura 1:</strong> Context Diagram.
+  </figcaption>
 
 ### 4.6.3. Software Architecture Container Diagrams
 <img width="1170" height="579" alt="4 6 3  Software Architecture Container Diagrams" src="https://github.com/user-attachments/assets/a1237ca4-4b87-48f8-be42-c839fa2b179d" />
+<figcaption style="font-size: 0.9em; color: #555;">
+    <strong>Figura 1:</strong> Container Diagrams.
+  </figcaption>
 
 ### 4.6.4. Software Architecture Components Diagrams
 <img width="1614" height="1354" alt="4 6 4  Software Architecture Components Diagrams" src="https://github.com/user-attachments/assets/678227bf-4118-481d-9574-a519a721196d" />
+<figcaption style="font-size: 0.9em; color: #555;">
+    <strong>Figura 1:</strong> Components Diagrams.
+  </figcaption>
 
 ## 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
 <img width="2669" height="1621" alt="Diagrama de Clases" src="https://github.com/user-attachments/assets/96c0cbb8-7cf3-4527-98c7-6384ad68307e" />
+<figcaption style="font-size: 0.9em; color: #555;">
+    <strong>Figura 1:</strong> Class Diagram.
+  </figcaption>
 
 ## 4.8. Database Design
 ### 4.8.1. Database Diagrams
 <img width="1820" height="947" alt="base de datos diseño" src="https://github.com/user-attachments/assets/63a665ca-a53c-4915-90cc-048d36065c2a" />
+<figcaption style="font-size: 0.9em; color: #555;">
+    <strong>Figura 1:</strong> Database Diagram.
+  </figcaption>
 
 # Capítulo V: Product Implementation, Validation & Deployment
 
@@ -1719,9 +1766,9 @@ A continuación, se detallan las convenciones de nomenclatura para diferentes ti
 ---
 
 **Repositorio de Github:**
-- Enlace para acceder a la [organización en Github](https://github.com/1ASI0730-2520-7452-G1-FrostShield)
-- Enlace para acceder al repositorio de la [Landing Page](https://github.com/1ASI0730-2520-7452-G1-FrostShield/IceTrack---Landing-Page)
-- Enlace para acceder al repositorio del [Informe](https://github.com/1ASI0730-2520-7452-G1-FrostShield/Report)
+- Enlace para acceder a la organizacion en Github: https://github.com/1ASI0730-2520-7452-G1-FrostShield
+- Enlace para acceder al repositorio de la Landing Page: https://github.com/1ASI0730-2520-7452-G1-FrostShield/IceTrack---Landing-Page
+- Enlace para acceder al repositorio del Informe: https://github.com/1ASI0730-2520-7452-G1-FrostShield/Report
 
 ---
 
@@ -1944,8 +1991,11 @@ El objetivo principal de este Sprint es elaborar la Landing Page de nuestra plat
 Enlace: https://trello.com/b/sUPp1a6b/sprints
 
 ![Sprint1-Trello.png](assets/chapter05/Sprint1-Trello.png)
+<figcaption style="font-size: 0.9em; color: #555;">
+    <strong>Figura 1:</strong> Sprint Backlog 1.
+  </figcaption>
 
-
+---
 <table border="1">
 <tr>
     <th colspan="3">Sprint #</th>
