@@ -2394,6 +2394,55 @@ URL del Landing Page desplegado: https://1asi0730-2520-7452-g1-frostshield.githu
 
 #### 5.2.2.2. Aspect Leaders and Collaborators
 
+Durante este segundo sprint, el equipo se enfocó principalmente en el desarrollo, mejora estructural y visual de las aplicaciones del Frontend, asegurando su correcto funcionamiento en distintos dispositivos (diseño responsive), la integración coherente de componentes visuales e interactivos, así como la implementación de funcionalidades dinámicas que mejoran la experiencia del usuario.
+
+Con el objetivo de optimizar la organización y la colaboración del equipo, se elaboró la matriz de Liderazgo y Colaboración (LACX), la cual asigna responsabilidades y roles específicos a cada miembro del equipo en relación con los aspectos clave abordados durante el Sprint.
+
+<table border="1">
+  <tr>
+    <td colspan="2"><strong>Team Member (Last Name, First Name)</strong></td>
+    <td><strong>GitHub Username</strong></td>
+    <td><strong>Implementacion de la gestión de equipos de refrigeracion (Frontend Applications)<br>Leader (L) / Collaborator (C)</strong></td>
+    <td><strong>Responsividad y pruebas en distintos dispositivos<br>Leader (L) / Collaborator (C)</strong></td>
+    <td><strong>Despliegue de la aplicación web<br>Leader (L) / Collaborator (C)</strong></td>
+  </tr>
+  <tr>
+    <td colspan="2">Ramírez Cabrera, Kenyi Efrain</td>
+    <td>Kenyi15upc</td>
+    <td>L</td>
+    <td>C</td>
+    <td>L</td>
+  </tr>
+  <tr>
+    <td colspan="2"> Galindo Montero, Alejandro Manuel </td>
+    <td>AlejandroG12970</td>
+    <td>L</td>
+    <td>C</td>
+    <td>C</td>
+  </tr>
+  <tr>
+    <td colspan="2"> Guillen Galindo, Julio Adolfo </td>
+    <td>julio645</td>
+    <td>L</td>
+    <td>C</td>
+    <td>C</td>
+  </tr>
+  <tr>
+    <td colspan="2">La Madrid Lozano, Ivan Jeanpierre</td>
+    <td>ivanlamadrid</td>
+    <td>C</td>
+    <td>C</td>
+    <td>L</td>
+  </tr>
+  <tr>
+    <td colspan="2">Nanfuñay Liza, Pedro Jesus</td>
+    <td>PedroJ18</td>
+    <td>C</td>
+    <td>L</td>
+    <td>L</td>
+  </tr>
+</table>
+
 #### 5.2.2.3. Sprint Backlog 2
 
 #### 5.2.2.4. Development Evidence for Sprint Review
