@@ -40,6 +40,7 @@
 | 0.1     | 13/09/2025 | Kenyi Ramírez        | Elaboración de la estructura inicial del reporte                |
 | 0.2     | 13/09/2025 | Alejandro Galindo    | Desarrollo del Capitulo I                                       |
 | TB1 | 13/09/2025 | FrostShield | Se redactaron los capítulos: <br> - Capítulo I: Introducción <br> - Capítulo II: Requirements Elicitation & Analysis <br> - Capítulo III: Requirements Specification <br> - Capítulo IV: Product Design <br> - Capítulo V: Product Implementation, Validation & Deployment (Sprint 1) |
+| TP1 | 13/09/2025 | FrostShield | Se modificaron los capítulos: <br> - Capítulo II: Requirements Elicitation & Analysis <br> - Capítulo III: Requirements Specification <br> - Capítulo IV: Product Design <br> <br> Se redactaron los capítulos: <br>- Capítulo V: Product Implementation, Validation & Deployment (Sprint 2) |
 
 
 </div>
@@ -150,6 +151,15 @@ Durante la fase de preparación del informe, se llevaron a cabo las siguientes a
             - [5.2.1.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
             - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
             - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
+        - [5.2.2. Sprint 2](#522-sprint-2)
+            - [5.2.2.1. Sprint Planning 2](#5221-sprint-planning-2)
+            - [5.2.2.2. Aspect Leaders and Collaborators](#5222-aspect-leaders-and-collaborators)
+            - [5.2.2.3. Sprint Backlog 2](#5223-sprint-backlog-2)
+            - [5.2.2.4. Development Evidence for Sprint Review](#5224-development-evidence-for-sprint-review)
+            - [5.2.2.5. Execution Evidence for Sprint Review](#5225-execution-evidence-for-sprint-review)
+            - [5.2.2.6. Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review)
+            - [5.2.2.7. Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)
+            - [5.2.2.8. Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint)
 
 - [Conclusiones](#conclusiones)
 - [Bibliografía](#bibliografía)
@@ -2275,7 +2285,37 @@ URL del Landing Page desplegado: https://1asi0730-2520-7452-g1-frostshield.githu
 ![Contributors.png](assets/chapter05/Contributors.png)
 
 
+### 5.2.2. Sprint 2
+
+#### 5.2.2.1. Sprint Planning 2
+
+#### 5.2.2.2. Aspect Leaders and Collaborators
+
+#### 5.2.2.3. Sprint Backlog 2
+
+#### 5.2.2.4. Development Evidence for Sprint Review
+
+#### 5.2.2.5. Execution Evidence for Sprint Review
+
+#### 5.2.2.6. Services Documentation Evidence for Sprint Review
+
+#### 5.2.2.7. Software Deployment Evidence for Sprint Review
+
+#### 5.2.2.8. Team Collaboration Insights during Sprint
 
 
+# Conclusiones
+
+- El presente trabajo nos permitió documentar y desarrollar una plataforma que tiene como objetivo mejorar la gestión de equipos de refrigeración, brindando herramientas que permitan monitorear el estado de las mismas en tiempo real de manera eficiente.
+
+- La Landing Page fue diseñada priorizando una experiencia clara, amigable y accesible, facilitando que los visitantes comprendan rápidamente los beneficios de IceTrack. Cada sección contribuye en comunicar el valor y objetivos que IceTrack ofrece.
+
+- La interfaz del Web Application (frontend) será intuitiva y fácil de usar, de manera que los usuarios puedan hacer uso de la funcionalidades de la plataforma de manera eficiente.
+
+- El trabajo se desarrolló en un entorno colaborativo a través de la plataforma Github, donde cada integrante colaboró y asumió tareas claves para cumplir con los objetivos establecidos.
+
+# Bibliografía
+
+# Anexos
 
 
