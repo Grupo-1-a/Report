@@ -2448,6 +2448,11 @@ El objetivo principal de este Sprint es elaborar el Frontend de nuestra platafor
 
 Enlace: https://trello.com/b/mLKlTDIY/frontend
 
+![Sprint1-Trello.png](assets/chapter05/Sprint2-Trello.png)
+<figcaption style="font-size: 0.9em; color: #555;">
+    <strong>Figura 1:</strong> Sprint Backlog 1.
+  </figcaption>
+
 <table border="1">
 <tr>
     <th colspan="3">Sprint #</th>
