@@ -2757,6 +2757,16 @@ En el Sprint 2 se desplegó la primera versión de la Web Application de IceTrac
 
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review
 
+Para el presente sprint, se realizó el proceso de despliegue para la primera versión del Web Application, así como la Fake API. A continuación, se presentan las evidencias del despliegue:
+
+**Fake API:** Para el despliegue del Fake API, se creó un nuevo repositorio que contiene el db.json para su posterior despliegue en Render.
+
+![EvidenceDeployFakeAPI](./assets/chapter05/EvidenceDeployFakeAPI.png)
+
+**Web Application:** Para el despliegue del Web Application se hizo el despliegue en Vercel a partir del repositorio creado en la organización.
+
+![EvidenceDeployFrontend](./assets/chapter05/EvidenceDeployFrontend.jpg)
+
 #### 5.2.2.8. Team Collaboration Insights during Sprint
 
 ![insights-frontend.png](assets/chapter05/insights-frontend.png)
