@@ -2709,6 +2709,7 @@ En este segundo Sprint hemos realizado la implementación de nuestra Frontend, d
 
 #### 5.2.2.8. Team Collaboration Insights during Sprint
 
+![insights-frontend.png](assets/chapter05/insights-frontend.png)
 
 # Conclusiones
 
