@@ -1940,7 +1940,6 @@ URL de la Landing Page desplegada en Github Pages:
 </tr>
 </table>
 
-
 #### 5.2.1.2. Aspect Leaders and Collaborators
 
 ##### 5.2.1.2. Aspect Leaders and Collaborators
@@ -2334,10 +2333,64 @@ URL del Landing Page desplegado: https://1asi0730-2520-7452-g1-frostshield.githu
 
 ![Contributors.png](assets/chapter05/Contributors.png)
 
-
 ### 5.2.2. Sprint 2
 
 #### 5.2.2.1. Sprint Planning 2
+
+<table>
+<tr>
+    <th colspan="5">Sprint 2</th>
+    <th colspan="9">Sprint 2</th>
+  </tr>
+      <tr>
+    <td colspan="13">Sprint Planning Background</td>
+  </tr>
+  <tr>
+    <td colspan="5">Date</td>
+    <td colspan="8">2025-09-27</td>
+</tr>
+  <tr>
+    <td colspan="5">Time</td>
+    <td colspan="8">15:00 PM</td>
+  </tr>
+  <tr>
+    <td colspan="5">Location</td>
+    <td colspan="8">Via Discord</td>
+<tr>
+    <td colspan="5">Prepared By</td>
+    <td colspan="8">Kenyi Ramirez</td>
+</tr>
+<tr>
+    <td colspan="5">Attendees (to planning meeting)</td>
+    <td colspan="8">Alejandro Galindo, Julio Guillen, Ivan Lozano, Pedro Nanfuñay, Pedro Jesús</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint 2 Review Summary</td>
+    <td colspan="8">En este sprint, nos enfocamos en desarrollar el front-end y en realizar la implementación inicial de la plataforma IceTrack. Completamos las funciones principales de la página, ofreciendo a los usuarios una primera experiencia de navegación y exploración del servicio de refrigeración. El equipo cumplió con los objetivos de entrega dentro del plazo previsto, estableciendo además los cimientos de la interfaz gráfica para futuras iteraciones.
+</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint 2 Retrospective Summary</td>
+    <td colspan="8">Durante el sprint, a pesar de estar enfocado en el desarrollo técnico, permitió identificar oportunidades para mejorar nuestra dinámica de trabajo en equipo. En la retrospectiva, se destacó la necesidad de ajustar la duración de las reuniones diarias, redistribuir las tareas de acuerdo con las especialidades del equipo e incorporar una planificación individual con hitos verificables. Estas medidas tienen como objetivo incrementar la eficiencia en las próximas iteraciones.
+ </td>
+</tr>
+<tr>
+    <td colspan="13">Sprint Goal & User Stories</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint 2 Goal</td>
+       <td colspan="8">Nuestro enfoque de desarrollo se centra en la creación e implementación de la interfaz front-end de IceTrack, con el objetivo de proporcionar una experiencia de navegación fluida e intuitiva, mostrar las principales funcionalidades de la plataforma y disponer de una página de inicio funcional que comunique de manera efectiva el valor diferencial del servicio.
+</td>
+
+</tr>
+<tr>
+    <td colspan="5">Sprint 2 Velocity</td>
+    <td colspan="8">35</td>
+<tr>
+    <td colspan="5">Sum of Story Points</td>
+    <td colspan="8">30</td>
+</tr>
+</table>
 
 #### 5.2.2.2. Aspect Leaders and Collaborators
 
