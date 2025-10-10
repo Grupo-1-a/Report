@@ -52,6 +52,8 @@
 - **URL del repositorio del informe del proyecto:**  [https://github.com/1ASI0730-2520-7452-G1-FrostShield/Report](https://github.com/1ASI0730-2520-7452-G1-FrostShield/Report)
 
 - **URL del repositorio del landing page del proyecto:**  [https://github.com/1ASI0730-2520-7452-G1-FrostShield/IceTrack---Landing-Page](https://github.com/1ASI0730-2520-7452-G1-FrostShield/IceTrack---Landing-Page)
+  
+- **URL de repositorio Frontend Applications del proyecto** [https://github.com/1ASI0730-2520-7452-G1-FrostShield/IceTrack-Frontend](https://github.com/1ASI0730-2520-7452-G1-FrostShield/IceTrack-Frontend)
 
 **TB1:** Las tareas asignadas a la TB1 han sido finalizadas y se encuentran correctamente documentadas en el repositorio de GitHub.
 
@@ -62,10 +64,24 @@ Durante la fase de preparación del informe, se llevaron a cabo las siguientes a
 - Se generaron los recursos necesarios y se añadieron las imágenes al repositorio en la carpeta "assets" correspondiente a cada rama del informe.
 
 - Se organizaron reuniones para coordinar el progreso de los componentes del informe y del Sprint 1, que estuvo enfocado en el desarrollo de la Landing Page.
+  
 
 ![InsightsTB1](assets/chapter01/Insights-TB1.png)
 
 ![NetworkGraph](assets/chapter01/NetworkGraph-TB1.png)
+
+**TP1:** Las tareas asignadas a la TP1 han sido finalizadas y se encuentran correctamente documentadas en el repositorio de GitHub.
+
+- Se implementaron los bounded context de las aplicaciones Frontend del proyecto.
+
+- Se generaron los recursos necesarios y se añadieron las imágenes al repositorio en la carpeta "assets" correspondiente a cada rama del informe.
+
+- Se organizaron reuniones para coordinar el progreso de los componentes del informe y del Sprint 2, enfocado en los FrontEnd Applications y en su despliegue.
+
+
+
+
+  
 
 ## Contenido
 
