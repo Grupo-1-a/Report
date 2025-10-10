@@ -2770,4 +2770,8 @@ En el Sprint 2 se desplegó la primera versión de la Web Application de IceTrac
 
 # Anexos
 
+**Despliegue de Landing Page:** [https://1asi0730-2520-7452-g1-frostshield.github.io/IceTrack---Landing-Page/](https://1asi0730-2520-7452-g1-frostshield.github.io/IceTrack---Landing-Page/)
 
+**Despliegue de Fake API:** [https://icetrack-json-api.onrender.com/](https://icetrack-json-api.onrender.com/)
+
+**Despliegue del Frontend:** [https://ice-track-frontend.vercel.app/](https://ice-track-frontend.vercel.app/)
