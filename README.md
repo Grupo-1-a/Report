@@ -2444,8 +2444,262 @@ Con el objetivo de optimizar la organización y la colaboración del equipo, se 
 </table>
 
 #### 5.2.2.3. Sprint Backlog 2
+El objetivo principal de este Sprint es elaborar el Frontend de nuestra plataforma. Para ello, dividimos el desarrollo de esta según las User Stories pertenecientes a la Epic enfocada en la aplicacion web. La plataforma elegida para ser la herramienta de control de tareas fue Trello, el cuál se presenta una captura de pantalla de nuestro tablero y su enlace público.
+
+Enlace: https://trello.com/b/mLKlTDIY/frontend
+
+<table border="1">
+<tr>
+    <th colspan="3">Sprint #</th>
+    <th colspan="10">Sprint 2</th>
+</tr>
+<tr>
+    <td colspan="3">User Story</td>
+    <td colspan="10">Work-Item/Task</td>
+</tr>
+<tr>
+    <td colspan="1">Id</td>
+    <td colspan="2">Title</td>
+    <td colspan="1">Id</td>
+    <td colspan="2">Title</td>
+    <td colspan="3">Description</td>
+    <td colspan="1">Estimation (Hours)</td>
+    <td colspan="2">Assigned To</td>
+    <td colspan="1">Status (To do/ In-Process/ To-Review/ Done)</td>
+</tr>
+
+<tr>
+    <td colspan="1">US-01</td>
+    <td colspan="2">Registro de usuario</td>
+    <td colspan="1">UT-01</td>
+    <td colspan="2">Crear formulario de registro</td>
+    <td colspan="3">Implementar formulario con campos: nombre, correo, contraseña y confirmación.</td>
+    <td colspan="1">4</td>
+    <td colspan="2">Kenyi Ramírez</td>
+    <td colspan="1">Done</td>
+</tr>
+
+<tr>
+    <td colspan="1">US-01</td>
+    <td colspan="2">Registro de usuario</td>
+    <td colspan="1">UT-02</td>
+    <td colspan="2">Validar formato de correo y contraseñas</td>
+    <td colspan="3">Añadir validaciones visuales en tiempo real (email válido, contraseña ≥ 8 caracteres).</td>
+    <td colspan="1">3</td>
+    <td colspan="2">Kenyi Ramírez</td>
+    <td colspan="1">Done</td>
+</tr>
+
+<tr>
+    <td colspan="1">US-01</td>
+    <td colspan="2">Registro de usuario</td>
+    <td colspan="1">UT-03</td>
+    <td colspan="2">Integrar API de registro</td>
+    <td colspan="3">Enlazar el formulario con el endpoint de backend `/api/v1/users`.</td>
+    <td colspan="1">3</td>
+    <td colspan="2">Julio Guillén</td>
+    <td colspan="1">Done</td>
+</tr>
+
+<tr>
+    <td colspan="1">US-02</td>
+    <td colspan="2">Inicio de sesión</td>
+    <td colspan="1">UT-04</td>
+    <td colspan="2">Diseñar pantalla de login</td>
+    <td colspan="3">Crear vista con campos de email y contraseña, y enlace a “Olvidé mi contraseña”.</td>
+    <td colspan="1">3</td>
+    <td colspan="2">Alejandro Galindo</td>
+    <td colspan="1">Done</td>
+</tr>
+
+<tr>
+    <td colspan="1">US-02</td>
+    <td colspan="2">Inicio de sesión</td>
+    <td colspan="1">UT-05</td>
+    <td colspan="2">Integrar API de login</td>
+    <td colspan="3">Implementar autenticación usando endpoint `/api/v1/auth` y manejo de token JWT.</td>
+    <td colspan="1">4</td>
+    <td colspan="2">Julio Guillén</td>
+    <td colspan="1">Done</td>
+</tr>
+
+<tr>
+    <td colspan="1">US-14</td>
+    <td colspan="2">Registrar y gestionar técnicos</td>
+    <td colspan="1">UT-06</td>
+    <td colspan="2">Crear vista de registro de técnicos</td>
+    <td colspan="3">Implementar formulario con campos requeridos (nombre, correo, especialidad).</td>
+    <td colspan="1">3</td>
+    <td colspan="2">Iván La Madrid</td>
+    <td colspan="1">Done</td>
+</tr>
+
+<tr>
+    <td colspan="1">US-14</td>
+    <td colspan="2">Registrar y gestionar técnicos</td>
+    <td colspan="1">UT-07</td>
+    <td colspan="2">Tabla dinámica de técnicos</td>
+    <td colspan="3">Mostrar lista de técnicos con opciones de editar y eliminar registros.</td>
+    <td colspan="1">4</td>
+    <td colspan="2">Iván La Madrid</td>
+    <td colspan="1">Done</td>
+</tr>
+
+<tr>
+    <td colspan="1">US-03</td>
+    <td colspan="2">Gestionar equipos de refrigeración</td>
+    <td colspan="1">UT-08</td>
+    <td colspan="2">Crear vista de listado de equipos</td>
+    <td colspan="3">Mostrar tabla con equipos registrados (nombre, modelo, estado, fecha de instalación).</td>
+    <td colspan="1">4</td>
+    <td colspan="2">Pedro Nanfuñay</td>
+    <td colspan="1">Done</td>
+</tr>
+
+<tr>
+    <td colspan="1">US-03</td>
+    <td colspan="2">Gestionar equipos de refrigeración</td>
+    <td colspan="1">UT-09</td>
+    <td colspan="2">Crear formulario para nuevo equipo</td>
+    <td colspan="3">Diseñar formulario para registrar un nuevo equipo de refrigeración.</td>
+    <td colspan="1">3</td>
+    <td colspan="2">Pedro Nanfuñay</td>
+    <td colspan="1">Done</td>
+</tr>
+
+<tr>
+    <td colspan="1">US-03</td>
+    <td colspan="2">Gestionar equipos de refrigeración</td>
+    <td colspan="1">UT-10</td>
+    <td colspan="2">Integrar API de equipos</td>
+    <td colspan="3">Conectar la vista con el endpoint `/api/v1/equipos` para registrar y listar equipos.</td>
+    <td colspan="1">3</td>
+    <td colspan="2">Pedro Nanfuñay</td>
+    <td colspan="1">Done</td>
+</tr>
+
+<tr>
+    <td colspan="1">US-28</td>
+    <td colspan="2">Acceder a la plataforma web (Call to Action)</td>
+    <td colspan="1">UT-11</td>
+    <td colspan="2">Vincular botón “Iniciar sesión” con la app web</td>
+    <td colspan="3">Asegurar que el botón de la landing page redirija correctamente al login del portal.</td>
+    <td colspan="1">1</td>
+    <td colspan="2">Kenyi Ramírez</td>
+    <td colspan="1">Done</td>
+</tr>
+</table>
 
 #### 5.2.2.4. Development Evidence for Sprint Review
+
+En este segundo Sprint hemos realizado la implementación de nuestra Frontend, donde todo el equipo ha aportado en varias tareas. En la siguiente tabla se muestran los commits realizados.
+
+<table>
+    <tr>
+        <th colspan="2">Repository</th>
+        <th colspan="2">Branch</th>
+        <th colspan="2">Commit Id</th>
+        <th colspan="2">Commit Message</th>
+        <th colspan="2">Commit Message Body</th>
+        <th colspan="2">Committed on (Date)</th>
+    </tr>
+    <tr>
+        <td colspan="2">1ASI0730-2520-7452-G1-FrostShield/IceTrack---Frontend</td>
+        <td colspan="2">develop</td>
+        <td colspan="2">N/A</td>
+        <td colspan="2">feat(auth): add user registration form</td>
+        <td colspan="2">Implemented registration form with fields: name and confirmation.</td>
+        <td colspan="2">02/10/2025</td>
+    </tr>
+    <tr>
+        <td colspan="2">1ASI0730-2520-7452-G1-FrostShield/IceTrack---Frontend</td>
+        <td colspan="2">develop</td>
+        <td colspan="2">N/A</td>
+        <td colspan="2">feat(validation): add email and password validation</td>
+        <td colspan="2">Added real-time validation for password strength.</td>
+        <td colspan="2">02/10/2025</td>
+    </tr>
+    <tr>
+        <td colspan="2">1ASI0730-2520-7452-G1-FrostShield/IceTrack---Frontend</td>
+        <td colspan="2">develop</td>
+        <td colspan="2">N/A</td>
+        <td colspan="2">feat(api): integrate user registration API</td>
+        <td colspan="2">Linked registration form to frontend endpoint.</td>
+        <td colspan="2">01/10/2025</td>
+    </tr>
+    <tr>
+        <td colspan="2">1ASI0730-2520-7452-G1-FrostShield/IceTrack---Frontend</td>
+        <td colspan="2">develop</td>
+        <td colspan="2">N/A</td>
+        <td colspan="2">feat(ui): design login screen</td>
+        <td colspan="2">Created login view with inputs for name and password link.</td>
+        <td colspan="2">01/10/2025</td>
+    </tr>
+    <tr>
+        <td colspan="2">1ASI0730-2520-7452-G1-FrostShield/IceTrack---Frontend</td>
+        <td colspan="2">develop</td>
+        <td colspan="2">N/A</td>
+        <td colspan="2">feat(auth): integrate login API with JWT</td>
+        <td colspan="2">Implemented user authentication, managing tokens and session storage.</td>
+        <td colspan="2">01/10/2025</td>
+    </tr>
+    <tr>
+        <td colspan="2">1ASI0730-2520-7452-G1-FrostShield/IceTrack---Frontend</td>
+        <td colspan="2">develop</td>
+        <td colspan="2">N/A</td>
+        <td colspan="2">feat(technicians): add technician registration view</td>
+        <td colspan="2">Developed form for registering new technicians.</td>
+        <td colspan="2">05/10/2025</td>
+    </tr>
+    <tr>
+        <td colspan="2">1ASI0730-2520-7452-G1-FrostShield/IceTrack---Frontend</td>
+        <td colspan="2">develop</td>
+        <td colspan="2">N/A</td>
+        <td colspan="2">feat(technicians): add technicians table with edit/delete options</td>
+        <td colspan="2">Implemented dynamic table for managing technicians.</td>
+        <td colspan="2">07/10/2025</td>
+    </tr>
+    <tr>
+        <td colspan="2">1ASI0730-2520-7452-G1-FrostShield/IceTrack---Frontend</td>
+        <td colspan="2">develop</td>
+        <td colspan="2">N/A</td>
+        <td colspan="2">feat(equipment): list registered refrigeration units</td>
+        <td colspan="2">Created view displaying equipment data: name, model, state and installation date.</td>
+        <td colspan="2">03/10/2025</td>
+    </tr>
+    <tr>
+        <td colspan="2">1ASI0730-2520-7452-G1-FrostShield/IceTrack---Frontend</td>
+        <td colspan="2">develop</td>
+        <td colspan="2">N/A</td>
+        <td colspan="2">feat(equipment): add form for new equipment registration</td>
+        <td colspan="2">Implemented new equipment registration form for refrigeration systems.</td>
+        <td colspan="2">07/10/2025</td>
+    </tr>
+    <tr>
+        <td colspan="2">1ASI0730-2520-7452-G1-FrostShield/IceTrack---Frontend</td>
+        <td colspan="2">develop</td>
+        <td colspan="2">N/A</td>
+        <td colspan="2">feat(api): integrate equipment API</td>
+        <td colspan="2">Connected frontend views with `/api/v1/` for operations.</td>
+        <td colspan="2">08/10/2025</td>
+    </tr>
+    <tr>
+        <td colspan="2">1ASI0730-2520-7452-G1-FrostShield/IceTrack---Frontend</td>
+        <td colspan="2">develop</td>
+        <td colspan="2">N/A</td>
+        <td colspan="2">fix(ui): fix login redirection from landing page</td>
+        <td colspan="2">Linked “Iniciar sesión” button correctly to the web portal login page.</td>
+        <td colspan="2">09/10/2025</td>
+    </tr>
+    <tr>
+        <td colspan="2">1ASI0730-2520-7452-G1-FrostShield/IceTrack---Frontend</td>
+        <td colspan="2">develop</td>
+        <td colspan="2">N/A</td>
+        <td colspan="2">Merge branch 'develop' into feature/frontend-sprint2</td>
+        <td colspan="2">Final merge after completing Sprint 2 frontend tasks.</td>
+        <td colspan="2">09/10/2025</td>
+    </tr>
+</table>
 
 #### 5.2.2.5. Execution Evidence for Sprint Review
 
