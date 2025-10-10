@@ -2756,6 +2756,8 @@ En el Sprint 2 se desplegó la primera versión de la Web Application de IceTrac
 
 ![insights-frontend.png](assets/chapter05/insights-frontend.png)
 
+![insights2-landingpage.png](assets/chapter05/insights2-landingpage.png)
+
 # Conclusiones
 
 - El presente trabajo nos permitió documentar y desarrollar una plataforma que tiene como objetivo mejorar la gestión de equipos de refrigeración, brindando herramientas que permitan monitorear el estado de las mismas en tiempo real de manera eficiente.
