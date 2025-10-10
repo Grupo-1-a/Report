@@ -2703,6 +2703,51 @@ En este segundo Sprint hemos realizado la implementación de nuestra Frontend, d
 
 #### 5.2.2.5. Execution Evidence for Sprint Review
 
+En el Sprint 2 se desplegó la primera versión de la Web Application de IceTrack, implementando funcionalidades esenciales como el dashboard del usuario, lugares, equipos que posee el usuario, las solicitudes de servicio de mantenimiento, las alertas y los reportes generados. Estas funcionalidades permiten a los usuarios hacer uso de herramientas que permitan mejorar la gestión de equipos de refrigeración para su posterior mantenimiento y seguimiento. A continuación, se presentan las evidencias:
+
+**Dashboard:**
+
+![DashboardFrontv1](./assets/chapter05/DashboardFrontv1.png)
+
+<br>
+
+**Sites:**
+![SitesFrontv1](./assets/chapter05/SitesFrontv1.png)
+
+![SiteDetailFrontv1](./assets/chapter05/SiteDetailFrontv1.png)
+
+<br>
+
+**Equipments:**
+
+![EquipmentFrontv1](./assets/chapter05/EquipmentFrontv1.png)
+
+![EquipmentDetailFrontv1](./assets/chapter05/EquipmentDetailFrontv1.png)
+
+<br>
+
+**Service Requests:**
+
+![ServiceRequestFrontv1](./assets/chapter05/ServiceRequestFrontv1.png)
+
+![NewServiceRequestFrontv1](./assets/chapter05/NewServiceRequestFrontv1.png)
+
+<br>
+
+**Alerts:**
+
+![AlertsFrontv1](./assets/chapter05/AlertsFrontv1.png)
+
+<br>
+
+**Reports:**
+
+![ReportsFrontv1](./assets/chapter05/ReportsFrontv1.png)
+
+![EditReportFrontv1](./assets/chapter05/EditReportFrontv1.png)
+
+**Url del frontend:** [https://ice-track-frontend.vercel.app/](https://ice-track-frontend.vercel.app/)
+
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review
 
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review
